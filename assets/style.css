@@ -1,0 +1,43 @@
+:root{--bg:#0b0f17;--card:#131a26;--card2:#18212f;--line:#243044;--tx:#e6ebf2;--mu:#8b98ab;--ac:#4ea1ff;--up:#22c55e;--dn:#ef4444;--warn:#f5b642}
+*{box-sizing:border-box}html,body{margin:0}
+body{background:var(--bg);color:var(--tx);font:15px/1.7 -apple-system,BlinkMacSystemFont,"PingFang SC","Noto Sans CJK SC","Microsoft YaHei",sans-serif}
+a{color:var(--ac);text-decoration:none}a:hover{text-decoration:underline}
+.wrap{max-width:1080px;margin:0 auto;padding:0 20px}
+.top{position:sticky;top:0;z-index:9;background:rgba(11,15,23,.92);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+.bar{display:flex;align-items:center;gap:24px;height:58px}
+.brand{font-weight:700;font-size:18px;color:var(--tx)}.logo{color:var(--ac);margin-right:6px}
+nav{display:flex;gap:4px;margin-left:auto}nav a{color:var(--mu);padding:6px 12px;border-radius:8px}
+nav a.on,nav a:hover{color:var(--tx);background:var(--card2);text-decoration:none}
+.menu{display:none;margin-left:auto;background:none;border:1px solid var(--line);color:var(--tx);border-radius:8px;font-size:18px;padding:2px 10px}
+main{padding:28px 20px 48px;min-height:70vh}
+h1{font-size:26px;margin:0 0 4px}h2{font-size:18px;margin:28px 0 12px}
+.sub{color:var(--mu);margin:0 0 20px;font-size:14px}.muted{color:var(--mu)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px 20px;margin-bottom:16px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px}
+.tile{display:block;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px 18px;color:var(--tx)}
+.tile:hover{border-color:var(--ac);text-decoration:none}.tile b{display:block;font-size:16px}.tile span{color:var(--mu);font-size:13px}
+.hl{list-style:none;padding:0;margin:0}.hl li{padding:12px 0;border-bottom:1px solid var(--line);display:flex;gap:10px}
+.hl li:last-child{border:0}.tag{flex:none;font-size:12px;padding:1px 8px;border-radius:999px;background:var(--card2);color:var(--ac);border:1px solid var(--line);height:fit-content;margin-top:3px}
+.topic h3{margin:0 0 8px;font-size:16px;color:var(--ac)}.topic ul{margin:0;padding-left:18px}.topic li{margin:8px 0}
+.h{font-size:13px;margin-left:4px}.h a{margin-right:6px;white-space:nowrap}
+.unv{font-size:11px;color:var(--warn);border:1px solid var(--warn);border-radius:4px;padding:0 4px;margin-left:4px}
+.datebar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:18px}
+select{background:var(--card2);color:var(--tx);border:1px solid var(--line);border-radius:8px;padding:6px 10px;font-size:14px}
+table{width:100%;border-collapse:collapse;font-size:14px}th,td{text-align:left;padding:10px 8px;border-bottom:1px solid var(--line);vertical-align:top}
+th{color:var(--mu);font-weight:500;font-size:13px}td.t{font-weight:700;font-family:ui-monospace,Menlo,monospace}
+.up{color:var(--up)}.down{color:var(--dn)}.flat{color:var(--mu)}
+.note{color:var(--mu);font-size:13px}.src{font-size:12px;color:var(--mu);margin-top:10px;word-break:break-all}
+.empty{text-align:center;padding:48px 20px}.empty .big{font-size:40px}.empty p{color:var(--mu)}
+footer{border-top:1px solid var(--line);color:var(--mu);font-size:13px;padding:20px 0;text-align:center}
+@media(max-width:760px){
+ .menu{display:block}nav{display:none;position:absolute;top:58px;left:0;right:0;flex-direction:column;background:var(--bg);border-bottom:1px solid var(--line);padding:8px 16px}
+ .nav-open nav{display:flex}h1{font-size:22px}.card{padding:14px}
+ table,thead,tbody,tr,td{display:block}thead{display:none}tr{border-bottom:1px solid var(--line);padding:10px 0}td{border:0;padding:2px 0}
+ td[data-l]::before{content:attr(data-l)"：";color:var(--mu)}td.t{font-size:16px}
+}
+main{padding-top:36px}
+.hl li{display:grid;grid-template-columns:140px 1fr;gap:12px}.tag{justify-self:start;white-space:nowrap;max-width:140px;overflow:hidden;text-overflow:ellipsis}
+@media(max-width:760px){.hl li{grid-template-columns:1fr;gap:4px}td.empty-cell{display:none}}
+.hl li{grid-template-columns:140px minmax(0,1fr)}.hl li>div{min-width:0;overflow-wrap:anywhere}
+@media(max-width:760px){.hl li{grid-template-columns:minmax(0,1fr)}.h a{white-space:normal;display:inline-block}}
+main.wrap{padding:32px 20px 56px}

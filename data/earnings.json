@@ -6,23 +6,330 @@
     "2026-10-20": {
       "date": "2026-10-20",
       "sessions": [
-        {"name": "盘前", "sources": ["https://www.cnbc.com/2026/10/20/stocks-making-the-biggest-moves-premarket-rtx-gm-noc-stld.html"], "items": [
-          {"ticker": "RTX", "eps": "2.26 vs 1.78", "revenue": "249.7亿 vs 240.8亿", "move": "盘前 +1%", "dir": "up"},
-          {"ticker": "GM", "eps": "3.70 vs 3.69", "revenue": "500.2亿 vs 487.8亿", "notes": "全年 EPS 指引中值 13.25 低于共识 13.42；200 亿回购", "move": "盘前跌超 5%", "dir": "down", "highlight": true},
-          {"ticker": "NOC", "eps": "7.89 vs 7.18", "revenue": "111.2亿 vs 111.4亿", "move": "+0.5%", "dir": "up"},
-          {"ticker": "GE", "eps": "调整后 2.25", "revenue": "141亿（同比 +16%）", "notes": "订单 +49%，指引上调；FCF 20.4 亿低于预期 22 亿", "move": "跌近 2%", "dir": "down"},
-          {"ticker": "MMM", "eps": "2.50 vs 2.38", "revenue": "66.0亿 vs 66.1亿", "move": "+1%", "dir": "up"},
-          {"ticker": "HAL", "eps": "0.60 vs ~0.59", "revenue": "~57亿 vs ~56亿", "move": "", "dir": "flat"}
-        ]},
-        {"name": "盘后", "sources": ["https://www.cnbc.com/2026/10/20/stocks-making-the-biggest-moves-after-hours-isrg-nflx-spcx.html","https://www.investing.com/news/stock-market-news/afterhours-movers-nflx-spcx-smci-isrg-cof-ual-pega-432SI-4961130"], "items": [
-          {"ticker": "NFLX", "eps": "0.87 vs 0.82", "revenue": "128.7亿，持平预期（同比 +12%）", "notes": "Q4 EPS 指引 0.67 vs 0.73；广告收入预期从约 30 亿下调到约 27 亿", "move": "盘后跌约 4-5%", "dir": "down", "highlight": true},
-          {"ticker": "SPCX", "eps": "调整后 0.35 vs 0.15", "revenue": "146亿（同比 +161%）vs 预期约 129亿", "move": "盘后 +2%", "dir": "up"},
-          {"ticker": "SMCI", "eps": "", "revenue": "", "notes": "上调 FY27 Q1 营收指引至 185-195 亿（原 145-155 亿，预期约 150 亿）；毛利率指引 12.0-12.5%", "move": "盘后 +12-14%", "dir": "up", "highlight": true},
-          {"ticker": "ISRG", "eps": "调整后 3.00（高于预期 0.35）", "revenue": "30.5亿 vs 29.1亿", "notes": "上调指引", "move": "盘后跌约 10%", "dir": "down", "highlight": true},
-          {"ticker": "COF", "eps": "调整后约 6.69", "revenue": "约 163亿", "move": "盘后 +5%", "dir": "up"},
-          {"ticker": "UAL", "eps": "调整后 2.54", "revenue": "178.8亿，略低于预期", "notes": "Q4 指引 0.50-1.50 vs 1.88", "move": "盘后 -2%", "dir": "down"},
-          {"ticker": "PEGA", "eps": "0.35（不及）", "revenue": "3.93亿（不及）", "move": "盘后 -5%", "dir": "down"}
-        ]}
+        {
+          "name": "盘前",
+          "sources": [
+            "https://www.cnbc.com/2026/10/20/stocks-making-the-biggest-moves-premarket-rtx-gm-noc-stld.html"
+          ],
+          "items": [
+            {
+              "ticker": "RTX",
+              "eps": "2.26 vs 1.78",
+              "revenue": "249.7亿 vs 240.8亿",
+              "move": "盘前 +1%",
+              "dir": "up"
+            },
+            {
+              "ticker": "GM",
+              "eps": "3.70 vs 3.69",
+              "revenue": "500.2亿 vs 487.8亿",
+              "notes": "全年 EPS 指引中值 13.25 低于共识 13.42；200 亿回购",
+              "move": "盘前跌超 5%",
+              "dir": "down",
+              "highlight": true
+            },
+            {
+              "ticker": "NOC",
+              "eps": "7.89 vs 7.18",
+              "revenue": "111.2亿 vs 111.4亿",
+              "move": "+0.5%",
+              "dir": "up"
+            },
+            {
+              "ticker": "GE",
+              "eps": "调整后 2.25",
+              "revenue": "141亿（同比 +16%）",
+              "notes": "订单 +49%，指引上调；FCF 20.4 亿低于预期 22 亿",
+              "move": "跌近 2%",
+              "dir": "down"
+            },
+            {
+              "ticker": "MMM",
+              "eps": "2.50 vs 2.38",
+              "revenue": "66.0亿 vs 66.1亿",
+              "move": "+1%",
+              "dir": "up"
+            },
+            {
+              "ticker": "HAL",
+              "eps": "0.60 vs ~0.59",
+              "revenue": "~57亿 vs ~56亿",
+              "move": "",
+              "dir": "flat"
+            }
+          ]
+        },
+        {
+          "name": "盘后",
+          "sources": [
+            "https://www.cnbc.com/2026/10/20/stocks-making-the-biggest-moves-after-hours-isrg-nflx-spcx.html",
+            "https://www.investing.com/news/stock-market-news/afterhours-movers-nflx-spcx-smci-isrg-cof-ual-pega-432SI-4961130"
+          ],
+          "items": [
+            {
+              "ticker": "NFLX",
+              "eps": "0.87 vs 0.82",
+              "revenue": "128.7亿，持平预期（同比 +12%）",
+              "notes": "Q4 EPS 指引 0.67 vs 0.73；广告收入预期从约 30 亿下调到约 27 亿",
+              "move": "盘后跌约 4-5%",
+              "dir": "down",
+              "highlight": true
+            },
+            {
+              "ticker": "SPCX",
+              "eps": "调整后 0.35 vs 0.15",
+              "revenue": "146亿（同比 +161%）vs 预期约 129亿",
+              "move": "盘后 +2%",
+              "dir": "up"
+            },
+            {
+              "ticker": "SMCI",
+              "eps": "",
+              "revenue": "",
+              "notes": "上调 FY27 Q1 营收指引至 185-195 亿（原 145-155 亿，预期约 150 亿）；毛利率指引 12.0-12.5%",
+              "move": "盘后 +12-14%",
+              "dir": "up",
+              "highlight": true
+            },
+            {
+              "ticker": "ISRG",
+              "eps": "调整后 3.00（高于预期 0.35）",
+              "revenue": "30.5亿 vs 29.1亿",
+              "notes": "上调指引",
+              "move": "盘后跌约 10%",
+              "dir": "down",
+              "highlight": true
+            },
+            {
+              "ticker": "COF",
+              "eps": "调整后约 6.69",
+              "revenue": "约 163亿",
+              "move": "盘后 +5%",
+              "dir": "up"
+            },
+            {
+              "ticker": "UAL",
+              "eps": "调整后 2.54",
+              "revenue": "178.8亿，略低于预期",
+              "notes": "Q4 指引 0.50-1.50 vs 1.88",
+              "move": "盘后 -2%",
+              "dir": "down"
+            },
+            {
+              "ticker": "PEGA",
+              "eps": "0.35（不及）",
+              "revenue": "3.93亿（不及）",
+              "move": "盘后 -5%",
+              "dir": "down"
+            }
+          ]
+        }
+      ]
+    },
+    "2026-10-21": {
+      "date": "2026-10-21",
+      "sessions": [
+        {
+          "name": "盘前",
+          "sources": [],
+          "items": [
+            {
+              "ticker": "TMO",
+              "eps": "EPS、营收均超预期",
+              "revenue": "",
+              "notes": "全年指引上调，市场获利了结",
+              "move": "盘前跌约 2.5%",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "ABT",
+              "eps": "符合预期",
+              "revenue": "略好于预期",
+              "notes": "宣布 2027 年底前分拆营养品业务",
+              "move": "盘前跌约 1.4%",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "DHR",
+              "eps": "2.11（大幅超预期）",
+              "revenue": "略低于预期",
+              "notes": "全年指引上调",
+              "move": "盘前跌约 5.5%",
+              "dir": "down",
+              "highlight": true
+            },
+            {
+              "ticker": "T",
+              "eps": "超预期",
+              "revenue": "超预期",
+              "notes": "全年盈利指引上调；资本开支偏高",
+              "move": "盘前跌约 3.5%",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "PM",
+              "eps": "",
+              "revenue": "略低于预期",
+              "notes": "全年盈利指引不及市场预期",
+              "move": "盘前跌约 3%",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "NEE",
+              "eps": "好于预期",
+              "revenue": "80.9亿 vs 约 88.8亿",
+              "notes": "全年指引维持，有望做到区间上沿",
+              "move": "",
+              "dir": "flat",
+              "highlight": false
+            },
+            {
+              "ticker": "ELV",
+              "eps": "6.99 vs 约 4.70",
+              "revenue": "",
+              "notes": "全年指引上调到至少 29 美元",
+              "move": "盘前涨约 1.8%",
+              "dir": "up",
+              "highlight": true
+            },
+            {
+              "ticker": "MCO",
+              "eps": "低于预期",
+              "revenue": "低于预期",
+              "notes": "",
+              "move": "盘前跌约 3%",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "CME",
+              "eps": "小幅超预期",
+              "revenue": "小幅超预期",
+              "notes": "",
+              "move": "盘前跌约 1%",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "NTRS",
+              "eps": "好于预期",
+              "revenue": "",
+              "notes": "",
+              "move": "",
+              "dir": "flat",
+              "highlight": false
+            },
+            {
+              "ticker": "WAB",
+              "eps": "好于预期",
+              "revenue": "略低于预期",
+              "notes": "",
+              "move": "",
+              "dir": "flat",
+              "highlight": false
+            },
+            {
+              "ticker": "SMCI",
+              "eps": "",
+              "revenue": "",
+              "notes": "非财报：大幅上调本季营收指引，带动戴尔、HPE 上涨",
+              "move": "盘前涨约 12%",
+              "dir": "up",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "name": "盘后",
+          "sources": [],
+          "items": [
+            {
+              "ticker": "META",
+              "eps": "3.83（超预期）",
+              "revenue": "646亿（超预期）",
+              "notes": "Q4 营收指引 730–760 亿，中值高于预期；资本开支收窄到 1350–1450 亿",
+              "move": "盘后涨约 4%–5%",
+              "dir": "up",
+              "highlight": true
+            },
+            {
+              "ticker": "TSLA",
+              "eps": "略超预期",
+              "revenue": "略超预期",
+              "notes": "自由现金流 15 亿，市场原预期净流出约 49 亿；担心 AI 和机器人投入不够",
+              "move": "盘后先涨约 1.5%，后转跌约 1.8%",
+              "dir": "down",
+              "highlight": true
+            },
+            {
+              "ticker": "TXN",
+              "eps": "2.62（超预期）",
+              "revenue": "同比 +28%（超预期）",
+              "notes": "Q4 指引高于预期，财报前已涨一波",
+              "move": "盘后基本持平",
+              "dir": "flat",
+              "highlight": false
+            },
+            {
+              "ticker": "IBM",
+              "eps": "超预期",
+              "revenue": "超预期",
+              "notes": "全年自由现金流预计比去年多 10 亿美元以上",
+              "move": "盘后涨 3%–6%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "LRCX",
+              "eps": "略超预期",
+              "revenue": "略超预期",
+              "notes": "KLA、应用材料跟跌",
+              "move": "盘后跌 5%–6%",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "CSX",
+              "eps": "超预期",
+              "revenue": "超预期",
+              "notes": "",
+              "move": "盘后涨 4%–5%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "KMI",
+              "eps": "超预期",
+              "revenue": "超预期",
+              "notes": "全年 EPS 指引低于预期",
+              "move": "盘后涨约 3%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "LVS",
+              "eps": "不及预期",
+              "revenue": "不及预期",
+              "notes": "澳门业务拖累",
+              "move": "盘后跌 2%–4%",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "ROL",
+              "eps": "略低于预期",
+              "revenue": "略低于预期",
+              "notes": "",
+              "move": "盘后跌超 8%",
+              "dir": "down",
+              "highlight": false
+            }
+          ]
+        }
       ]
     }
   }

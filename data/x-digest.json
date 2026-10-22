@@ -6,39 +6,394 @@
     "2026-10-21": {
       "date": "2026-10-21",
       "topics": [
-        {"title": "地缘与油价", "items": [
-          {"text": "美伊在巴基斯坦斡旋下谈出方案的消息一度推动美股由跌转涨、油价回落，随后被否认，油价反弹，“美方已批准、伊朗初步同意”的说法（已被辟谣），第三方斡旋仍在继续", "handles": ["KobeissiLetter","qinbafrank","CausMoney"], "highlight": true},
-          {"text": "美油站上每桶 100 美元，比 10 月 6 日的低点涨了 17%", "handles": ["KobeissiLetter"], "highlight": true},
-          {"text": "据路透报道，伊朗官员承认故意拖延谈判，想在 11 月 3 日中期选举前削弱特朗普（未证实）", "handles": ["CausMoney"], "unverified": true},
-          {"text": "普京提议在 11 月深圳 APEC 期间与特朗普、习近平举行三方峰会谈俄乌问题，泽连斯基被排除在外", "handles": ["qinbafrank","CausMoney"]}
-        ]},
-        {"title": "美国楼市全面走弱", "items": [
-          {"text": "9 月成屋签约销售环比降 7.3%（预期降 0.5%），创 2001 年有统计以来新低，所有地区都在下滑", "handles": ["LizAnnSonders","KobeissiLetter","CausMoney","DiMartinoBooth"], "highlight": true},
-          {"text": "9 月新屋开工环比降 5.2%，独栋许可为 2023 年 3 月以来最低，10 月建商信心为 2012 年以来最低", "handles": ["LizAnnSonders","RenMacLLC"]},
-          {"text": "Bessent 表示仍计划在 2027 到 2028 年处理两房，前提是不扩大按揭利差", "handles": ["NickTimiraos"]}
-        ]},
-        {"title": "美联储与数据", "items": [
-          {"text": "Warsh 让市场更加相信美联储 10 月会按兵不动，也有人认为他在释放转向数量型政策的信号", "handles": ["DiMartinoBooth","LinQingV"]},
-          {"text": "费城联储服务业指数为 -23.6，物价分项升到 42.1，ADP 四周平均每周新增就业只有 1.85 万", "handles": ["LizAnnSonders"]},
-          {"text": "食品价格比 2019 年底累计涨了 34.5%，居民电价比 2025 年初涨了 11%，接近历史高位", "handles": ["KobeissiLetter"]}
-        ]},
-        {"title": "AI：股市在反弹，债市没跟上", "items": [
-          {"text": "AI 相关公司的 CDS 成本创新高，周一股市上涨，但投资级和云厂商债利差反而走阔，甲骨文 10 年期走阔了 13 个基点", "handles": ["elerianm","GunjanJS","RenMacLLC"], "highlight": true},
-          {"text": "今年 AI 相关债券发行 4190 亿美元，比 2025 年全年多 90%，他认为股市泡沫破裂前往往先变成信贷泡沫", "handles": ["charliebilello"]},
-          {"text": "CCC 级垃圾债利差升到 12.97 个百分点，接近困境水平（未证实）", "handles": ["CausMoney"], "unverified": true},
-          {"text": "对冲基金过去 5 个交易日抛售全球科技股的规模为 2016 年以来最大（未证实）", "handles": ["KobeissiLetter"], "unverified": true}
-        ]},
-        {"title": "财报", "items": [
-          {"text": "SpaceX 三季度营收 146 亿美元，同比增长 161%，AI 业务首次超过星链，但前 9 个月自由现金流为 -350 亿美元", "handles": ["qinbafrank","charliebilello","CausMoney","KobeissiLetter"], "highlight": true},
-          {"text": "马斯克称 SpaceX 和特斯拉已各自成立特别委员会，讨论合并的可能", "handles": ["KobeissiLetter"]},
-          {"text": "奈飞三季度营收增长 12%，是 2023 年以来最慢的增速，因指引偏弱盘后跌了 6% 以上", "handles": ["charliebilello","CausMoney","KobeissiLetter"]},
-          {"text": "Anthropic 上半年营收增长近 15 倍，净亏损约 807 亿美元，其中约 720 亿是非现金会计损失", "handles": ["CausMoney"]},
-          {"text": "他预计 Meta 营收会超预期，但关键要看指引和 AI 投入的回报", "handles": ["qinbafrank"]},
-          {"text": "三季度 11 个板块里有 10 个盈利增速放缓，标普远期市盈率已略低于 10 年均值", "handles": ["KobeissiLetter","LizAnnSonders"]}
-        ]},
-        {"title": "欧洲", "items": [
-          {"text": "法德 10 年期国债利差重回 150 基点以上，法债走势越来越像边缘国家", "handles": ["elerianm"]}
-        ]}
+        {
+          "title": "地缘与油价",
+          "items": [
+            {
+              "text": "美伊在巴基斯坦斡旋下谈出方案的消息一度推动美股由跌转涨、油价回落，随后被否认，油价反弹，“美方已批准、伊朗初步同意”的说法（已被辟谣），第三方斡旋仍在继续",
+              "handles": [
+                "KobeissiLetter",
+                "qinbafrank",
+                "CausMoney"
+              ],
+              "highlight": true
+            },
+            {
+              "text": "美油站上每桶 100 美元，比 10 月 6 日的低点涨了 17%",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": true
+            },
+            {
+              "text": "据路透报道，伊朗官员承认故意拖延谈判，想在 11 月 3 日中期选举前削弱特朗普（未证实）",
+              "handles": [
+                "CausMoney"
+              ],
+              "unverified": true
+            },
+            {
+              "text": "普京提议在 11 月深圳 APEC 期间与特朗普、习近平举行三方峰会谈俄乌问题，泽连斯基被排除在外",
+              "handles": [
+                "qinbafrank",
+                "CausMoney"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "美国楼市全面走弱",
+          "items": [
+            {
+              "text": "9 月成屋签约销售环比降 7.3%（预期降 0.5%），创 2001 年有统计以来新低，所有地区都在下滑",
+              "handles": [
+                "LizAnnSonders",
+                "KobeissiLetter",
+                "CausMoney",
+                "DiMartinoBooth"
+              ],
+              "highlight": true
+            },
+            {
+              "text": "9 月新屋开工环比降 5.2%，独栋许可为 2023 年 3 月以来最低，10 月建商信心为 2012 年以来最低",
+              "handles": [
+                "LizAnnSonders",
+                "RenMacLLC"
+              ]
+            },
+            {
+              "text": "Bessent 表示仍计划在 2027 到 2028 年处理两房，前提是不扩大按揭利差",
+              "handles": [
+                "NickTimiraos"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "美联储与数据",
+          "items": [
+            {
+              "text": "Warsh 让市场更加相信美联储 10 月会按兵不动，也有人认为他在释放转向数量型政策的信号",
+              "handles": [
+                "DiMartinoBooth",
+                "LinQingV"
+              ]
+            },
+            {
+              "text": "费城联储服务业指数为 -23.6，物价分项升到 42.1，ADP 四周平均每周新增就业只有 1.85 万",
+              "handles": [
+                "LizAnnSonders"
+              ]
+            },
+            {
+              "text": "食品价格比 2019 年底累计涨了 34.5%，居民电价比 2025 年初涨了 11%，接近历史高位",
+              "handles": [
+                "KobeissiLetter"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "AI：股市在反弹，债市没跟上",
+          "items": [
+            {
+              "text": "AI 相关公司的 CDS 成本创新高，周一股市上涨，但投资级和云厂商债利差反而走阔，甲骨文 10 年期走阔了 13 个基点",
+              "handles": [
+                "elerianm",
+                "GunjanJS",
+                "RenMacLLC"
+              ],
+              "highlight": true
+            },
+            {
+              "text": "今年 AI 相关债券发行 4190 亿美元，比 2025 年全年多 90%，他认为股市泡沫破裂前往往先变成信贷泡沫",
+              "handles": [
+                "charliebilello"
+              ]
+            },
+            {
+              "text": "CCC 级垃圾债利差升到 12.97 个百分点，接近困境水平（未证实）",
+              "handles": [
+                "CausMoney"
+              ],
+              "unverified": true
+            },
+            {
+              "text": "对冲基金过去 5 个交易日抛售全球科技股的规模为 2016 年以来最大（未证实）",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "unverified": true
+            }
+          ]
+        },
+        {
+          "title": "财报",
+          "items": [
+            {
+              "text": "SpaceX 三季度营收 146 亿美元，同比增长 161%，AI 业务首次超过星链，但前 9 个月自由现金流为 -350 亿美元",
+              "handles": [
+                "qinbafrank",
+                "charliebilello",
+                "CausMoney",
+                "KobeissiLetter"
+              ],
+              "highlight": true
+            },
+            {
+              "text": "马斯克称 SpaceX 和特斯拉已各自成立特别委员会，讨论合并的可能",
+              "handles": [
+                "KobeissiLetter"
+              ]
+            },
+            {
+              "text": "奈飞三季度营收增长 12%，是 2023 年以来最慢的增速，因指引偏弱盘后跌了 6% 以上",
+              "handles": [
+                "charliebilello",
+                "CausMoney",
+                "KobeissiLetter"
+              ]
+            },
+            {
+              "text": "Anthropic 上半年营收增长近 15 倍，净亏损约 807 亿美元，其中约 720 亿是非现金会计损失",
+              "handles": [
+                "CausMoney"
+              ]
+            },
+            {
+              "text": "他预计 Meta 营收会超预期，但关键要看指引和 AI 投入的回报",
+              "handles": [
+                "qinbafrank"
+              ]
+            },
+            {
+              "text": "三季度 11 个板块里有 10 个盈利增速放缓，标普远期市盈率已略低于 10 年均值",
+              "handles": [
+                "KobeissiLetter",
+                "LizAnnSonders"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "欧洲",
+          "items": [
+            {
+              "text": "法德 10 年期国债利差重回 150 基点以上，法债走势越来越像边缘国家",
+              "handles": [
+                "elerianm"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "2026-10-22": {
+      "date": "2026-10-22",
+      "topics": [
+        {
+          "title": "美股与财报",
+          "items": [
+            {
+              "text": "Meta 三季度营收同比增长 26%，达到 646 亿美元，创历史新高，但约 99 亿美元的和解金让成本大增，盘后仍涨约 5%，Reality Labs 单季又亏了 41 亿美元",
+              "handles": [
+                "charliebilello",
+                "KobeissiLetter",
+                "CausMoney"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "Meta 同日在剑桥分析案中被新墨西哥州法院判罚 250 亿美元，预计会上诉",
+              "handles": [
+                "KobeissiLetter",
+                "CausMoney"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "特斯拉三季度营收 280 亿美元，同比持平，净利润降 43%，营业利润率从 5.8% 跌到 2.6%",
+              "handles": [
+                "charliebilello"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "超微电脑把本季营收指引上调约三成，到 185 至 195 亿美元",
+              "handles": [
+                "qinbafrank"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "SpaceX 财报强劲带动 AI 股反弹，纳指周三收涨 1.05%",
+              "handles": [
+                "CausMoney",
+                "qinbafrank"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "IBM 财报超预期，盘后涨超 6%",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": false,
+              "unverified": true
+            },
+            {
+              "text": "市场集中度处在极端水平，标普前 15 大公司占指数市值 46.7%，剔除前 10 大公司后盈利同比下降 11%",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": false,
+              "unverified": true
+            },
+            {
+              "text": "今年 AI 相关公司债发行 4190 亿美元，创纪录，五大科技巨头占 37%",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "Ken Griffin 说 AI “几乎肯定”处在泡沫中，但长期仍看好",
+              "handles": [
+                "KobeissiLetter",
+                "Ritholtz"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "利率、债市与通胀",
+          "items": [
+            {
+              "text": "法国 10 年期国债收益率触及 5%，是 2002 年以来首次",
+              "handles": [
+                "elerianm"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "英国 9 月 CPI 升到 3.5%，高于预期，公共债务首次突破 3 万亿英镑",
+              "handles": [
+                "elerianm"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "他认为中国带来的商品通缩时代已经结束，美国会变成 3% 通胀、5% 收益率的经济体",
+              "handles": [
+                "biancoresearch"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "股债正相关时，美债会给 60/40 组合增加波动，所以 RenMac 把债券久期压到约 3 年",
+              "handles": [
+                "RenMacLLC"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "8 月外资持有美债升至 9.33 万亿美元，英国持仓首次破万亿，中国降到 5910 亿美元，是 2008 年以来最低",
+              "handles": [
+                "KobeissiLetter",
+                "LizAnnSonders"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "对冲基金持有约 8.5% 的美债，增持速度超过其他债权人",
+              "handles": [
+                "elerianm"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "中东石油出口已超过战前水平，但市场怀疑供应能否持续，加上库存要回补，布伦特仍在 109 美元",
+              "handles": [
+                "elerianm"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "美国楼市",
+          "items": [
+            {
+              "text": "10 月建商信心指数降到 29，是 2012 年以来最低，43% 的建商在降价",
+              "handles": [
+                "KobeissiLetter",
+                "LizAnnSonders"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "9 月待售房屋销售是三年来最弱，NAR 公布同比降 11.3%",
+              "handles": [
+                "LizAnnSonders"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "企业支付的价格升到 4 月以来最高，收取的价格却降到 4 月以来最低，利润率被挤压",
+              "handles": [
+                "LizAnnSonders"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "全美房价未来几年会在低成交量下横盘",
+              "handles": [
+                "LynAldenContact"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "地缘与其他",
+          "items": [
+            {
+              "text": "泽连斯基表示愿意按现有前线冻结停火，之后再谈安全保障",
+              "handles": [
+                "qinbafrank"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "美国私募股权基金前三季度只募到 2220 亿美元，全年有望是 2020 年以来最弱",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        }
       ]
     }
   }

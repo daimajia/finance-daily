@@ -1,1 +1,172 @@
-{"section":"iran","title":"美伊局势追踪","schedule":"不定期更新","nextIssue":null,"days":{}}
+{
+  "section": "iran",
+  "title": "美伊局势追踪",
+  "schedule": "不定期更新",
+  "nextIssue": null,
+  "days": {
+    "2026-10-21": {
+      "date": "2026-10-21",
+      "items": [
+        {
+          "text": "北京时间 20:00 汇总：阿拉格齐说伊朗愿意走外交途径，但已做好自卫准备；美方想重开霍尔木兹海峡，就得先满足伊方条件。",
+          "handles": [],
+          "source": "https://www.timesofisrael.com/liveblog_entry/araghchi-says-iran-is-ready-for-diplomacy-but-fully-prepared-to-defend-ourselves/",
+          "highlight": true
+        },
+        {
+          "text": "普京对威特科夫说，俄罗斯愿意协助解决伊朗危机。",
+          "handles": [],
+          "source": "http://kremlin.ru/events/president/transcripts/81044",
+          "highlight": false
+        },
+        {
+          "text": "埃尔比勒附近的伊朗库尔德反对派营地遭导弹袭击，库尔德斯坦自由党称被 4 枚伊朗弹道导弹打中，无伤亡。",
+          "handles": [],
+          "source": "https://www.iranintl.com/en/202610216803",
+          "highlight": false
+        },
+        {
+          "text": "伊拉克关闭了和伊朗之间最繁忙的谢卜口岸，何时恢复未定。",
+          "handles": [],
+          "source": "https://www.arabnews.com/middle-east/iraq-closes-sheeb-border-crossing-with-iran-for-urgent-security-reasons-sources-say-3007475",
+          "highlight": false
+        },
+        {
+          "text": "霍尔木兹附近一艘油轮在阿曼布哈以西约 11 海里被不明飞行物击中，火已扑灭，船员安全。",
+          "handles": [],
+          "source": "https://english.alarabiya.net/News/gulf/2026/10/21/projectile-strikes-tanker-west-of-oman-s-bukha-overlooking-hormuz-strait-ukmto-says",
+          "highlight": false
+        },
+        {
+          "text": "油价继续走高：布伦特一度涨到 109.64 美元，之后在 110 美元附近，接近五个月高点；WTI 报 98.58 美元。",
+          "handles": [],
+          "source": "https://www.cnbc.com/2026/10/21/oil-rises-on-middle-east-supply-worries.html",
+          "highlight": true
+        },
+        {
+          "text": "（未证实）美国通过巴基斯坦军方首脑传话，要伊朗在核问题上让步，否则面临大规模打击（仅黎巴嫩《消息报》单一来源）。",
+          "handles": [],
+          "source": "",
+          "highlight": false,
+          "unverified": true
+        },
+        {
+          "text": "（未证实）伊朗驻伊拉克大使称伊拉克同意驱逐境内的伊朗库尔德反对派；相关库尔德组织否认。",
+          "handles": [],
+          "source": "",
+          "highlight": false,
+          "unverified": true
+        },
+        {
+          "text": "（未证实）卡塔尔代表团在德黑兰停留不到 30 分钟就离开；伊朗媒体说法互相矛盾。",
+          "handles": [],
+          "source": "",
+          "highlight": false,
+          "unverified": true
+        },
+        {
+          "text": "（未证实）海湾石油出口据称每天超过 2400 万桶，已超战前水平（据称《华尔街日报》引用 Kpler 数据，原文未核实）。",
+          "handles": [],
+          "source": "",
+          "highlight": false,
+          "unverified": true
+        },
+        {
+          "text": "（未证实）白宫副新闻秘书称 11月3日中期选举前美国不会攻击伊朗（仅巴基斯坦 GTV 报道）。",
+          "handles": [],
+          "source": "",
+          "highlight": false,
+          "unverified": true
+        }
+      ]
+    },
+    "2026-10-22": {
+      "date": "2026-10-22",
+      "items": [
+        {
+          "text": "北京时间 08:00 汇总：革命卫队宣称防御战略转向“进攻性、非对称”，称会“入侵”任何攻击伊朗的国家，并在准备“炸弹之父”。",
+          "handles": [],
+          "source": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive",
+          "highlight": false
+        },
+        {
+          "text": "沙特达曼机场遇袭，1 死 8 伤；同日一架无人机在沙特阿美 Shaybah 油田上空被拦截，残骸致 2 人死亡。",
+          "handles": [],
+          "source": "https://www.yahoo.com/news/us/articles/exclusive-us-preparing-issue-ordered-185956446.html",
+          "highlight": true
+        },
+        {
+          "text": "美国务院下令驻沙特非紧急人员和家属撤离，原因是胡塞袭击沙特民用设施，命令只针对沙特。",
+          "handles": [],
+          "source": "https://apnews.com/article/us-saudi-arabia-yemen-houthis-fa9a4806bff404a23a16a8c209afbd2b",
+          "highlight": true
+        },
+        {
+          "text": "伊朗锡里克传出多声爆炸，IRNA 和法尔斯均未说明原因，无伤亡报告。",
+          "handles": [],
+          "source": "https://www.arabnews.com/middle-east/explosions-heard-near-strait-of-hormuz-iran-state-media-3007606",
+          "highlight": true
+        },
+        {
+          "text": "油价高位震荡：布伦特收于 108.82 美元，WTI 收于 97.15 美元。",
+          "handles": [],
+          "source": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html",
+          "highlight": false
+        },
+        {
+          "text": "美国财政部制裁协助伊朗“影子船队”的网络，包括一家巴拿马和希腊律所、5 名个人、新加坡和阿联酋航运代理及 9 艘船。",
+          "handles": [],
+          "source": "https://home.treasury.gov/news/press-releases/sb0664",
+          "highlight": false
+        },
+        {
+          "text": "美军调整中东多个基地人员，中央司令部称是“常规调动”。",
+          "handles": [],
+          "source": "https://www.nbcnews.com/politics/national-security/us-troops-diplomats-evacuating-middle-east-posts-sources-say-rcna604867",
+          "highlight": false
+        },
+        {
+          "text": "特朗普为对伊军事行动辩护，称已削弱伊朗军力、防空和经济。",
+          "handles": [],
+          "source": "https://apnews.com/article/midterm-election-congress-donald-trump-6a5e7f5e97fbba6f45e290dc6ad1a4b4",
+          "highlight": false
+        },
+        {
+          "text": "（未证实）其他海湾国家的美国使馆也会撤离家属（仅路透报道，国务院称“海湾整体撤离”说法不准确）。",
+          "handles": [],
+          "source": "",
+          "highlight": false,
+          "unverified": true
+        },
+        {
+          "text": "（未证实）美军打击了锡里克的革命卫队反舰导弹部队（X 账号 @sentdefender 说法，双方未确认）。",
+          "handles": [],
+          "source": "",
+          "highlight": false,
+          "unverified": true
+        },
+        {
+          "text": "（未证实）白宫转向支持对伊朗先发制人打击（《国土报》匿名单一信源）。",
+          "handles": [],
+          "source": "",
+          "highlight": false,
+          "unverified": true
+        },
+        {
+          "text": "（未证实）伊朗已下令把美国政治目标视为合法打击对象（匿名伊朗官员）。",
+          "handles": [],
+          "source": "https://aa.com.tr/en/middle-east/iran-threatens-to-target-us-political-assets-infrastructure-if-new-war-erupts/4096533",
+          "highlight": false,
+          "unverified": true
+        },
+        {
+          "text": "（未证实）伊朗议长卡利巴夫会见最高领袖穆杰塔巴·哈梅内伊（仅伊朗官方媒体报道，无照片视频）。",
+          "handles": [],
+          "source": "",
+          "highlight": false,
+          "unverified": true
+        }
+      ]
+    }
+  }
+}

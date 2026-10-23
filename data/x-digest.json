@@ -395,6 +395,196 @@
           ]
         }
       ]
+    },
+    "2026-10-23": {
+      "date": "2026-10-23",
+      "topics": [
+        {
+          "title": "美债避险",
+          "items": [
+            {
+              "text": "美 10 年期国债收益率单日降约 19.3 个基点，至约 4.95%，是 2023 年硅谷银行倒闭日以来最大单日降幅，科技股抛售引发避险回流",
+              "handles": [
+                "NickTimiraos",
+                "elerianm",
+                "KobeissiLetter",
+                "GunjanJS",
+                "CausMoney"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "国债大涨或预示衰退已在官方数据之前蔓延，若收益率续跌而企业信用利差走阔，融资压力可能向更广信用收缩扩散",
+              "handles": [
+                "DiMartinoBooth"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "科技与 AI 融资担忧",
+          "items": [
+            {
+              "text": "纳指 100 跌 2.9%，纳指综指跌 2.6%，是 6 月以来最大单日跌幅，约三分之二成分股上涨，权重科技股拖累全指",
+              "handles": [
+                "KobeissiLetter",
+                "charliebilello",
+                "CausMoney"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "Meta 跌约 7%，三季度自由现金流约 -21 亿美元，是上市以来首次为负，全年资本开支上调至 1350 至 1450 亿美元，五年期 CDS 升至约 115 基点创历史新高",
+              "handles": [
+                "charliebilello",
+                "KobeissiLetter",
+                "CausMoney",
+                "qinbafrank"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "OpenAI 接近最高约 300 亿美元融资、估值约 1.25 万亿美元，IPO 前过桥融资，条款仍在谈",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "法国债",
+          "items": [
+            {
+              "text": "法国 10 年期国债收益率盘中高于美债，是 2013 年以来首次，对德利差继续走阔",
+              "handles": [
+                "elerianm",
+                "KobeissiLetter"
+              ],
+              "highlight": true,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "能源与库存",
+          "items": [
+            {
+              "text": "战略石油储备上周降至约 2.827 亿桶，是 1982 年以来最低，商业原油库存也降了约 310 万桶",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "布伦特升至约 113 美元的同时美债收益率大跌，避险压过通胀叙事",
+              "handles": [
+                "elerianm"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "宏观数据",
+          "items": [
+            {
+              "text": "初请失业金 19.4 万，续请 172.8 万，堪萨斯联储制造业指数 +11，新订单大幅回落",
+              "handles": [
+                "LizAnnSonders"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "按揭申请周环比降 5.3%，连续第七周下降",
+              "handles": [
+                "LizAnnSonders"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "土耳其第六次降息 100 个基点至 36%，日本 9 月核心 CPI 同比 2.1%",
+              "handles": [
+                "charliebilello",
+                "CausMoney"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "信用与资产",
+          "items": [
+            {
+              "text": "BBB- 债券价格低于 90 的占比急升，长期国债 ETF 录得近两年最大单日涨幅约 1.7%",
+              "handles": [
+                "GunjanJS"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "Caa 与最低投资级利差约 979 基点，是 2020 年 7 月以来图表最高",
+              "handles": [
+                "DiMartinoBooth"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "佛罗里达房价较高点回撤，开普科勒尔约 -22%、那不勒斯约 -12%，美国家庭医保保费自 1999 年涨约 387%",
+              "handles": [
+                "charliebilello"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "多式联运铁路装载同比约 +13%",
+              "handles": [
+                "RenMacLLC"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "高盛估算中国 8 月在伦敦 OTC 购金约 25 吨，高于官方约 20 吨",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "特斯拉将全年资本开支指引从超过 250 亿下调至约 200 亿美元，三季度自由现金流转正",
+              "handles": [
+                "qinbafrank"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "在财政主导与能源冲击下，美联储按兵不动观望也属合理",
+              "handles": [
+                "LynAldenContact"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        }
+      ]
     }
   }
 }

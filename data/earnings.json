@@ -331,6 +331,203 @@
           ]
         }
       ]
+    },
+    "2026-10-22": {
+      "date": "2026-10-22",
+      "sessions": [
+        {
+          "name": "盘前",
+          "sources": [],
+          "items": [
+            {
+              "ticker": "PG",
+              "eps": "核心 EPS 2.00（超预期）",
+              "revenue": "233亿（超预期）",
+              "notes": "因收购 Thorne，总销售增长指引上调到 2%–4%",
+              "move": "盘前涨约 2%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "LMT",
+              "eps": "7.97（超预期）",
+              "revenue": "与预期持平",
+              "notes": "上调全年营收和利润指引",
+              "move": "盘前涨约 3%",
+              "dir": "up",
+              "highlight": true
+            },
+            {
+              "ticker": "SPOT",
+              "eps": "",
+              "revenue": "与预期持平",
+              "notes": "月活用户同比 +11% 至 7.88 亿；Q4 营收指引高于预期",
+              "move": "盘前涨约 5%",
+              "dir": "up",
+              "highlight": true
+            },
+            {
+              "ticker": "CMCSA",
+              "eps": "超预期",
+              "revenue": "超预期",
+              "notes": "Peacock 连续第二个季度盈利；宽带用户流失 14.4 万户，比预期多",
+              "move": "盘前涨约 2%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "HON",
+              "eps": "好于预期",
+              "revenue": "略低于预期",
+              "notes": "全年指引上调",
+              "move": "盘前小涨不到 1%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "UNP",
+              "eps": "略好于预期",
+              "revenue": "符合预期",
+              "notes": "燃料成本拖累市场情绪",
+              "move": "盘前小幅下跌",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "BX",
+              "eps": "每股可分配收益 1.32（同比 -13%）",
+              "revenue": "",
+              "notes": "资产管理规模和费用收入都不及预期",
+              "move": "盘前跌约 1.4%",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "AAL",
+              "eps": "",
+              "revenue": "同比 +19%",
+              "notes": "季度亏损比预期小；油价高，全年亏损指引扩大到每股 1.00–1.60 美元",
+              "move": "盘前跌约 3%–4%",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "VLO",
+              "eps": "23.90（大幅超预期）",
+              "revenue": "461亿（大幅超预期）",
+              "notes": "炼油利润率强劲",
+              "move": "盘前涨约 2%",
+              "dir": "up",
+              "highlight": true
+            },
+            {
+              "ticker": "NOK",
+              "eps": "利润超预期",
+              "revenue": "",
+              "notes": "数据中心需求推动",
+              "move": "盘前跌 3% 以上",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "DOW/NSC/CBRE/DGX",
+              "eps": "大体符合或小幅超出预期",
+              "revenue": "",
+              "notes": "简要提及",
+              "move": "",
+              "dir": "flat",
+              "highlight": false
+            },
+            {
+              "ticker": "PHM/SNA",
+              "eps": "不及预期",
+              "revenue": "",
+              "notes": "简要提及",
+              "move": "",
+              "dir": "down",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "name": "盘后",
+          "sources": [],
+          "items": [
+            {
+              "ticker": "WDC",
+              "eps": "调整后 4.64（超预期）",
+              "revenue": "43.8亿（超预期）",
+              "notes": "更多是盘中 AI 相关抛压拖累",
+              "move": "盘后跌约 6%",
+              "dir": "down",
+              "highlight": true
+            },
+            {
+              "ticker": "NEM",
+              "eps": "调整后 2.20（略超预期）",
+              "revenue": "约 63.6亿（略超预期）",
+              "notes": "全年产量指引在轨，成本展望下调",
+              "move": "盘后涨约 0.7%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "BE",
+              "eps": "大幅超预期",
+              "revenue": "大幅超预期",
+              "notes": "全年指引也高于预期",
+              "move": "盘后跌约 5%",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "DECK",
+              "eps": "",
+              "revenue": "14.8亿 vs 预期约 15.1亿",
+              "notes": "Hoka 和 UGG 偏软；全年营收指引 57–57.3 亿，低于共识约 58.8 亿",
+              "move": "盘后跌约 7%",
+              "dir": "down",
+              "highlight": true
+            },
+            {
+              "ticker": "VRSN",
+              "eps": "2.35 vs 预期 2.46",
+              "revenue": "",
+              "notes": "",
+              "move": "盘后跌约 5%",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "OMC",
+              "eps": "超预期",
+              "revenue": "超预期",
+              "notes": "",
+              "move": "盘后涨约 2%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "FIX",
+              "eps": "超预期",
+              "revenue": "",
+              "notes": "宣布财务总监将在年报后退休",
+              "move": "盘后跌约 5%",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "RNG",
+              "eps": "超预期",
+              "revenue": "超预期",
+              "notes": "",
+              "move": "盘后大涨约 14%",
+              "dir": "up",
+              "highlight": true
+            }
+          ]
+        }
+      ]
     }
   }
 }

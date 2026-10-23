@@ -84,85 +84,166 @@
       "date": "2026-10-22",
       "items": [
         {
-          "text": "北京时间 08:00 汇总：革命卫队宣称防御战略转向“进攻性、非对称”，称会“入侵”任何攻击伊朗的国家，并在准备“炸弹之父”。",
+          "text": "北京时间 20:00 汇总：特朗普公开说美国“没有在和伊朗谈判”，还说“很快会有事发生”；多家媒体报道美以已拟好中期选举（11月3日）后打击伊朗的方案；伊朗称一夜之间有 7 艘船起火或受损，布伦特涨到约 112 美元。",
           "handles": [],
-          "source": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive",
-          "highlight": false
-        },
-        {
-          "text": "沙特达曼机场遇袭，1 死 8 伤；同日一架无人机在沙特阿美 Shaybah 油田上空被拦截，残骸致 2 人死亡。",
-          "handles": [],
-          "source": "https://www.yahoo.com/news/us/articles/exclusive-us-preparing-issue-ordered-185956446.html",
+          "source": "https://www.timesofisrael.com/liveblog_entry/trump-there-are-no-negotiations-with-iran-something-will-happen-fairly-soon/",
           "highlight": true
         },
         {
-          "text": "美国务院下令驻沙特非紧急人员和家属撤离，原因是胡塞袭击沙特民用设施，命令只针对沙特。",
+          "text": "希腊表示正在执行对伊朗的相关制裁，回应美方前一天制裁一家希腊-巴拿马律所。",
           "handles": [],
-          "source": "https://apnews.com/article/us-saudi-arabia-yemen-houthis-fa9a4806bff404a23a16a8c209afbd2b",
+          "source": "https://x.com/Reuters/status/2113202461808718172",
+          "highlight": false
+        },
+        {
+          "text": "美以被曝筹划在中期选举后打击伊朗，目标包括能源设施、核设施和导弹库存；据报以色列原本想在 10 月中旬动手，被特朗普否决；白宫不予置评。",
+          "handles": [],
+          "source": "https://www.npr.org/2026/10/22/nx-s1-6011514/us-israel-iran-war",
           "highlight": true
         },
         {
-          "text": "伊朗锡里克传出多声爆炸，IRNA 和法尔斯均未说明原因，无伤亡报告。",
+          "text": "布伦特涨约 3% 至 112.17 美元，盘中最高 112.55 美元；WTI 涨到 99.83 美元；标普 500 期货跌约 1%。",
           "handles": [],
-          "source": "https://www.arabnews.com/middle-east/explosions-heard-near-strait-of-hormuz-iran-state-media-3007606",
+          "source": "https://finance.yahoo.com/energy/articles/oil-climbs-over-1-more-052014906.html",
           "highlight": true
         },
         {
-          "text": "油价高位震荡：布伦特收于 108.82 美元，WTI 收于 97.15 美元。",
+          "text": "沙特称在东部省上空拦截 4 架无人机，利雅得上空又拦截 1 架，外界认为是胡塞所为。",
           "handles": [],
-          "source": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html",
+          "source": "https://www.aa.com.tr/en/energy/oil/oil-prices-rise-on-iran-strike-reports-attacks-on-saudi-energy-facilities/60424",
           "highlight": false
         },
         {
-          "text": "美国财政部制裁协助伊朗“影子船队”的网络，包括一家巴拿马和希腊律所、5 名个人、新加坡和阿联酋航运代理及 9 艘船。",
+          "text": "革命卫队称 7 艘船起火或受损：4 艘在海湾北部转运石油时被击中，3 艘在霍尔木兹以西触雷；能确认的是伊方发表了声明，船只受损情况尚无独立核实。",
           "handles": [],
-          "source": "https://home.treasury.gov/news/press-releases/sb0664",
+          "source": "https://www.arabnews.com/middle-east/irans-navy-says-seven-vessels-hit-warns-us-of-wider-response-3007657",
+          "highlight": true
+        },
+        {
+          "text": "特朗普说美国“没有在和伊朗谈判”，“很快会有事发生，不管是哪种方式”，并称“大多数人认为会在选举之后”；与伊朗外长“仍在间接谈判”的说法相反。",
+          "handles": [],
+          "source": "https://www.timesofisrael.com/liveblog_entry/trump-there-are-no-negotiations-with-iran-something-will-happen-fairly-soon/",
+          "highlight": true
+        },
+        {
+          "text": "胡塞袭击沙特的死亡人数上升：东部省两起袭击共造成 3 人死亡，其中达曼机场 2 人死亡、8 人受伤。",
+          "handles": [],
+          "source": "https://x.com/business/status/2113070587832582311",
           "highlight": false
         },
         {
-          "text": "美军调整中东多个基地人员，中央司令部称是“常规调动”。",
-          "handles": [],
-          "source": "https://www.nbcnews.com/politics/national-security/us-troops-diplomats-evacuating-middle-east-posts-sources-say-rcna604867",
-          "highlight": false
-        },
-        {
-          "text": "特朗普为对伊军事行动辩护，称已削弱伊朗军力、防空和经济。",
-          "handles": [],
-          "source": "https://apnews.com/article/midterm-election-congress-donald-trump-6a5e7f5e97fbba6f45e290dc6ad1a4b4",
-          "highlight": false
-        },
-        {
-          "text": "（未证实）其他海湾国家的美国使馆也会撤离家属（仅路透报道，国务院称“海湾整体撤离”说法不准确）。",
+          "text": "（未证实）沙特阿美要求员工撤离达兰总部（仅路透匿名信源，阿美和沙特官方未确认）。",
           "handles": [],
           "source": "",
           "highlight": false,
           "unverified": true
         },
         {
-          "text": "（未证实）美军打击了锡里克的革命卫队反舰导弹部队（X 账号 @sentdefender 说法，双方未确认）。",
+          "text": "（未证实）伊朗威胁把美国政治目标列为合法打击对象（NPR 转述伊朗官方媒体；X 上说法更激进，未找到原文核实）。",
           "handles": [],
           "source": "",
           "highlight": false,
           "unverified": true
         },
         {
-          "text": "（未证实）白宫转向支持对伊朗先发制人打击（《国土报》匿名单一信源）。",
+          "text": "（未证实）美国可能从更多中东使馆撤离外交人员家属（路透援引美国官员；目前正式宣布的只有沙特）。",
           "handles": [],
           "source": "",
           "highlight": false,
           "unverified": true
         },
         {
-          "text": "（未证实）伊朗已下令把美国政治目标视为合法打击对象（匿名伊朗官员）。",
+          "text": "（未证实）美军打击了伊朗锡里克的反舰导弹发射车（以色列第 12 频道和开源情报账号说法，美伊官方均未确认）。",
           "handles": [],
-          "source": "https://aa.com.tr/en/middle-east/iran-threatens-to-target-us-political-assets-infrastructure-if-new-war-erupts/4096533",
+          "source": "https://www.newsquawk.com/headlines/explosions-were-reportedly-heard-in-irans-port-city-of-sirik-with-claims-that-us-forces-struck-an-anti-ship-missile-launcher-targeting-vessels-in-the-strait-of-hormuz-israels-channel-12-reports",
+          "highlight": false,
+          "unverified": true
+        }
+      ]
+    },
+    "2026-10-23": {
+      "date": "2026-10-23",
+      "items": [
+        {
+          "text": "北京时间 08:00 汇总：过去约 12 小时没有新的对伊空袭；焦点在霍尔木兹航运紧张、布伦特涨到约 112–113 美元、特朗普指责伊方“伪造”袭船推高油价，以及白宫明确中期选举前不对伊动武。",
+          "handles": [],
+          "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-ceasefire-talks-ongoing/",
+          "highlight": true
+        },
+        {
+          "text": "沙特阿美称绕开霍尔木兹的东—西管道运量从约 200 万桶/日升到约 700 万桶/日，以应对霍尔木兹扰动。",
+          "handles": [],
+          "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-ceasefire-talks-ongoing/",
+          "highlight": true
+        },
+        {
+          "text": "国务卿鲁比奥与卡塔尔首相兼外长通话，美方重申对卡塔尔安全和霍尔木兹航行自由的承诺。",
+          "handles": [],
+          "source": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-qatari-prime-minister-and-foreign-minister-al-thani/",
+          "highlight": false
+        },
+        {
+          "text": "美军中央司令部称对伊海上封锁满 100 天，已阻止伊朗至少约 250 亿美元原油出口，除获准人道援助外对伊海运进出口基本停顿。",
+          "handles": [],
+          "source": "https://x.com/CENTCOM/status/2113328696153215144",
+          "highlight": true
+        },
+        {
+          "text": "白宫发言人安娜·凯利：11月3日中期选举前任何时间都不会攻击伊朗，同时封锁仍会维持。",
+          "handles": [],
+          "source": "https://abcnews.com/Politics/us-israel-drawing-plans-resume-attacks-iran-post/story?id=137479897",
+          "highlight": true
+        },
+        {
+          "text": "布伦特约涨 3.2% 至约 112.33 美元，一度约 113 美元；WTI 约 99.29 美元。",
+          "handles": [],
+          "source": "https://finance.yahoo.com/energy/articles/oil-climbs-over-1-more-052014906.html",
+          "highlight": false
+        },
+        {
+          "text": "特朗普指责伊朗“伪造”霍尔木兹袭船事件以推高中期选举前油价；这是官方表态，不等于袭船事实本身得到证实。",
+          "handles": [],
+          "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-ceasefire-talks-ongoing/",
+          "highlight": false
+        },
+        {
+          "text": "美以据信拟订中期选举后可能恢复对伊联合打击，目标或含石化和核设施，决定权在特朗普；多源匿名信源，不是已执行的军事行动。",
+          "handles": [],
+          "source": "https://abcnews.com/Politics/us-israel-drawing-plans-resume-attacks-iran-post/story?id=137479897",
+          "highlight": false
+        },
+        {
+          "text": "（未证实）胡塞称 48 小时内袭击了沙特境内 4 处目标（CBS 写明未独立核实；沙特联军同日更多证实的是拦截无人机）。",
+          "handles": [],
+          "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-ceasefire-talks-ongoing/",
           "highlight": false,
           "unverified": true
         },
         {
-          "text": "（未证实）伊朗议长卡利巴夫会见最高领袖穆杰塔巴·哈梅内伊（仅伊朗官方媒体报道，无照片视频）。",
+          "text": "（未证实）胡塞称沙特在红海击中一艘载有 14 名印度籍人员的游艇（仅冲突一方说法，沙特未确认）。",
           "handles": [],
-          "source": "",
+          "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-ceasefire-talks-ongoing/",
+          "highlight": false,
+          "unverified": true
+        },
+        {
+          "text": "（未证实）革命卫队海军称打击或致损霍尔木兹附近 7 艘船（路透、美联社报道了宣称，美联社明确无法独立核实，UKMTO 未报告该批最新袭击）。",
+          "handles": [],
+          "source": "https://www.nbcnews.com/world/iran/iran-says-7-oil-tankers-attacked-strait-hormuz-fears-grow-return-war-rcna605108",
+          "highlight": false,
+          "unverified": true
+        },
+        {
+          "text": "（未证实）部分非主流源称阿曼斡旋下美伊间接谈判周四恢复（与特朗普“基本不在谈判”表态冲突，缺主流同日确认）。",
+          "handles": [],
+          "source": "https://ilkha.com/english/world/iran%E2%80%93us-indirect-talks-resume-amid-cautious-optimism-514506",
+          "highlight": false,
+          "unverified": true
+        },
+        {
+          "text": "（未证实）革命卫队称“万弹之父”即将亮相、学说全面进攻（属伊方威慑宣传，能力与部署无独立技术核实）。",
+          "handles": [],
+          "source": "https://www.aljazeera.com/news/2026/10/22/iran-reveals-offensive-doctrine-us-issues-alert-is-war-imminent",
           "highlight": false,
           "unverified": true
         }

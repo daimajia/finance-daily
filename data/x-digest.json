@@ -585,6 +585,170 @@
           ]
         }
       ]
+    },
+    "2026-10-24": {
+      "date": "2026-10-24",
+      "topics": [
+        {
+          "title": "油价与贵金属",
+          "items": [
+            {
+              "text": "布伦特收于约 116.7 美元，WTI 约 103 美元，是近六个月结算高位，中东供应担忧推升油价",
+              "handles": [
+                "elerianm",
+                "KobeissiLetter",
+                "CausMoney"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "现货黄金跌破每盎司 4000 美元，是 7 月以来首次",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": true,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "宏观数据",
+          "items": [
+            {
+              "text": "10 月标普全球综合 PMI 初值 57.6，制造业 56.0、服务业 57.9，销售价格指数升至 59.8，是 2022 年 8 月以来最高",
+              "handles": [
+                "CausMoney",
+                "RenMacLLC"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "密歇根 10 月信心终值上修至 48.0，一年通胀预期升至 4.7%",
+              "handles": [
+                "CausMoney",
+                "elerianm"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "堪萨斯联储服务业指数升至 +10，制造业价格支付与收到的差距扩大",
+              "handles": [
+                "LizAnnSonders"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "Mercer 预计 2027 年员工医疗福利成本升 8.2%，是 2003 年以来最大年增（未证实）",
+              "handles": [
+                "LizAnnSonders"
+              ],
+              "highlight": false,
+              "unverified": true
+            }
+          ]
+        },
+        {
+          "title": "利率与通胀",
+          "items": [
+            {
+              "text": "一年通胀预期 4.7% 不太可能促使下周美联储加息，但巩固了 12 月加息概率",
+              "handles": [
+                "elerianm",
+                "RenMacLLC"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "他认为去全球化与关税消除了廉价商品通缩缓冲，美国或卡在约 3% 通胀、约 5% 利率的世界",
+              "handles": [
+                "biancoresearch"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "10 年期美债与标普滚动相关性负向减弱，收益率更多随增长预期下行",
+              "handles": [
+                "LizAnnSonders"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "市场",
+          "items": [
+            {
+              "text": "美股收盘：道指跌约 653 点，油价拖累，标普和纳指小跌，AI 抛售暂缓",
+              "handles": [
+                "CausMoney"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "标普价值股 10 月迄今跑赢成长股约 7.8 个百分点，是 2000 年 12 月以来最大月度差距",
+              "handles": [
+                "CausMoney"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "近 60% 标普成分股处熊市，指数距新高仅约 3%（未证实）",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": false,
+              "unverified": true
+            }
+          ]
+        },
+        {
+          "title": "公司与 AI",
+          "items": [
+            {
+              "text": "美运通裁员约 5%，约 3500 人",
+              "handles": [
+                "DiMartinoBooth",
+                "KobeissiLetter"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "AI token 支出 9 月环比仅增 0.2%，是 2025 年 11 月以来最弱，高级模型单价自 7 月跌约 48%（未证实）",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": false,
+              "unverified": true
+            },
+            {
+              "text": "下周微软、谷歌、亚马逊财报才是衡量 AI 商业化的核心，权重高于 SpaceX 和 Meta",
+              "handles": [
+                "qinbafrank"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "美股回购授权今年迄今增 13%，至约 1.305 万亿美元创纪录（未证实）",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": false,
+              "unverified": true
+            }
+          ]
+        }
+      ]
     }
   }
 }

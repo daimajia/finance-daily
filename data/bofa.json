@@ -1,1 +1,53 @@
-{"section":"bofa","title":"美银牛熊指标","schedule":"每周六更新","nextIssue":"2026-10-24","days":{}}
+{
+  "section": "bofa",
+  "title": "美银牛熊指标",
+  "schedule": "每周六更新",
+  "nextIssue": "2026-10-31",
+  "days": {
+    "2026-10-24": {
+      "date": "2026-10-24",
+      "items": [
+        {
+          "text": "牛熊指标最新读数 7.2（上周 7.4；再上周曾自 8.1 回落）。中性区间，非卖出（>8）也非买入（<2）；此前 5/26 起的卖出信号已在回落至 7.4 时结束。（约 10/22 刊，对应至 10/21 当周）",
+          "handles": [],
+          "source": "https://www.investing.com/news/stock-market-news/bofa-flags-further-downside-risk-for-stocks-yields-and-dollar-4968691",
+          "highlight": true
+        },
+        {
+          "text": "继续战术性 risk-off 至 11 月中旬：预期股指、美债收益率、美元进一步下行。转机需看到：中期选举民主党横扫被充分定价、欧央行/法国稳住法债、AI 超大规模资本开支削减或大规模股权融资令 hyperscaler 信用利差见顶。",
+          "handles": [],
+          "source": "https://finance.yahoo.com/markets/stocks/articles/bofa-hartnett-sees-risk-off-094854981.html",
+          "highlight": true
+        },
+        {
+          "text": "交易上增配「峰值收益率」方向：小盘、REITs、公用事业、可选消费。",
+          "handles": [],
+          "source": "https://finance.yahoo.com/markets/stocks/articles/bofa-hartnett-sees-risk-off-094854981.html",
+          "highlight": false
+        },
+        {
+          "text": "资金流（至 10/21 当周）：股票基金净流入 556 亿美元；科技 188 亿（7 月以来最大）；新兴市场股票 335 亿（中国 170 亿、韩国 58 亿）；国债连续第 17 周流入 54 亿。可选消费流出 21 亿、公用事业流出 16 亿（均接近历史极值级别）。",
+          "handles": [],
+          "source": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-stark-warning-142203197.html",
+          "highlight": true
+        },
+        {
+          "text": "Flow Show 读数 7.2（X 来源）",
+          "handles": [
+            "MajorOcelot45"
+          ],
+          "source": "https://x.com/MajorOcelot45/status/2113501375019765912",
+          "highlight": false
+        },
+        {
+          "text": "指标 7.2（X 来源）",
+          "handles": [
+            "RichDog0"
+          ],
+          "source": "https://x.com/RichDog0/status/2113782527953633283",
+          "highlight": false
+        }
+      ]
+    }
+  }
+}

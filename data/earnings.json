@@ -528,6 +528,71 @@
           ]
         }
       ]
+    },
+    "2026-10-23": {
+      "date": "2026-10-23",
+      "sessions": [
+        {
+          "name": "盘前",
+          "sources": [],
+          "items": [
+            {
+              "ticker": "AXP",
+              "eps": "调整后 4.68 vs 预期约 4.5",
+              "revenue": "约 201亿（略低于预期）",
+              "notes": "全年利润指引上调到 17.60–17.90 美元；网络交易量不及预期",
+              "move": "盘前跌约 1%–2%",
+              "dir": "down",
+              "highlight": true
+            },
+            {
+              "ticker": "SLB",
+              "eps": "调整后 0.64（超预期）",
+              "revenue": "94.5亿（超预期，同比 +6%）",
+              "notes": "看好 2027 年国际业务和数据中心增长",
+              "move": "盘前涨约 0.9%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "INFY",
+              "eps": "",
+              "revenue": "Q2 约 51.5亿（略好于预期）",
+              "notes": "2027 财年恒定货币营收增速指引下调到 1%–2%",
+              "move": "ADR 盘前大跌约 6%–8%",
+              "dir": "down",
+              "highlight": true
+            },
+            {
+              "ticker": "FCNCA",
+              "eps": "调整后 55.37 vs 预期约 46–47",
+              "revenue": "",
+              "notes": "宣布新的回购计划",
+              "move": "股价上涨",
+              "dir": "up",
+              "highlight": true
+            },
+            {
+              "ticker": "BAH",
+              "eps": "调整后 1.76 vs 预期约 1.48",
+              "revenue": "约 28亿（大致持平）",
+              "notes": "上调 2027 财年指引",
+              "move": "盘前涨约 2%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "ALV",
+              "eps": "2.19（低于预期）",
+              "revenue": "约 27亿（低于预期）",
+              "notes": "",
+              "move": "盘前跌约 5%",
+              "dir": "down",
+              "highlight": false
+            }
+          ]
+        }
+      ]
     }
   }
 }

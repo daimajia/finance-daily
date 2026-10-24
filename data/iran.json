@@ -165,85 +165,140 @@
       "date": "2026-10-23",
       "items": [
         {
-          "text": "北京时间 08:00 汇总：过去约 12 小时没有新的对伊空袭；焦点在霍尔木兹航运紧张、布伦特涨到约 112–113 美元、特朗普指责伊方“伪造”袭船推高油价，以及白宫明确中期选举前不对伊动武。",
+          "text": "北京时间 20:00 汇总：过去 12 小时没有新一轮大规模交火，但市场和外交明显升温。布伦特原油周五升到约 5 个月高位；美、欧、中东外长在伊斯坦布尔举行首次联合磋商；胡塞继续袭击沙特。美以“中期选举后再打伊朗”的叙事仍在发酵，但还没有特朗普已批准新打击的确证。",
           "handles": [],
-          "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-ceasefire-talks-ongoing/",
+          "source": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
           "highlight": true
         },
         {
-          "text": "沙特阿美称绕开霍尔木兹的东—西管道运量从约 200 万桶/日升到约 700 万桶/日，以应对霍尔木兹扰动。",
+          "text": "布伦特原油升至约每桶 114–114.72 美元，约 5 个月高点；WTI 也升到约 101 美元上方。市场担心美以选后可能再对伊动武、海湾能源设施受威胁。",
           "handles": [],
-          "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-ceasefire-talks-ongoing/",
+          "source": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
           "highlight": true
         },
         {
-          "text": "国务卿鲁比奥与卡塔尔首相兼外长通话，美方重申对卡塔尔安全和霍尔木兹航行自由的承诺。",
+          "text": "NPR 继续报道美以正为中期选举后可能对伊再打击做准备；潜在目标包括核、导弹和部分能源设施，但特朗普是否批准仍不确定，白宫此前表态选前不大规模再打。",
           "handles": [],
-          "source": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-qatari-prime-minister-and-foreign-minister-al-thani/",
+          "source": "https://www.npr.org/2026/10/23/nx-s1-6012247/u-s-and-israel-are-planning-for-a-possible-attack-on-iran-after-the-midterms",
           "highlight": false
         },
         {
-          "text": "美军中央司令部称对伊海上封锁满 100 天，已阻止伊朗至少约 250 亿美元原油出口，除获准人道援助外对伊海运进出口基本停顿。",
+          "text": "阿联酋监测到油轮泄漏，乌姆盖万海滩受污染并关闭；当局没有将这次泄漏直接定性为当日新袭击，背景是近期霍尔木兹附近多起船只遇袭。",
           "handles": [],
-          "source": "https://x.com/CENTCOM/status/2113328696153215144",
+          "source": "https://www.euronews.com/2026/10/23/oil-spill-hits-uae-beaches-as-tanker-attacks-multiply-near-hormuz",
+          "highlight": false
+        },
+        {
+          "text": "土耳其、沙特、巴基斯坦、埃及与英、法、德、意大利等外长在伊斯坦布尔举行首次联合外长会；议程包括美伊冲突、霍尔木兹与曼德海峡通航、胡塞袭击与沙特安全。",
+          "handles": [],
+          "source": "https://www.auswaertiges-amt.de/en/newsroom/news/2807012-2807012",
           "highlight": true
         },
         {
-          "text": "白宫发言人安娜·凯利：11月3日中期选举前任何时间都不会攻击伊朗，同时封锁仍会维持。",
+          "text": "美国驻联合国大使沃尔兹称，美方可在“可预见的将来”维持对伊朗港口封锁；他还承认对峙可能再拖约一年，同时希望伊朗就高浓铀与国内浓缩达成“有意义协议”。",
           "handles": [],
-          "source": "https://abcnews.com/Politics/us-israel-drawing-plans-resume-attacks-iran-post/story?id=137479897",
-          "highlight": true
-        },
-        {
-          "text": "布伦特约涨 3.2% 至约 112.33 美元，一度约 113 美元；WTI 约 99.29 美元。",
-          "handles": [],
-          "source": "https://finance.yahoo.com/energy/articles/oil-climbs-over-1-more-052014906.html",
+          "source": "https://www.ft.com/content/70379a26-c20e-4501-aec9-a9a0089cdd3d",
           "highlight": false
         },
         {
-          "text": "特朗普指责伊朗“伪造”霍尔木兹袭船事件以推高中期选举前油价；这是官方表态，不等于袭船事实本身得到证实。",
+          "text": "沙特主导的联军称拦截并摧毁一枚射向利雅得的胡塞弹道导弹。",
           "handles": [],
-          "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-ceasefire-talks-ongoing/",
+          "source": "https://www.arabnews.com/saudi-arabia/coalition-air-defenses-down-missile-bound-for-riyadh-amid-ongoing-houthi-attacks-3007832",
           "highlight": false
         },
         {
-          "text": "美以据信拟订中期选举后可能恢复对伊联合打击，目标或含石化和核设施，决定权在特朗普；多源匿名信源，不是已执行的军事行动。",
+          "text": "（未证实）伊朗称 22日一天内有 7 艘船在霍尔木兹及周边遇袭或触雷（革命卫队单方声明；特朗普指责伊方“编造袭击抬高油价”，美中央司令部人士曾称水雷说法不实）。",
           "handles": [],
-          "source": "https://abcnews.com/Politics/us-israel-drawing-plans-resume-attacks-iran-post/story?id=137479897",
-          "highlight": false
-        },
-        {
-          "text": "（未证实）胡塞称 48 小时内袭击了沙特境内 4 处目标（CBS 写明未独立核实；沙特联军同日更多证实的是拦截无人机）。",
-          "handles": [],
-          "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-ceasefire-talks-ongoing/",
+          "source": "https://www.chinanews.com.cn/gj/2026/10-23/10719876.shtml",
           "highlight": false,
           "unverified": true
         },
         {
-          "text": "（未证实）胡塞称沙特在红海击中一艘载有 14 名印度籍人员的游艇（仅冲突一方说法，沙特未确认）。",
+          "text": "（未证实）伊朗议员称已向中东国家发“最后通牒”，再开战就把支持美国的国家列为敌对（新华社转俄新社对伊朗议员马利基的采访，单一议员表态，未见路透、美联社等独立证实）。",
           "handles": [],
-          "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-ceasefire-talks-ongoing/",
+          "source": "https://www.news.cn/world/20261023/fed71b6f48534d8a93ff0469209f68cc/c.html",
           "highlight": false,
           "unverified": true
         },
         {
-          "text": "（未证实）革命卫队海军称打击或致损霍尔木兹附近 7 艘船（路透、美联社报道了宣称，美联社明确无法独立核实，UKMTO 未报告该批最新袭击）。",
+          "text": "（未证实）“俄罗斯从布什尔核电站撤离人员”（主要见于社交媒体，未见路透、美联社、BBC 等在本窗口内证实）。",
           "handles": [],
-          "source": "https://www.nbcnews.com/world/iran/iran-says-7-oil-tankers-attacked-strait-hormuz-fears-grow-return-war-rcna605108",
+          "source": "",
+          "highlight": false,
+          "unverified": true
+        }
+      ]
+    },
+    "2026-10-24": {
+      "date": "2026-10-24",
+      "items": [
+        {
+          "text": "北京时间 08:00 汇总：特朗普在佛州造势会上再提可能对伊朗发动“又一次小型 Epic Fury”。布伦特原油收在约 116.72 美元，创约半年收盘新高。伊斯坦布尔多国外长会呼吁以外交重开霍尔木兹、反对再打一轮。革命卫队“两艘超大型油轮触雷”、美特使“周末可能动手”等说法还没有独立证实。",
+          "handles": [],
+          "source": "https://www.al-monitor.com/originals/2026/10/trump-says-us-may-do-another-military-operation-against-iran",
+          "highlight": true
+        },
+        {
+          "text": "特朗普称可能再搞一次“小型 Epic Fury”：若伊朗不“谈妥”，美方可能再发动一次小型行动。“Epic Fury”是美方对当前对伊军事行动的命名。",
+          "handles": [],
+          "source": "https://www.al-monitor.com/originals/2026/10/trump-says-us-may-do-another-military-operation-against-iran",
+          "highlight": true
+        },
+        {
+          "text": "土耳其外长费丹称，与会国均不赞成对伊朗再发动军事干预；再升级只会扩大冲突，外交是结束战争的唯一途径。法国、意大利外长也呼吁极度克制。",
+          "handles": [],
+          "source": "https://x.com/Reuters/status/2113732204429799512",
+          "highlight": false
+        },
+        {
+          "text": "R4 四国（土耳其、埃及、巴基斯坦、沙特）在伊斯坦布尔发表联合声明：支持通过对话解决冲突与霍尔木兹问题，反对打击平民与商船，并谴责胡塞对沙特与红海商船的袭击。同日还与英、法、德、意外长举行扩展会谈，未宣布美伊达成任何突破。",
+          "handles": [],
+          "source": "https://www.mfa.gov.tr/joint-statement-on-the-r4-ministerial-meeting-istanbul-23-october-2026.en.mfa",
+          "highlight": true
+        },
+        {
+          "text": "布伦特原油收于约 116.72 美元，约半年收盘新高；涨约 3.1%，盘中一度逾 117 美元；WTI 收于约 103.27 美元。",
+          "handles": [],
+          "source": "https://www.investing.com/news/commodities-news/oil-little-changed-as-supply-concern-lingers-amid-houthi-attacks-on-saudi-arabia-4967907",
+          "highlight": true
+        },
+        {
+          "text": "10 月霍尔木兹及附近水域商船袭击升至本轮冲突以来单月纪录高位。",
+          "handles": [],
+          "source": "https://x.com/Reuters/status/2113780015464690023",
+          "highlight": false
+        },
+        {
+          "text": "伊朗警告：若美以重启空袭，可能打击海湾邻国机场、管道等目标；另有伊朗安全官员对路透称，已准备在海湾切断海底通信光缆。这是威胁声明，不是已发生的打击。",
+          "handles": [],
+          "source": "https://www.iranintl.com/en/202610237641",
+          "highlight": false
+        },
+        {
+          "text": "（未证实）革命卫队称两艘超大型油轮在霍尔木兹南部触雷，据说共载逾 450 万桶原油、船员弃船；未公布船名与船旗，尚无独立船运机构证实。",
+          "handles": [],
+          "source": "",
           "highlight": false,
           "unverified": true
         },
         {
-          "text": "（未证实）部分非主流源称阿曼斡旋下美伊间接谈判周四恢复（与特朗普“基本不在谈判”表态冲突，缺主流同日确认）。",
+          "text": "（未证实）美驻土耳其大使巴拉克称“这个周末”绝对有可能打击伊朗；特朗普随后说对此“一无所知”，“周末必打”不能当作既定计划。",
           "handles": [],
-          "source": "https://ilkha.com/english/world/iran%E2%80%93us-indirect-talks-resume-amid-cautious-optimism-514506",
+          "source": "https://www.aljazeera.com/news/2026/10/23/european-middle-east-ministers-urge-us-iran-diplomacy-not-new-attacks",
           "highlight": false,
           "unverified": true
         },
         {
-          "text": "（未证实）革命卫队称“万弹之父”即将亮相、学说全面进攻（属伊方威慑宣传，能力与部署无独立技术核实）。",
+          "text": "（未证实）“俄罗斯从布什尔核电站撤离人员”（主要来自航班追踪与非官方信源，俄伊官方都没有证实）。",
           "handles": [],
-          "source": "https://www.aljazeera.com/news/2026/10/22/iran-reveals-offensive-doctrine-us-issues-alert-is-war-imminent",
+          "source": "https://www.siasat.com/russia-evacuates-staff-from-iran-nuclear-plant-amid-war-fears-3562837/",
+          "highlight": false,
+          "unverified": true
+        },
+        {
+          "text": "（未证实）《大西洋月刊》等称特朗普考虑选后再对伊朗打几天；多为知情人士转述，美官员强调尚未做决定。",
+          "handles": [],
+          "source": "https://www.iranintl.com/en/202610237641",
           "highlight": false,
           "unverified": true
         }

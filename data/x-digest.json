@@ -749,6 +749,132 @@
           ]
         }
       ]
+    },
+    "2026-10-25": {
+      "date": "2026-10-25",
+      "topics": [
+        {
+          "title": "AI 与科技",
+          "items": [
+            {
+              "text": "市场重估科技 ROI 与融资假设，纳指承压、资金避险，但长期增长信心仍在",
+              "handles": [
+                "elerianm"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "Apollo 认为 AI 故事要看标普 493 而非 Mag 7，目前科技外收入与利润率未见改善",
+              "handles": [
+                "DiMartinoBooth"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "亚马逊 CEO 称面向大客户的 AWS 算力 2026 基本售罄，2027 大部分已售或预订，2028 相当部分已承诺",
+              "handles": [
+                "qinbafrank"
+              ],
+              "highlight": true,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "宏观与物价",
+          "items": [
+            {
+              "text": "10 月标普全球制造业 PMI 初值 56.0，是 2022 年 5 月以来最高，就业增速为 2012 年 3 月以来最快",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "美国家庭雇主医保年均保费达纪录 2.8303 万美元，同比约涨 5%",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "9 月半导体及其他电子元件制造业 PPI 同比涨 26%，连续 6 个月至少涨 25%",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "加密与流动性",
+          "items": [
+            {
+              "text": "比特币跌破 8 万美元，约 1 小时内逾 2 亿美元杠杆仓位被清算",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "美联储准备金约回落至 2.96 万亿美元，财政部一般账户约 9400 至 9500 亿美元，至 10 月底国债净筹资约 1320 亿美元，指向月底流动性低点",
+              "handles": [
+                "qinbafrank"
+              ],
+              "highlight": true,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "市场结构",
+          "items": [
+            {
+              "text": "标普 500 站上 50 日均线的个股占比周五升约 5 个百分点至 61%，是 8 月中以来最高（未证实）",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": false,
+              "unverified": true
+            },
+            {
+              "text": "白银 3 个月 put-call skew 升至 -3，是 7 月初以来最高（未证实）",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": false,
+              "unverified": true
+            }
+          ]
+        },
+        {
+          "title": "其他",
+          "items": [
+            {
+              "text": "「财政主导」从机构小众框架变为主权和机构主流话语",
+              "handles": [
+                "LynAldenContact"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "希音据报同意向美国 FTC 支付 1 亿美元，和解配送延误与消费者投诉",
+              "handles": [
+                "CausMoney"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        }
+      ]
     }
   }
 }

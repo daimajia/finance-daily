@@ -875,6 +875,141 @@
           ]
         }
       ]
+    },
+    "2026-10-26": {
+      "date": "2026-10-26",
+      "topics": [
+        {
+          "title": "地缘与油价",
+          "items": [
+            {
+              "text": "特朗普称「今天不会打击伊朗」，美股期指开盘走高，标普约涨 0.5%、纳指约涨 0.7%，WTI 原油约跌 1.5%",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": true,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "宏观与信用",
+          "items": [
+            {
+              "text": "法国 10 年期国债收益率此前已升破 5%，是 2002 年以来首次，对德利差逼近欧债危机水平",
+              "handles": [
+                "charliebilello"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "美国 CCC 及以下垃圾债有效收益率约 18%，是 2020 疫情以来最高，相对国债利差约 13.4%，是 2020 年 7 月以来最宽",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "日本投资者截至 10 月 17 日当周连续第 5 周净卖出境外长期债约 10 亿美元，是约 4 年来最长连卖周数",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "马来西亚 9 月出口同比涨 54.5%，是 2021 年 4 月以来最快，电子产品拉动",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "资产与市场结构",
+          "items": [
+            {
+              "text": "今年迄今比特币约跌 7.3%、黄金约跌 7.5%，是主要资产中表现最差的两类",
+              "handles": [
+                "charliebilello"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "黄金矿股 ETF GDX 约 92% 成分股跌破 50 日均线（未证实）",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": false,
+              "unverified": true
+            },
+            {
+              "text": "存储芯片 ETF DRAM 本月以来净流出约 20 亿美元，接近基金成立以来最大月度赎回节奏（未证实）",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": false,
+              "unverified": true
+            }
+          ]
+        },
+        {
+          "title": "楼市与 AI",
+          "items": [
+            {
+              "text": "PulteHomes 称社区客流同比降 14%，过去 30 到 45 天楼市突然刹停延续至 10 月",
+              "handles": [
+                "DiMartinoBooth"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "马斯克称将出现大量「部分完工数据中心搁浅算力」，解读核心瓶颈是接电而非芯片",
+              "handles": [
+                "qinbafrank"
+              ],
+              "highlight": true,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "其他",
+          "items": [
+            {
+              "text": "本周关注：新屋销售、美联储议息、微软谷歌亚马逊英特尔财报、PCE 与三季度 GDP",
+              "handles": [
+                "KobeissiLetter",
+                "qinbafrank"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "加拿大不列颠哥伦比亚省保守党省选大胜，近百年来首次执政",
+              "handles": [
+                "CausMoney"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "中国旬度生产资料价分化：LNG 约涨 9.1%，磷酸铁锂约跌 10.2%",
+              "handles": [
+                "CausMoney"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        }
+      ]
     }
   }
 }

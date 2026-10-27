@@ -353,71 +353,152 @@
       "date": "2026-10-26",
       "items": [
         {
-          "text": "北京时间 08:00 汇总：特朗普明确排除“今天”对伊朗动武，同时仍在权衡“达成协议”还是“彻底了结”。伊朗称仍通过中间方传话、外交窗口未关；卡塔尔人员赴德黑兰斡旋；美军中央司令部司令巡视霍尔木兹；周一亚盘油价自六个月高位小幅回落。全面复燃战火的风险仍在，但周日没有新的大规模美伊交火被主流媒体证实。",
+          "text": "北京时间 20:00 汇总：美伊仍处“一边备战、一边谈”。沙特、巴基斯坦、土耳其高官已在德黑兰谈降温；美方匿名官员对媒体称部队可在特朗普下令后约 96 小时内发动更大规模打击，但白宫未证实、总统尚未拍板。布伦特原油早盘仍在约每桶 115 美元附近。",
           "handles": [],
-          "source": "https://fortune.com/2026/10/25/iran-war-messages-us-intermediaries-diplomacy-negotiations/",
+          "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/",
           "highlight": true
         },
         {
-          "text": "油价自六个月高位回落。周一亚盘，布伦特跌破每桶约 116 美元，WTI 靠近约 102 美元；上周五布伦特曾收于约 116.72 美元。",
+          "text": "以色列国防部长卡茨否认“内塔尼亚胡与总参谋长因伊朗指令闹翻”。以色列第 12 频道周日曾报道政军争执；卡茨周一称这类报道“完全没有根据”。",
           "handles": [],
-          "source": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/oil-edges-lower-six-month-high-traders-assess-iran-risks",
-          "highlight": true
-        },
-        {
-          "text": "卡塔尔谈判人员在德黑兰斡旋降温。知情官员称卡塔尔人员当日在德黑兰就缓和紧张局势斡旋，并称与美方有协调。",
-          "handles": [],
-          "source": "https://news.cri.cn/20261026/ebafb5fc-4d9c-cd97-bd19-1a95e344f33e.html",
-          "highlight": true
-        },
-        {
-          "text": "伊朗称仍通过中间方向美传话，外交窗口未关。外交部发言人巴盖伊对德媒表示，德黑兰未关闭外交窗口，并批评美方坚持单边要求、反复提“彻底投降”。",
-          "handles": [],
-          "source": "https://fortune.com/2026/10/25/iran-war-messages-us-intermediaries-diplomacy-negotiations/",
-          "highlight": true
-        },
-        {
-          "text": "特朗普：今天不会对伊朗发动打击。离开白宫前往密歇根前对记者说：“答案是否定的，今天不会有打击。”未排除之后再动手。",
-          "handles": [],
-          "source": "https://fortune.com/2026/10/25/iran-war-messages-us-intermediaries-diplomacy-negotiations/",
-          "highlight": true
-        },
-        {
-          "text": "内塔尼亚胡警告伊朗或其代理人或在以色列大选前发动袭击。他说有情报显示可能为干扰周二选举发动攻击，威胁将予以“不成比例”的回击。",
-          "handles": [],
-          "source": "https://fortune.com/2026/10/25/iran-war-messages-us-intermediaries-diplomacy-negotiations/",
+          "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/",
           "highlight": false
         },
         {
-          "text": "美军中央司令部司令巡视霍尔木兹海峡。司令布拉德·库珀乘坐 CH-47 飞越霍尔木兹，称过去六个月超 3000 艘商船通行，并称主要航道已清除伊方水雷。",
+          "text": "伊朗外交部：以色列大选结果“对我们没有区别”。发言人巴盖伊称，无论谁赢得以色列立法选举，对德黑兰都没有区别。",
           "handles": [],
-          "source": "https://x.com/CENTCOM/status/2114396985977426077",
+          "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/",
           "highlight": false
         },
         {
-          "text": "特朗普称正权衡“与伊朗达成协议”还是“彻底了结”。他在 Fox 节目上说：“现在的问题是：我是和他们做交易，还是把他们了结掉？”",
+          "text": "布伦特原油早盘约 115 美元/桶。上周末因中东与乌克兰供应担忧推高后小幅回落，但仍处高位。",
           "handles": [],
-          "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/",
+          "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/",
           "highlight": true
         },
         {
-          "text": "（未证实）南部锡里克反舰导弹发射装置遭袭、爆炸。开源账户称美军打击了霍尔木兹甘省锡里克一带发射装置；伊朗官方媒体仅确认附近有爆炸声，未说明原因，美方也没有公开证实。",
+          "text": "UKMTO 周一核实：霍尔木兹海峡一艘油轮遭不明投射物击中并瘫痪。通报约 17:34；袭击本身发生在 23 日。船员安全，尚无损害与环境影响评估。",
           "handles": [],
-          "source": "https://x.com/i/trending/2114480797214204127",
+          "source": "https://www.ukmto.org/recent-incidents",
+          "highlight": true
+        },
+        {
+          "text": "沙特、巴基斯坦、土耳其高官在德黑兰与伊方会谈。沙特国防大臣、巴基斯坦陆军参谋长、土耳其情报负责人与伊朗最高国家安全委员会等官员谈地区安全与降温。",
+          "handles": [],
+          "source": "https://apnews.com/article/iran-israel-us-war-10-26-2026-36486edb61b3bf4e0df67e8a17123e44",
+          "highlight": true
+        },
+        {
+          "text": "胡塞与沙特主导的联军就利雅得机场再起冲突说法不一。胡塞称周日复航数小时后对其发动袭击；沙特主导的联军称拦截并摧毁一枚射向利雅得的弹道导弹。双方对是否命中机场说法冲突。",
+          "handles": [],
+          "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/",
+          "highlight": false
+        },
+        {
+          "text": "（未证实）美媒称美军可在特朗普下令后约 96 小时内对伊朗发动更大规模打击。CNN 援引两名美方官员，目标清单可能包括能源、军事与核设施；白宫拒评。核心细节来自匿名官员，白宫未确认。",
+          "handles": [],
+          "source": "https://www.cnn.com/2026/10/26/politics/us-iran-strike-plans-trump",
           "highlight": false,
           "unverified": true
         },
         {
-          "text": "（未证实）“美伊已达成和解、战争结束”。无白宫或可靠主流媒体佐证，与特朗普“今日不打但仍在权衡”的表态矛盾，属谣言。",
+          "text": "（未证实）“内塔尼亚胡曾推动选前联手打伊朗、特朗普未开绿灯”。以总理办公室称相关说法为“假新闻”。",
+          "handles": [],
+          "source": "https://www.cnn.com/2026/10/26/politics/us-iran-strike-plans-trump",
+          "highlight": false,
+          "unverified": true
+        },
+        {
+          "text": "（未证实）X 上流传“伊朗媒体教民众防美军战术核打击”等说法。非主流媒体一手报道，无交叉证实。",
           "handles": [],
           "source": "",
           "highlight": false,
           "unverified": true
         },
         {
-          "text": "（未证实）“伊朗正准备对以色列和阿联酋报复”。Business Times 引述“熟悉德黑兰想法的人士”。单一匿名信源，未获伊朗官方或第二家主流确认。",
+          "text": "（未证实）开源情报称 25 日锡里克一带反舰导弹发射车遭打击。无美伊官方或主流通讯社确认袭击方与战果。",
           "handles": [],
-          "source": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/oil-edges-lower-six-month-high-traders-assess-iran-risks",
+          "source": "",
+          "highlight": false,
+          "unverified": true
+        }
+      ]
+    },
+    "2026-10-27": {
+      "date": "2026-10-27",
+      "items": [
+        {
+          "text": "北京时间 08:00 汇总：美伊对峙没有出现新的直接交火，但德黑兰出现了罕见的地区降级会谈。同时油价高位回落、埃及授权协防沙特、以总理据报施压对伊动手等信号叠加，局势仍处“边谈边备战”。",
+          "handles": [],
+          "source": "https://apnews.com/article/iran-israel-us-war-10-26-2026-36486edb61b3bf4e0df67e8a17123e44",
+          "highlight": true
+        },
+        {
+          "text": "布伦特原油结算价约 115.81 美元，WTI 约 101.76 美元。市场因德黑兰外交接触出现缓和预期而下挫，但胡塞袭击与航运风险限制了跌幅。",
+          "handles": [],
+          "source": "https://live.euronext.com/en/financial-news/oil-settles-lower-peace-hopes-saudi-attacks-limit-losses",
+          "highlight": true
+        },
+        {
+          "text": "美国财政部长贝森特称伊朗经济正“崩溃”。他说 GDP 或收缩约 20%–25%，并谈及名为“经济放逐行动”的金融围堵；在接受伊朗国际采访时还呼吁伊朗民众囤积燃油。",
+          "handles": [],
+          "source": "https://www.foxbusiness.com/media/scott-bessent-says-irans-economy-collapsing-treasury-tightens-financial-vise",
+          "highlight": true
+        },
+        {
+          "text": "UKMTO 称伊拉克法奥附近海域有船只起火。属“可疑活动”，船员状况、受损与环境影响尚不清楚。",
+          "handles": [],
+          "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/",
+          "highlight": false
+        },
+        {
+          "text": "内塔尼亚胡据报在大选前向军方施压、要求对伊朗采取可能引发立即冲突的行动。以军参谋长扎米尔据报要求书面指令与法律授权。内塔尼亚胡办公室与国防部长卡茨否认；CNN 另引美以人士称内氏近期曾力劝特朗普联手再打伊朗，特朗普未在以大选前放行。",
+          "handles": [],
+          "source": "https://www.theguardian.com/world/2026/oct/26/netanyahu-reportedly-pressured-israel-military-attack-iran-runup-to-election",
+          "highlight": true
+        },
+        {
+          "text": "伊朗总统佩泽希齐扬抵达俄罗斯，出席天然气出口国论坛峰会。他计划与普京会晤，讨论双边合作与地区局势。",
+          "handles": [],
+          "source": "https://aa.com.tr/en/middle-east/iranian-president-arrives-in-russia-for-gas-exporters-summit/4101785",
+          "highlight": false
+        },
+        {
+          "text": "沙特主导的联军称拦截并摧毁 3 架无人机。此前亦称拦截胡塞射向利雅得的弹道导弹；胡塞声称袭击利雅得机场与石油泵站，沙特未全部确认。",
+          "handles": [],
+          "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/",
+          "highlight": false
+        },
+        {
+          "text": "德黑兰降级会谈未达成具体协议，各方同意继续讨论。沙特国防大臣、巴基斯坦陆军参谋长、土耳其情报局长与伊朗总统、外长、最高国家安全委员会秘书会谈。礼萨伊称气氛“非常好”。",
+          "handles": [],
+          "source": "https://apnews.com/article/iran-israel-us-war-10-26-2026-36486edb61b3bf4e0df67e8a17123e44",
+          "highlight": true
+        },
+        {
+          "text": "埃及议会授权总统塞西协助沙特防卫胡塞武装袭击。官方表述为防御性、不含进攻也门。",
+          "handles": [],
+          "source": "https://apnews.com/article/egypt-saudi-arabia-military-support-parliament-houthis-0122d6201f904496a080e60e0f983697",
+          "highlight": true
+        },
+        {
+          "text": "（未证实）伊朗可将霍尔木兹海峡复航时间表从 7 天缩短至 4–5 天。多为伊朗侧表态或二手转述，尚未见路透、美联社等双源核实最终协议。",
+          "handles": [],
+          "source": "",
+          "highlight": false,
+          "unverified": true
+        },
+        {
+          "text": "（未证实）中东美军可在特朗普下令后约 96 小时内发动更大范围打击。属匿名官员口径，白宫未确认。",
+          "handles": [],
+          "source": "https://www.cnn.com/2026/10/26/politics/us-iran-strike-plans-trump",
+          "highlight": false,
+          "unverified": true
+        },
+        {
+          "text": "（未证实）“伊朗军队升至五级戒备”。社交媒体零星帖文，缺乏主流媒体独立证实。",
+          "handles": [],
+          "source": "",
           "highlight": false,
           "unverified": true
         }

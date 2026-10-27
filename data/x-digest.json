@@ -1010,6 +1010,202 @@
           ]
         }
       ]
+    },
+    "2026-10-27": {
+      "date": "2026-10-27",
+      "topics": [
+        {
+          "title": "巴西大选冲击",
+          "items": [
+            {
+              "text": "卢拉以约 51.8% 对 48.2% 逆转连任，Ibovespa 收盘约跌 14% 并触发熔断，雷亚尔收盘约跌 8%，利率期货大涨近 300 基点",
+              "handles": [
+                "elerianm",
+                "jsblokland",
+                "CausMoney",
+                "KobeissiLetter"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "抛售更多反映市场此前过度定价博索纳罗胜选，共识过于自信且错误，而非巴西基本面骤变",
+              "handles": [
+                "elerianm"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "美联储（周三决议）",
+          "items": [
+            {
+              "text": "市场预期按兵不动，但数据上比隐含概率更接近加息，按兵理由包括间隔成本可控、连续加息或被误读，以及选前突然加息冲击大",
+              "handles": [
+                "NickTimiraos"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "RenMac 认为从风险管理角度「加息或许说得通」，不宜等到被迫行动",
+              "handles": [
+                "RenMacLLC"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "若加息意外促使卖房者入市解冻楼市，对首次购房者或是意外利好",
+              "handles": [
+                "DiMartinoBooth"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "AI 与科技资本开支",
+          "items": [
+            {
+              "text": "Anthropic 正式提交 S-1，拟纳斯达克代码 ANT，上半年营收 163 亿美元、净亏损 807 亿美元，多为非现金项",
+              "handles": [
+                "KobeissiLetter",
+                "qinbafrank"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "Meta 启动最高约 950 亿美元股权融资计划，支撑 AI 基建，2026 资本开支指引 1350 至 1450 亿美元",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "微软向约 6 万名员工提供自愿买断",
+              "handles": [
+                "KobeissiLetter",
+                "DiMartinoBooth",
+                "lisaabramowicz1"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "AI 融资担忧继续拖累超大规模云厂商，自 5 月初以来相关指数约跌四分之一，科技借款成本同步上升",
+              "handles": [
+                "LizAnnSonders"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "德银称科技抛售中仍有显著抄底流入",
+              "handles": [
+                "GunjanJS"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "谷歌三季度营收共识约 1279 亿美元，云约 291.6 亿美元，这是预期而非已公布财报",
+              "handles": [
+                "qinbafrank"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "楼市与宏观",
+          "items": [
+            {
+              "text": "美国 9 月待售签约指数创 2001 年有记录以来新低，10 月建商信心跌至 2012 年中以来最低，43% 建商降价",
+              "handles": [
+                "charliebilello"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "挂牌房中约 44.8% 正在降价",
+              "handles": [
+                "DiMartinoBooth"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "企业信用利差有所走阔，但超额债券溢价隐含衰退风险仍低于 10%",
+              "handles": [
+                "RenMacLLC"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "中国 1 到 9 月房地产开发投资同比约降 20.6%",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "市场结构",
+          "items": [
+            {
+              "text": "标普本月微跌约 0.3%，跌幅集中在科技与通信，等权相对跑赢",
+              "handles": [
+                "LizAnnSonders"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "美国物价涨速自 2023 年来首次快于工资增速（未证实）",
+              "handles": [
+                "charliebilello"
+              ],
+              "highlight": false,
+              "unverified": true
+            },
+            {
+              "text": "杠杆美股 ETF 近月流入约 120 亿美元，同期基金市值约跌 200 亿美元（未证实）",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": false,
+              "unverified": true
+            },
+            {
+              "text": "全球股票基金截至 10 月 21 日当周流入约 282 亿美元，连续第五周净流入（未证实）",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": false,
+              "unverified": true
+            },
+            {
+              "text": "韩国三季度 GDP 环比增 1.0%、同比增 3.4%，均高于预期",
+              "handles": [
+                "CausMoney"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        }
+      ]
     }
   }
 }

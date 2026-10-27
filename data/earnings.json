@@ -593,6 +593,122 @@
           ]
         }
       ]
+    },
+    "2026-10-26": {
+      "date": "2026-10-26",
+      "sessions": [
+        {
+          "name": "盘前",
+          "sources": [],
+          "items": [
+            {
+              "ticker": "VZ",
+              "eps": "调整后 1.31（好于预期）",
+              "revenue": "343亿（低于预期）",
+              "notes": "换机量下滑、削减手机补贴；后付费手机净增 40.6 万户（约预期两倍，五年同期最佳）；全年 EPS 指引上调到 5.04–5.06 美元；与 AWS 签超 20 亿美元 AI 基础设施协议",
+              "move": "盘前涨约 2%",
+              "dir": "up",
+              "highlight": true
+            },
+            {
+              "ticker": "CX",
+              "eps": "每股 ADS 调整后 0.28（超预期）",
+              "revenue": "45.9亿（超预期，同比 +8%）",
+              "notes": "墨西哥业务表现强劲",
+              "move": "盘前涨约 3%",
+              "dir": "up",
+              "highlight": true
+            },
+            {
+              "ticker": "MMYT",
+              "eps": "调整后 0.47（各家预期口径不一）",
+              "revenue": "2.35亿（明显不及预期）",
+              "notes": "卢比贬值与出境游偏弱；按固定汇率总预订额增长 21%，扭亏为盈",
+              "move": "盘前一度涨约 4%–5%",
+              "dir": "up",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "name": "盘后",
+          "sources": [],
+          "items": [
+            {
+              "ticker": "CLS",
+              "eps": "3.30",
+              "revenue": "58.3亿（同比 +83%）",
+              "notes": "全年 EPS 上调到 11.55 美元；首次给出 2027 年营收约 400 亿美元展望；AI 数据中心需求强劲",
+              "move": "盘后涨约 9%–10%",
+              "dir": "up",
+              "highlight": true
+            },
+            {
+              "ticker": "CDNS",
+              "eps": "超预期",
+              "revenue": "超预期",
+              "notes": "全年营收和 EPS 指引上调",
+              "move": "盘后涨约 2%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "AMKR",
+              "eps": "略低于预期",
+              "revenue": "略低于预期",
+              "notes": "第四季度指引偏弱；白天常规交易已跌 6%",
+              "move": "盘后反弹约 4%–5%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "NUE",
+              "eps": "与预期持平",
+              "revenue": "好于预期",
+              "notes": "第四季度预计与第三季度持平或略好",
+              "move": "盘后小跌约 0.5%",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "WELL",
+              "eps": "低于预期",
+              "revenue": "好于预期",
+              "notes": "全年指引上调",
+              "move": "盘后走低",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "WHR",
+              "eps": "调整后每股亏 0.21（市场预期盈利）",
+              "revenue": "不及预期",
+              "notes": "全年营收指引从 150 亿下调到 145 亿",
+              "move": "盘后跌约 9%",
+              "dir": "down",
+              "highlight": true
+            },
+            {
+              "ticker": "RMBS",
+              "eps": "略好于预期",
+              "revenue": "略好于预期",
+              "notes": "",
+              "move": "盘后跌约 2%",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "PSA",
+              "eps": "",
+              "revenue": "",
+              "notes": "业绩好于预期，全年指引上调",
+              "move": "盘后基本持平",
+              "dir": "flat",
+              "highlight": false
+            }
+          ]
+        }
+      ]
     }
   }
 }

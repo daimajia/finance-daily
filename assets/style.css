@@ -25,7 +25,7 @@ body {
 a { color: var(--tx); text-decoration: underline; text-underline-offset: 3px; }
 a:hover { color: var(--ac); }
 
-.wrap { max-width: 1080px; margin: 0 auto; padding: 0 24px; }
+.wrap { max-width: none; width: 100%; margin: 0 auto; padding: 0 32px; }
 
 /* —— Header / Brand —— */
 .top {
@@ -127,7 +127,7 @@ h3 {
   margin: 0 0 32px;
   font-size: 15px;
   line-height: 1.6;
-  max-width: 42em;
+  max-width: none;
 }
 .muted { color: var(--mu); }
 
@@ -362,7 +362,7 @@ footer {
   text-align: left;
   background: var(--paper);
 }
-footer .wrap { max-width: 1080px; }
+footer .wrap { max-width: none; width: 100%; }
 
 /* —— Mobile —— */
 @media (max-width: 900px) {
@@ -720,7 +720,7 @@ button.cal-cell {
 }
 .dash-earn li {
   display: grid;
-  grid-template-columns: 64px 40px 56px minmax(0, 1fr);
+  grid-template-columns: 72px 56px minmax(0, 1fr);
   gap: 10px;
   align-items: baseline;
   padding: 10px 0;
@@ -735,9 +735,9 @@ button.cal-cell {
   letter-spacing: 0.04em;
 }
 .dash-earn .note {
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
+  overflow: visible;
+  white-space: normal;
+  line-height: 1.5;
 }
 
 @media (max-width: 900px) {
@@ -757,13 +757,80 @@ button.cal-cell {
   .dash-list li { grid-template-columns: minmax(0, 1fr); gap: 4px; }
   .dash-list .tag { max-width: none; }
   .dash-earn li {
-    grid-template-columns: 56px 36px 52px;
-    grid-template-rows: auto auto;
+    grid-template-columns: 56px 52px minmax(0, 1fr);
   }
   .dash-earn .note {
-    grid-column: 1 / -1;
     white-space: normal;
   }
   .datebar { gap: 8px; }
   .cal-meta { width: 100%; margin-left: 0; }
+}
+
+
+/* —— Full-width + denser dashboard —— */
+@media (min-width: 1200px) {
+  .wrap { padding: 0 40px; }
+}
+@media (min-width: 1600px) {
+  .wrap { padding: 0 48px; }
+}
+.dash-topic {
+  margin-bottom: 18px;
+  padding-bottom: 14px;
+  border-bottom: 1px solid var(--line);
+}
+.dash-topic:last-child {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border-bottom: 0;
+}
+.dash-topic h3 {
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ac);
+  margin: 0 0 8px;
+  padding-left: 10px;
+  border-left: 3px solid var(--ac);
+}
+.dash-topic ul {
+  margin: 0;
+  padding-left: 18px;
+}
+.dash-topic li {
+  margin: 6px 0;
+  font-size: 14px;
+  line-height: 1.65;
+}
+.dash-session {
+  margin-bottom: 16px;
+}
+.dash-session:last-child { margin-bottom: 0; }
+.dash-session h3 {
+  font-size: 13px;
+  margin: 0 0 8px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.dash-session h3 .muted {
+  font-weight: 500;
+  font-family: var(--mono);
+  font-size: 12px;
+  letter-spacing: 0;
+  text-transform: none;
+  margin-left: 6px;
+}
+.dash-earn li {
+  grid-template-columns: 72px 56px minmax(0, 1fr);
+}
+.dash-earn .note {
+  white-space: normal;
+  overflow: visible;
+  text-overflow: unset;
+}
+@media (min-width: 1400px) {
+  .dash {
+    grid-template-columns: 1fr 1fr;
+  }
 }

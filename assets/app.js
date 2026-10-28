@@ -242,40 +242,33 @@ function collectHighlights(x, e, day) {
 }
 
 function xDigestPreview(day) {
-  if (!day) return '';
-  // Prefer highlight items; fill with first item of each topic
-  const picks = [];
-  day.topics.forEach(t => {
-    const hi = t.items.filter(i => i.highlight);
-    const pool = hi.length ? hi : t.items.slice(0, 1);
-    pool.forEach(i => picks.push({ title: t.title, item: i }));
-  });
-  const shown = picks.slice(0, 6);
-  if (!shown.length) return '';
-  return `<ul class="dash-list">${shown.map(p =>
-    `<li><span class="tag">${esc(p.title)}</span><div>${esc(p.item.text)}${unv(p.item)} ${handles(p.item.handles)}</div></li>`
-  ).join('')}</ul>`;
+  if (!day || !(day.topics || []).length) return '';
+  // Full day: every topic and every item (scannable by topic)
+  return day.topics.map(t =>
+    `<div class="dash-topic"><h3>${esc(t.title)}</h3><ul>${
+      t.items.map(i => `<li>${esc(i.text)}${unv(i)} ${handles(i.handles)}</li>`).join('')
+    }</ul></div>`
+  ).join('');
 }
 
 function earningsPreview(day) {
   if (!day) return '';
-  const rows = [];
-  day.sessions.forEach(s => {
-    const items = s.items.filter(i => i.highlight);
-    const pool = items.length ? items : s.items.slice(0, 3);
-    pool.forEach(i => rows.push({ session: s.name, i }));
-  });
-  const shown = rows.slice(0, 8);
-  if (!shown.length) return '';
-  return `<ul class="dash-earn">${shown.map(({ session, i }) =>
-    `<li><span class="t">${esc(i.ticker)}</span><span class="dash-sess">${esc(session)}</span><span class="${i.dir}">${esc(i.move) || '—'}</span><span class="note">${esc(i.notes || i.eps || '')}</span></li>`
-  ).join('')}</ul>`;
+  const sessions = (day.sessions || []).filter(s => (s.items || []).length);
+  if (!sessions.length) return '';
+  // Full day: all tickers per session, with key fields
+  return sessions.map(s =>
+    `<div class="dash-session"><h3>${esc(s.name)} <span class="muted">${s.items.length}</span></h3>
+    <ul class="dash-earn">${s.items.map(i =>
+      `<li><span class="t">${esc(i.ticker)}</span><span class="${i.dir}">${esc(i.move) || '—'}</span><span class="note">${esc([i.eps, i.revenue, i.notes].filter(Boolean).join(' · '))}</span></li>`
+    ).join('')}</ul></div>`
+  ).join('');
 }
 
-function listPreview(day, limit = 5) {
+function listPreview(day) {
   if (!day || !(day.items || []).length) return '';
-  return `<ul class="dash-bullets">${day.items.slice(0, limit).map(i =>
-    `<li>${esc(i.text)}${handles(i.handles)}</li>`
+  // Full day: every item
+  return `<ul class="dash-bullets">${day.items.map(i =>
+    `<li>${esc(i.text)}${handles(i.handles)}${i.source ? ` <a href="${esc(i.source)}" target="_blank" rel="noopener">来源</a>` : ''}</li>`
   ).join('')}</ul>`;
 }
 
@@ -301,7 +294,7 @@ async function home(dateParam) {
   let html = `<div class="dash-top">
     <div>
       <h1>今日看板</h1>
-      <p class="sub">一眼看完 ${fmt(cur)} 各栏目重点 · 无需切换标签</p>
+      <p class="sub">一眼看完 ${fmt(cur)} 各栏目当日全文 · 无需切换标签</p>
     </div>
   </div>`;
   html += picker('', list, cur);
@@ -317,22 +310,22 @@ async function home(dateParam) {
   html += dashCard({
     title: 'X 博主精选',
     href: '#/x/' + (hasX ? cur : (dates(x)[0] || '')),
-    meta: hasX ? fmtShort(cur) : '该日无更新',
+    meta: hasX ? `${fmtShort(cur)} · ${x.days[cur].topics.reduce((n, tp) => n + tp.items.length, 0)} 条` : '该日无更新',
     body: xDigestPreview(x.days[cur]),
     emptyMsg: '该日无 X 博主日报'
   });
   html += dashCard({
     title: '财报速览摘要',
     href: '#/earnings/' + (hasE ? cur : (dates(e)[0] || '')),
-    meta: hasE ? fmtShort(cur) + ' · 美东' : '该日无财报',
+    meta: hasE ? `${fmtShort(cur)} · 美东 · ${e.days[cur].sessions.reduce((n, s) => n + s.items.length, 0)} 只` : '该日无财报',
     body: earningsPreview(e.days[cur]),
     emptyMsg: '该日无财报数据'
   });
   html += dashCard({
     title: '美伊局势要点',
     href: '#/iran/' + (hasIr ? cur : (dates(ir)[0] || '')),
-    meta: hasIr ? fmtShort(cur) : '该日无更新',
-    body: listPreview(ir.days[cur], 5),
+    meta: hasIr ? `${fmtShort(cur)} · ${ir.days[cur].items.length} 条` : '该日无更新',
+    body: listPreview(ir.days[cur]),
     emptyMsg: '该日无美伊局势更新'
   });
 
@@ -341,8 +334,8 @@ async function home(dateParam) {
   let bofaMeta = '';
   let bofaEmpty = '';
   if (hasB) {
-    bofaMeta = fmtShort(cur);
-    bofaBody = listPreview(b.days[cur], 4);
+    bofaBody = listPreview(b.days[cur]);
+    bofaMeta = `${fmtShort(cur)} · ${b.days[cur].items.length} 条`;
   } else {
     const latestB = dates(b)[0];
     bofaMeta = '非本期';
@@ -351,8 +344,8 @@ async function home(dateParam) {
       : (b.nextIssue ? `暂无数据 · 下一期：${fmt(b.nextIssue)}` : '暂无数据');
     if (latestB) {
       bofaBody = `<p class="dash-empty">${esc(bofaEmpty)}</p>` +
-        `<div class="dash-aside"><span class="muted">最近一期摘要</span>${listPreview(b.days[latestB], 3)}
-         <a class="dash-more" href="#/bofa/${latestB}">查看 ${fmt(latestB)} →</a></div>`;
+        `<div class="dash-aside"><span class="muted">最近一期全文 · ${fmt(latestB)} · ${b.days[latestB].items.length} 条</span>${listPreview(b.days[latestB])}
+         <a class="dash-more" href="#/bofa/${latestB}">栏目页 →</a></div>`;
       bofaEmpty = '';
     }
   }

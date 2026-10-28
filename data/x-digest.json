@@ -1206,6 +1206,179 @@
           ]
         }
       ]
+    },
+    "2026-10-28": {
+      "date": "2026-10-28",
+      "topics": [
+        {
+          "title": "Fed / 利率",
+          "items": [
+            {
+              "text": "FOMC 两日会议进行中，市场定价明日按兵不动（约 90%+）、12 月加息约 80%；沃什刻意少说、同僚发声不减，指引之争升温",
+              "handles": [
+                "elerianm",
+                "NickTimiraos",
+                "charliebilello"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "宏观数据",
+          "items": [
+            {
+              "text": "10 月咨商会消费者信心升至 91.7（前值修正 84.2、预期 81），现况 120.4、预期 72.6；就业差升至 5.3%",
+              "handles": [
+                "LizAnnSonders",
+                "elerianm",
+                "RenMacLLC"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "9 月新屋销售环比 -0.6% 至 67.6 万套（好于预期 -4.5%），中位价 40.04 万美元",
+              "handles": [
+                "LizAnnSonders"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "9 月耐用品订单 +1.8%，核心资本品出货 +1.2%；亚特兰大联储 GDPNow 三季度估 +3.4%",
+              "handles": [
+                "LizAnnSonders"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "Case-Shiller 20 城 8 月同比 +2.65%；FHFA 房价指数环比 +0.3%、同比 +2.4%",
+              "handles": [
+                "LizAnnSonders"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "市场结构",
+          "items": [
+            {
+              "text": "Mag7 中仅苹果与英伟达今年跑赢大盘，二者自由现金流居前；10 月等权标普相对跑赢约 4 个百分点，剔 AI 后标普相对跑赢约 6.4 个百分点",
+              "handles": [
+                "charliebilello",
+                "KobeissiLetter"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "周期股让位于防御股，与实际收益率框架一致",
+              "handles": [
+                "RenMacLLC",
+                "LizAnnSonders"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "AI / 财报",
+          "items": [
+            {
+              "text": "Anthropic 招股书：上半年营收约 163 亿美元（同比约 +1300%），净亏损约 808 亿美元（多为可转债公允价值非现金费用）；有观点主张弃 ARR、看真实季度/全年营收，全年或达 500–600 亿",
+              "handles": [
+                "charliebilello",
+                "qinbafrank"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "Meta 完成首阶段 375 亿美元股权融资（强制可转优先股股息 6.5%），英伟达拟认购 30 亿美元并扩大 AI 合作",
+              "handles": [
+                "CausMoney"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "波音 Q3 仍亏并下调远期自由现金流指引，股价跌约 10%；积压订单创纪录 7450 亿美元",
+              "handles": [
+                "KobeissiLetter",
+                "CausMoney"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "国际 / 国债",
+          "items": [
+            {
+              "text": "中国 8 月美债持仓降至约 5910 亿美元（2008 年 8 月以来最低），加拿大同月增约 380 亿至约 4650 亿",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "法国 10 月消费者信心跌至 2013 年来最低；穆迪未下调法国，但法债 10 年收益率已高于比/西/葡/意/希",
+              "handles": [
+                "elerianm",
+                "jsblokland"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "巴西落选的弗拉维奥·博尔索纳罗据报已赴美",
+              "handles": [
+                "KobeissiLetter",
+                "CausMoney"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "其他",
+          "items": [
+            {
+              "text": "AI 正把“智能”加成金融第三投入要素，冲击传统企业信用融资",
+              "handles": [
+                "biancoresearch"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "按季节性看，秋季油价处于 2004 年以来同期高位",
+              "handles": [
+                "biancoresearch"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "特朗普称将在相关文件中禁用“人工智能/AI”、改用“超级智能”表述",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        }
+      ]
     }
   }
 }

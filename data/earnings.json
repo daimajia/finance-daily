@@ -709,6 +709,185 @@
           ]
         }
       ]
+    },
+    "2026-10-27": {
+      "date": "2026-10-27",
+      "sessions": [
+        {
+          "name": "盘前",
+          "sources": [],
+          "items": [
+            {
+              "ticker": "KO",
+              "eps": "大致持平预期",
+              "revenue": "约 134 亿（略超预期）",
+              "notes": "连续第三季上调全年展望（可比 EPS 增速至少 11%，有机营收至少 +5%）",
+              "move": "盘前约 +0.3%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "BA",
+              "eps": "亏损幅度大于预期",
+              "revenue": "高于预期",
+              "notes": "偏混合",
+              "move": "盘前约 +0.5%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "UPS",
+              "eps": "超预期",
+              "revenue": "超预期",
+              "notes": "全年营收指引上调至约 926 亿（此前约 912 亿），四季度营收指引约 257 亿",
+              "move": "盘前约 +1.6%",
+              "dir": "up",
+              "highlight": true
+            },
+            {
+              "ticker": "PYPL",
+              "eps": "利润超预期",
+              "revenue": "85.8 亿（不及预期约 87.1 亿）",
+              "notes": "上调全年利润展望",
+              "move": "盘前约 -1%",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "GLW",
+              "eps": "调整后 0.91（超预期）",
+              "revenue": "50.8 亿（超预期）",
+              "notes": "",
+              "move": "盘前约 +3%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "RCL",
+              "eps": "调整后 6.57（超预期）",
+              "revenue": "",
+              "notes": "上调 2026 全年盈利指引",
+              "move": "盘前约 +4.4%",
+              "dir": "up",
+              "highlight": true
+            },
+            {
+              "ticker": "SPGI",
+              "eps": "超预期",
+              "revenue": "超预期",
+              "notes": "上调全年展望",
+              "move": "盘前约 +4%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "JCI",
+              "eps": "盈利强劲",
+              "revenue": "",
+              "notes": "展望偏乐观",
+              "move": "盘前约 +4%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "SHW",
+              "eps": "利润不及预期",
+              "revenue": "",
+              "notes": "全年指引中枢低于华尔街",
+              "move": "盘前约 -4.7%",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "SOFI",
+              "eps": "超预期",
+              "revenue": "超预期",
+              "notes": "全年指引超预期",
+              "move": "盘前约 +10%",
+              "dir": "up",
+              "highlight": true
+            },
+            {
+              "ticker": "WHR",
+              "eps": "大幅 miss",
+              "revenue": "",
+              "notes": "下调指引",
+              "move": "盘前约 -7%",
+              "dir": "down",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "name": "盘后",
+          "sources": [],
+          "items": [
+            {
+              "ticker": "V",
+              "eps": "调整后 3.48（超预期 3.44）",
+              "revenue": "约 121 亿（大致符合）",
+              "notes": "经营利润率略逊",
+              "move": "盘后约 -2%",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "STX",
+              "eps": "调整后 7.68（超预期）",
+              "revenue": "42 亿（超预期）",
+              "notes": "下季指引营收约 47–49 亿、EPS 9.00–9.40 也好于预期；利好出尽",
+              "move": "盘后约 -6% 至 -7%",
+              "dir": "down",
+              "highlight": true
+            },
+            {
+              "ticker": "HOOD",
+              "eps": "调整后 0.60（超预期）",
+              "revenue": "约 14 亿（略逊）",
+              "notes": "加密与股票交易热度回落",
+              "move": "盘后约 -5%",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "NXPI",
+              "eps": "",
+              "revenue": "",
+              "notes": "下季营收指引约 38.5 亿（±1 亿）大致符合，市场嫌不够亮眼",
+              "move": "盘后约 -9%",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "WM",
+              "eps": "调整后 2.15（略逊 2.18）",
+              "revenue": "超预期",
+              "notes": "重申全年指引",
+              "move": "盘后约 -2%",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "PPG",
+              "eps": "超预期",
+              "revenue": "超预期",
+              "notes": "上调全年调整后 EPS 指引至 7.90–8.10",
+              "move": "盘后约 +7%",
+              "dir": "up",
+              "highlight": true
+            },
+            {
+              "ticker": "ENPH",
+              "eps": "逊预期",
+              "revenue": "逊预期",
+              "notes": "下季营收指引 2.25–2.55 亿，远低于约 3 亿预期",
+              "move": "盘后约 -10% 至 -14%",
+              "dir": "down",
+              "highlight": true
+            }
+          ]
+        }
+      ]
     }
   }
 }

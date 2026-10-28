@@ -428,75 +428,145 @@
       "date": "2026-10-27",
       "items": [
         {
-          "text": "北京时间 08:00 汇总：美伊对峙没有出现新的直接交火，但德黑兰出现了罕见的地区降级会谈。同时油价高位回落、埃及授权协防沙特、以总理据报施压对伊动手等信号叠加，局势仍处“边谈边备战”。",
+          "text": "北京时间 20:00 汇总：主战场无新大规模交火，焦点转沙特方向；胡塞称袭拉斯坦努拉炼油厂，沙特联盟称拦截导弹与无人机；布伦特约 115–116 美元；胡塞称埃及授权援沙等于对也门宣战。",
           "handles": [],
-          "source": "https://apnews.com/article/iran-israel-us-war-10-26-2026-36486edb61b3bf4e0df67e8a17123e44",
+          "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/",
           "highlight": true
         },
         {
-          "text": "布伦特原油结算价约 115.81 美元，WTI 约 101.76 美元。市场因德黑兰外交接触出现缓和预期而下挫，但胡塞袭击与航运风险限制了跌幅。",
+          "text": "胡塞官员称埃及授权军事援沙等于对也门宣战。CBS 约 18:14。",
           "handles": [],
-          "source": "https://live.euronext.com/en/financial-news/oil-settles-lower-peace-hopes-saudi-attacks-limit-losses",
+          "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/",
           "highlight": true
         },
         {
-          "text": "美国财政部长贝森特称伊朗经济正“崩溃”。他说 GDP 或收缩约 20%–25%，并谈及名为“经济放逐行动”的金融围堵；在接受伊朗国际采访时还呼吁伊朗民众囤积燃油。",
-          "handles": [],
-          "source": "https://www.foxbusiness.com/media/scott-bessent-says-irans-economy-collapsing-treasury-tightens-financial-vise",
-          "highlight": true
-        },
-        {
-          "text": "UKMTO 称伊拉克法奥附近海域有船只起火。属“可疑活动”，船员状况、受损与环境影响尚不清楚。",
+          "text": "以色列大选，防长卡茨呼吁选民支持政府以了结对伊战事。CBS 约 15:58。",
           "handles": [],
           "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/",
           "highlight": false
         },
         {
-          "text": "内塔尼亚胡据报在大选前向军方施压、要求对伊朗采取可能引发立即冲突的行动。以军参谋长扎米尔据报要求书面指令与法律授权。内塔尼亚胡办公室与国防部长卡茨否认；CNN 另引美以人士称内氏近期曾力劝特朗普联手再打伊朗，特朗普未在以大选前放行。",
-          "handles": [],
-          "source": "https://www.theguardian.com/world/2026/oct/26/netanyahu-reportedly-pressured-israel-military-attack-iran-runup-to-election",
-          "highlight": true
-        },
-        {
-          "text": "伊朗总统佩泽希齐扬抵达俄罗斯，出席天然气出口国论坛峰会。他计划与普京会晤，讨论双边合作与地区局势。",
-          "handles": [],
-          "source": "https://aa.com.tr/en/middle-east/iranian-president-arrives-in-russia-for-gas-exporters-summit/4101785",
-          "highlight": false
-        },
-        {
-          "text": "沙特主导的联军称拦截并摧毁 3 架无人机。此前亦称拦截胡塞射向利雅得的弹道导弹；胡塞声称袭击利雅得机场与石油泵站，沙特未全部确认。",
+          "text": "沙特主导联盟称拦截胡塞 3 枚弹道导弹与 4 架无人机。CBS 约 13:43。",
           "handles": [],
           "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/",
-          "highlight": false
-        },
-        {
-          "text": "德黑兰降级会谈未达成具体协议，各方同意继续讨论。沙特国防大臣、巴基斯坦陆军参谋长、土耳其情报局长与伊朗总统、外长、最高国家安全委员会秘书会谈。礼萨伊称气氛“非常好”。",
-          "handles": [],
-          "source": "https://apnews.com/article/iran-israel-us-war-10-26-2026-36486edb61b3bf4e0df67e8a17123e44",
           "highlight": true
         },
         {
-          "text": "埃及议会授权总统塞西协助沙特防卫胡塞武装袭击。官方表述为防御性、不含进攻也门。",
+          "text": "国际油价在约 115–116 美元附近波动；布伦特 12 月合约约 116.07。CNBC 约 13:09。",
           "handles": [],
-          "source": "https://apnews.com/article/egypt-saudi-arabia-military-support-parliament-houthis-0122d6201f904496a080e60e0f983697",
+          "source": "",
           "highlight": true
         },
         {
-          "text": "（未证实）伊朗可将霍尔木兹海峡复航时间表从 7 天缩短至 4–5 天。多为伊朗侧表态或二手转述，尚未见路透、美联社等双源核实最终协议。",
+          "text": "胡塞称以弹道导弹袭击沙特拉斯坦努拉炼油厂；彭博称附近火情已受控；沙特官方尚未确认遭袭。",
+          "handles": [],
+          "source": "",
+          "highlight": true
+        },
+        {
+          "text": "（未证实）海湾盟友担忧美国战后大幅撤军。NBC 约 17:00 匿名。",
           "handles": [],
           "source": "",
           "highlight": false,
           "unverified": true
         },
         {
-          "text": "（未证实）中东美军可在特朗普下令后约 96 小时内发动更大范围打击。属匿名官员口径，白宫未确认。",
+          "text": "（未证实）内塔尼亚胡大选前推动对伊空袭、遭总参谋长抵制。匿名且官方否认。",
           "handles": [],
-          "source": "https://www.cnn.com/2026/10/26/politics/us-iran-strike-plans-trump",
+          "source": "",
           "highlight": false,
           "unverified": true
         },
         {
-          "text": "（未证实）“伊朗军队升至五级戒备”。社交媒体零星帖文，缺乏主流媒体独立证实。",
+          "text": "（未证实）美方 96 小时内可大规模打击、霍尔木兹四五天内复航等。社交媒体。",
+          "handles": [],
+          "source": "",
+          "highlight": false,
+          "unverified": true
+        },
+        {
+          "text": "（未证实）伊朗拟对航运公司 Sinokor 采取措施等。单一渠道。",
+          "handles": [],
+          "source": "",
+          "highlight": false,
+          "unverified": true
+        }
+      ]
+    },
+    "2026-10-28": {
+      "date": "2026-10-28",
+      "items": [
+        {
+          "text": "北京时间 08:00 汇总：窗口约自 10 月 27 日 20:00 起。IAEA 在安理会警告约 440 公斤高浓缩铀下落仍无法核实；霍尔木兹以东再有油轮据伊朗海军称触雷起火；特朗普得州造势会坚称对伊开战正确；油价回落仍高；胡塞继续袭沙。",
+          "handles": [],
+          "source": "",
+          "highlight": true
+        },
+        {
+          "text": "特朗普得州造势会谈伊朗战争：称打击伊朗是最伟大的事之一、战争想结束就能结束；称已击沉约 159 艘伊朗海军舰艇、摧毁约 288 架战机；考虑把霍尔木兹改名特朗普海峡。Fox 约 07:53 / 美东 27 日 19:53。",
+          "handles": [],
+          "source": "",
+          "highlight": true
+        },
+        {
+          "text": "布伦特收跌 1.93 美元至 113.88；WTI 99.90。路透约 03:22。",
+          "handles": [],
+          "source": "",
+          "highlight": true
+        },
+        {
+          "text": "中国常驻联合国代表傅聪在安理会伊核会发言，呼吁止战促谈。新华网 04:40。",
+          "handles": [],
+          "source": "",
+          "highlight": false
+        },
+        {
+          "text": "美方在安理会指责伊朗违反核义务、阻挠 IAEA；议程 11 票赞成、俄中反对。Iran International。",
+          "handles": [],
+          "source": "",
+          "highlight": false
+        },
+        {
+          "text": "伊朗海军称霍尔木兹以东油轮触雷起火。",
+          "handles": [],
+          "source": "",
+          "highlight": true
+        },
+        {
+          "text": "IAEA 警告约 440 公斤高浓缩铀下落无法核实。",
+          "handles": [],
+          "source": "",
+          "highlight": true
+        },
+        {
+          "text": "雷扎伊会见最高领袖穆杰塔巴·哈梅内伊（外交后续）。路透。",
+          "handles": [],
+          "source": "",
+          "highlight": false
+        },
+        {
+          "text": "（未证实）「美军连续第 13 夜空袭伊朗」。ILKHA 单源。",
+          "handles": [],
+          "source": "",
+          "highlight": false,
+          "unverified": true
+        },
+        {
+          "text": "（未证实）美伊曾秘密打击对方太空系统。RT 转述。",
+          "handles": [],
+          "source": "",
+          "highlight": false,
+          "unverified": true
+        },
+        {
+          "text": "（未证实）沙特拟经伊朗向胡塞提供约 10 亿美元换停火。匿名。",
+          "handles": [],
+          "source": "",
+          "highlight": false,
+          "unverified": true
+        },
+        {
+          "text": "（未证实）美军本周末即可再袭等时间表。匿名/旧闻转发。",
           "handles": [],
           "source": "",
           "highlight": false,

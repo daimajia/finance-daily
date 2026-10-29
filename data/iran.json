@@ -497,76 +497,144 @@
       "date": "2026-10-28",
       "items": [
         {
-          "text": "北京时间 08:00 汇总：窗口约自 10 月 27 日 20:00 起。IAEA 在安理会警告约 440 公斤高浓缩铀下落仍无法核实；霍尔木兹以东再有油轮据伊朗海军称触雷起火；特朗普得州造势会坚称对伊开战正确；油价回落仍高；胡塞继续袭沙。",
+          "text": "北京时间 20:00 汇总：卡在「选后再打」与「斡旋草案」；特朗普称选后是否再打「什么都有可能」；路透传卡塔尔七日草案与伊朗高官否认/拒核让步；油价因胡塞与再战担忧走高。",
           "handles": [],
           "source": "",
           "highlight": true
         },
         {
-          "text": "特朗普得州造势会谈伊朗战争：称打击伊朗是最伟大的事之一、战争想结束就能结束；称已击沉约 159 艘伊朗海军舰艇、摧毁约 288 架战机；考虑把霍尔木兹改名特朗普海峡。Fox 约 07:53 / 美东 27 日 19:53。",
+          "text": "特朗普称选后是否再打伊朗「什么都有可能」。约 19:00 安德鲁斯对记者。",
           "handles": [],
           "source": "",
           "highlight": true
         },
         {
-          "text": "布伦特收跌 1.93 美元至 113.88；WTI 99.90。路透约 03:22。",
+          "text": "WSJ：美方已告知海湾多国为选后「短促猛烈」行动做准备。约 19:12。特朗普尚未最终下令。",
           "handles": [],
           "source": "",
           "highlight": true
         },
         {
-          "text": "中国常驻联合国代表傅聪在安理会伊核会发言，呼吁止战促谈。新华网 04:40。",
+          "text": "伊朗高官：卡塔尔未交新停火草案，核问题不让步。路透约 18:08。",
+          "handles": [],
+          "source": "",
+          "highlight": true
+        },
+        {
+          "text": "路透稍早：卡塔尔斡旋方曾向伊朗提交七日分步草案。约 17:03。",
           "handles": [],
           "source": "",
           "highlight": false
         },
         {
-          "text": "美方在安理会指责伊朗违反核义务、阻挠 IAEA；议程 11 票赞成、俄中反对。Iran International。",
-          "handles": [],
-          "source": "",
-          "highlight": false
-        },
-        {
-          "text": "伊朗海军称霍尔木兹以东油轮触雷起火。",
+          "text": "国际油价走高：布伦特约 115、WTI 约 101。CNBC 约 13:52。",
           "handles": [],
           "source": "",
           "highlight": true
         },
         {
-          "text": "IAEA 警告约 440 公斤高浓缩铀下落无法核实。",
-          "handles": [],
-          "source": "",
-          "highlight": true
-        },
-        {
-          "text": "雷扎伊会见最高领袖穆杰塔巴·哈梅内伊（外交后续）。路透。",
+          "text": "海湾国家推动多轨和平方案。卫报约 13:00。",
           "handles": [],
           "source": "",
           "highlight": false
         },
         {
-          "text": "（未证实）「美军连续第 13 夜空袭伊朗」。ILKHA 单源。",
+          "text": "特朗普德州造势：战争「我想结束就能结束」。CNBC 约 11:02。",
+          "handles": [],
+          "source": "",
+          "highlight": false
+        },
+        {
+          "text": "五角大楼数据：对伊战事花费逾 471 亿美元。路透约 10:00。",
+          "handles": [],
+          "source": "",
+          "highlight": false
+        },
+        {
+          "text": "IAEA 格罗西：未见伊朗修复遭袭核设施迹象。AP 约 10:37。",
+          "handles": [],
+          "source": "",
+          "highlight": false
+        },
+        {
+          "text": "（未证实）X 上「CENTCOM 今晚第九夜轰炸伊朗」突发帖——虚假信息。",
           "handles": [],
           "source": "",
           "highlight": false,
           "unverified": true
         },
         {
-          "text": "（未证实）美伊曾秘密打击对方太空系统。RT 转述。",
+          "text": "（未证实）胡塞要求立即撤离亚丁机场——单方宣称。",
           "handles": [],
           "source": "",
           "highlight": false,
           "unverified": true
         },
         {
-          "text": "（未证实）沙特拟经伊朗向胡塞提供约 10 亿美元换停火。匿名。",
+          "text": "（未证实）「10 月 28 日再发大规模能源制裁」——缺官方双源。",
           "handles": [],
           "source": "",
           "highlight": false,
           "unverified": true
         },
         {
-          "text": "（未证实）美军本周末即可再袭等时间表。匿名/旧闻转发。",
+          "text": "（未证实）伊朗与俄罗斯加快小型堆/布什尔增员等——单渠道。",
+          "handles": [],
+          "source": "",
+          "highlight": false,
+          "unverified": true
+        }
+      ]
+    },
+    "2026-10-29": {
+      "date": "2026-10-29",
+      "items": [
+        {
+          "text": "北京时间 08:00 汇总：窗口约 10 月 28 日 20:00—10 月 29 日 08:00。核心仍是中期选举后再打与卡塔尔斡旋卡在核问题；万斯致信试探复谈；油价周三收涨。",
+          "handles": [],
+          "source": "",
+          "highlight": true
+        },
+        {
+          "text": "副总统万斯致信伊朗最高国家安全委员会秘书雷扎伊，强调避免动武谈判必须讨论核问题。Axios 约 07:32；WSJ 更早首报。",
+          "handles": [],
+          "source": "",
+          "highlight": true
+        },
+        {
+          "text": "美方官员警告中东多国：为 11 月 3 日中期选举后可能重启对伊军事行动及伊朗报复做好准备。AP 约 06:44。特朗普尚未最终拍板。阿联酋外交部敦促政治解决。",
+          "handles": [],
+          "source": "",
+          "highlight": true
+        },
+        {
+          "text": "卡塔尔主导斡旋：周日向伊朗提交新草案；伊朗高官称不可接受；外长阿拉格希称仍给外交机会。阿拉格希 X 约 00:54。",
+          "handles": [],
+          "source": "",
+          "highlight": true
+        },
+        {
+          "text": "周三油价收涨：布伦特约 115.32、WTI 约 102.78。纽约周三收盘/北京约 29 日凌晨。",
+          "handles": [],
+          "source": "",
+          "highlight": true
+        },
+        {
+          "text": "（未证实）伊朗拟把和平方案从 7 天压到 4 天并讨论 11 月 4 日前土耳其开会——Al Arabiya 单源匿名。",
+          "handles": [],
+          "source": "",
+          "highlight": false,
+          "unverified": true
+        },
+        {
+          "text": "（未证实）社交平台「伊朗对美大规模导弹袭击、万斯转移安全地点」——假消息。",
+          "handles": [],
+          "source": "",
+          "highlight": false,
+          "unverified": true
+        },
+        {
+          "text": "（未证实）网传「约 10 月 28 日击毁 7 架伊朗战机」——视频像更早火灾画面。",
           "handles": [],
           "source": "",
           "highlight": false,

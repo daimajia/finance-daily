@@ -888,6 +888,185 @@
           ]
         }
       ]
+    },
+    "2026-10-28": {
+      "date": "2026-10-28",
+      "sessions": [
+        {
+          "name": "盘前",
+          "sources": [],
+          "items": [
+            {
+              "ticker": "VRT",
+              "eps": "调整后 2.21（预期约 1.82–1.85）",
+              "revenue": "43.1 亿（预期约 37.5–38 亿）",
+              "notes": "同比约 +61%；上调全年指引",
+              "move": "盘前约 +16%",
+              "dir": "up",
+              "highlight": true
+            },
+            {
+              "ticker": "GEV",
+              "eps": "4.81（预期约 4.0）",
+              "revenue": "约 126 亿（超预期）",
+              "notes": "上调全年收入/利润率/FCF；宣布约 90 亿美元收购 Trench",
+              "move": "盘前约 +1%–3%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "APH",
+              "eps": "调整后 0.80（预期约 0.72）",
+              "revenue": "创纪录 102 亿",
+              "notes": "Q4/全年指引高于一致预期；股息 +20% 并新 40 亿美元回购",
+              "move": "盘前约 +7%",
+              "dir": "up",
+              "highlight": true
+            },
+            {
+              "ticker": "PSX",
+              "eps": "14.08（预期约 11.84）",
+              "revenue": "",
+              "notes": "炼油利用率 98%；当季向股东返还约 28 亿美元",
+              "move": "",
+              "dir": "flat",
+              "highlight": false
+            },
+            {
+              "ticker": "ADP",
+              "eps": "2.82（预期 2.79）",
+              "revenue": "基本符合",
+              "notes": "上调 2027 财年展望",
+              "move": "盘前约 -2%",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "BSX",
+              "eps": "调整后 0.73（略超约 0.72）",
+              "revenue": "51.4 亿（同比约 +1.5%）",
+              "notes": "下调全年增速并指引 Q4 营收同比下滑；网络安全事件",
+              "move": "盘前约 -3.6%",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "GRMN",
+              "eps": "2.76（预期约 2.45）",
+              "revenue": "",
+              "notes": "上调指引",
+              "move": "盘前约 +2%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "BIIB",
+              "eps": "非 GAAP 2.62（预期约 2.0）",
+              "revenue": "约 28 亿（同比约 +11%）",
+              "notes": "上调指引",
+              "move": "股价偏平",
+              "dir": "flat",
+              "highlight": false
+            },
+            {
+              "ticker": "GEHC",
+              "eps": "调整后 1.34（预期约 1.23）",
+              "revenue": "约 55 亿",
+              "notes": "上调全年指引",
+              "move": "",
+              "dir": "up",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "name": "盘后",
+          "sources": [],
+          "items": [
+            {
+              "ticker": "GOOGL",
+              "eps": "2.12（大幅低于预期）",
+              "revenue": "约 1276 亿",
+              "notes": "搜索广告弱于预期；FCF -90.7 亿（AI 资本开支）",
+              "move": "盘后约 -9% 至 -11%",
+              "dir": "down",
+              "highlight": true
+            },
+            {
+              "ticker": "MSFT",
+              "eps": "调整后 4.89（超预期）",
+              "revenue": "923 亿（超预期）",
+              "notes": "Azure 同比约 +48%",
+              "move": "盘后约 +2% 至 +5%",
+              "dir": "up",
+              "highlight": true
+            },
+            {
+              "ticker": "FTNT",
+              "eps": "非 GAAP 0.91（超预期）",
+              "revenue": "20.8 亿（超预期）",
+              "notes": "上调全年；服务收入增速偏慢",
+              "move": "盘后约 -25%",
+              "dir": "down",
+              "highlight": true
+            },
+            {
+              "ticker": "NOW",
+              "eps": "调整后 1.00（略逊）",
+              "revenue": "",
+              "notes": "Q4 订阅收入指引偏软",
+              "move": "盘后约 -15%",
+              "dir": "down",
+              "highlight": true
+            },
+            {
+              "ticker": "CMG",
+              "eps": "",
+              "revenue": "略超预期",
+              "notes": "同店销售 +2.1% 超预期",
+              "move": "盘后约 +5% 至 +7%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "CVNA",
+              "eps": "",
+              "revenue": "大幅超预期",
+              "notes": "SEC 调查结案无执法",
+              "move": "盘后约 +6% 至 +10%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "KLAC",
+              "eps": "超预期",
+              "revenue": "超预期",
+              "notes": "上调下季指引",
+              "move": "盘后约 +3%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "F",
+              "eps": "超预期",
+              "revenue": "略逊",
+              "notes": "",
+              "move": "盘后约 -2%",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "FDX",
+              "eps": "",
+              "revenue": "",
+              "notes": "上调全年营收增速指引至约 12%",
+              "move": "盘后约 -2%",
+              "dir": "down",
+              "highlight": false
+            }
+          ]
+        }
+      ]
     }
   }
 }

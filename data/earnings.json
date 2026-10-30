@@ -1067,6 +1067,167 @@
           ]
         }
       ]
+    },
+    "2026-10-29": {
+      "date": "2026-10-29",
+      "sessions": [
+        {
+          "name": "盘前",
+          "sources": [],
+          "items": [
+            {
+              "ticker": "LLY",
+              "eps": "调整后 7.48（大幅超预期）",
+              "revenue": "244 亿（大幅超预期）",
+              "notes": "全年营收指引上调到 910–920 亿",
+              "move": "盘前约 +4%",
+              "dir": "up",
+              "highlight": true
+            },
+            {
+              "ticker": "MA",
+              "eps": "调整后约 5.31（大体符合）",
+              "revenue": "净收入 98 亿（同比 +14%）",
+              "notes": "",
+              "move": "盘前约 +2.5%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "CAT",
+              "eps": "调整后 7.20",
+              "revenue": "207 亿（略超预期）",
+              "notes": "关税成本与库存担忧",
+              "move": "盘前约 -8% 至 -10%",
+              "dir": "down",
+              "highlight": true
+            },
+            {
+              "ticker": "MRK",
+              "eps": "Non-GAAP 2.49（超预期）",
+              "revenue": "181 亿（超预期）",
+              "notes": "全年指引上调",
+              "move": "盘前约 +2% 至 +3%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "LIN",
+              "eps": "调整后 4.59（超预期）",
+              "revenue": "94 亿（超预期）",
+              "notes": "全年利润指引上调",
+              "move": "盘前约 +3%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "BMY",
+              "eps": "超预期",
+              "revenue": "超预期",
+              "notes": "",
+              "move": "盘前约 +1%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "MO",
+              "eps": "略逊预期",
+              "revenue": "略逊预期",
+              "notes": "上调全年指引并扩大回购",
+              "move": "盘前约 +1.6%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "DASH",
+              "eps": "稀释 1.06（超预期）",
+              "revenue": "46.2 亿（超预期）",
+              "notes": "宣布约 170 亿美元收购 Instacart",
+              "move": "盘前约 +9%",
+              "dir": "up",
+              "highlight": true
+            },
+            {
+              "ticker": "TT",
+              "eps": "",
+              "revenue": "略超预期",
+              "notes": "全年营收指引上调",
+              "move": "",
+              "dir": "flat",
+              "highlight": false
+            },
+            {
+              "ticker": "PWR",
+              "eps": "大幅超预期",
+              "revenue": "大幅超预期",
+              "notes": "",
+              "move": "盘前约 +5%",
+              "dir": "up",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "name": "盘后",
+          "sources": [],
+          "items": [
+            {
+              "ticker": "AMZN",
+              "eps": "1.89（略低于预期）",
+              "revenue": "2019 亿（略低于预期）",
+              "notes": "AWS 同比约 +39% 超预期，广告和零售偏弱；全年资本开支仍维持 2200 亿",
+              "move": "盘后跌超 6%",
+              "dir": "down",
+              "highlight": true
+            },
+            {
+              "ticker": "INTC",
+              "eps": "业绩超预期；Q4 指引调整后 0.25（远低于预期约 0.43）",
+              "revenue": "Q4 指引 150–160 亿（远低于预期约 171 亿）",
+              "notes": "第三季度业绩超预期，但四季度指引大幅不及预期",
+              "move": "盘后约 -17%",
+              "dir": "down",
+              "highlight": true
+            },
+            {
+              "ticker": "SBUX",
+              "eps": "调整后利润超预期",
+              "revenue": "略逊预期",
+              "notes": "美国同店好于预期，国际偏弱",
+              "move": "盘后约 -2%",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "GILD",
+              "eps": "调整后超预期",
+              "revenue": "超预期",
+              "notes": "全年产品销售指引上调",
+              "move": "盘后约 +3%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "RDDT/RBLX/PINS/TWLO",
+              "eps": "",
+              "revenue": "",
+              "notes": "Reddit / Roblox / Pinterest / Twilio 多因指引不及预期",
+              "move": "盘后跌超一成",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "RIVN",
+              "eps": "",
+              "revenue": "",
+              "notes": "交付和指引上调",
+              "move": "盘后约 +4%",
+              "dir": "up",
+              "highlight": false
+            }
+          ]
+        }
+      ]
     }
   }
 }

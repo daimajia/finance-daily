@@ -2,7 +2,7 @@
   "section": "bofa",
   "title": "美银牛熊指标",
   "schedule": "每周六更新",
-  "nextIssue": "2026-10-31",
+  "nextIssue": "2026-11-07",
   "days": {
     "2026-10-24": {
       "date": "2026-10-24",
@@ -45,6 +45,65 @@
             "RichDog0"
           ],
           "source": "https://x.com/RichDog0/status/2113782527953633283",
+          "highlight": false
+        }
+      ]
+    },
+    "2026-10-31": {
+      "date": "2026-10-31",
+      "items": [
+        {
+          "text": "本周 BofA Flow Show（10/29，When AI met ABB）：牛熊指标 7.1（上周 7.2），信号中性（卖出 >8，买入 <2）。",
+          "handles": [],
+          "source": "https://x.com/ackmeni/status/2116172247132180557",
+          "highlight": true
+        },
+        {
+          "text": "回落主因是全球股市广度继续走弱（约第 21 百分位，偏空）和高收益/次级银行债利差走阔，部分被强劲股票流入抵消。分项大致：股票资金流偏多、FMS 仓位极度偏多、广度偏空，其余中性。",
+          "handles": [],
+          "source": "https://x.com/RichDog0/status/2116226962549006685",
+          "highlight": true
+        },
+        {
+          "text": "资金流：全球股票基金净流入约 560 亿+ 美元，科技约 53 亿（连 5 周），中国单周约 257 亿（2025 年 4 月以来最大）；黄金约 17 亿流出（7 月以来首次）。",
+          "handles": [],
+          "source": "https://www.cnbc.com/2026/10/30/big-tech-bonds-not-stocks-offer-greater-opportunity-right-now-says-bank-of-america.html",
+          "highlight": true
+        },
+        {
+          "text": "Hartnett 认为 ABB 推高债息正在约束 AI 股市；年末反弹前关键看 MAGS $70、SMH $520；更建议买科技债（Mag7 等约 6–8%），真正解压更可能在 2027 上半年。",
+          "handles": [],
+          "source": "https://www.tradingview.com/news/seekingalpha:11420713c094b:0-bofa-s-hartnett-calls-beaten-down-tech-bonds-diamonds-in-the-rough/",
+          "highlight": true
+        },
+        {
+          "text": "民主党横扫风险在定价中，参议院 53+ 与债息跳升尚未充分计入。",
+          "handles": [],
+          "source": "https://www.chaincatcher.com/en/article/2300447",
+          "highlight": false
+        },
+        {
+          "text": "指标 7.1（X 来源）",
+          "handles": [
+            "ackmeni"
+          ],
+          "source": "https://x.com/ackmeni/status/2116172247132180557",
+          "highlight": false
+        },
+        {
+          "text": "指标 7.1（X 来源）",
+          "handles": [
+            "RichDog0"
+          ],
+          "source": "https://x.com/RichDog0/status/2116226962549006685",
+          "highlight": false
+        },
+        {
+          "text": "Flow Show 读数（X 来源）",
+          "handles": [
+            "PowerTradingRm"
+          ],
+          "source": "https://x.com/PowerTradingRm/status/2116147821610938453",
           "highlight": false
         }
       ]

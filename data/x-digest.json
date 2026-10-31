@@ -1379,6 +1379,120 @@
           ]
         }
       ]
+    },
+    "2026-10-31": {
+      "date": "2026-10-31",
+      "topics": [
+        {
+          "title": "美股与 AI",
+          "items": [
+            {
+              "text": "纳指重挫约 3.6%，英特尔因疲软指引暴跌近 30% 创纪录跌幅，市场转向严审 AI 资本开支、融资与回报",
+              "handles": [
+                "GunjanJS",
+                "elerianm",
+                "KobeissiLetter",
+                "qinbafrank",
+                "CausMoney",
+                "jsblokland"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "纳指自 10 月 6 日高点回撤近一成，接近技术性回调，等权标普本周仍涨，科技重挫中多数成分股月度偏绿",
+              "handles": [
+                "KobeissiLetter",
+                "GunjanJS"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "标普将 Meta 展望调至负面，理由是资本开支与自由现金流转负的不确定，黑石称 Anthropic IPO 后或仍难获投资级评级",
+              "handles": [
+                "KobeissiLetter",
+                "CausMoney"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "德意志银行：近两周科技与美元同步急跌，AI 回调中美元避险属性不可想当然",
+              "handles": [
+                "lisaabramowicz1"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "宏观与联储",
+          "items": [
+            {
+              "text": "达拉斯联储 Logan 仍看再加两次，圣路易联储 Musalem 称「很快需进一步收紧」，里士满联储 Barkin 强调渐进节奏，市场定价 12 月加息约 75%",
+              "handles": [
+                "NickTimiraos",
+                "KobeissiLetter"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "本周美联储、欧央行、日央行均按兵，加央行却在增长放缓下加息",
+              "handles": [
+                "elerianm",
+                "RenMacLLC"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "三季度实际 GDP 年化增 3.4%，是一年最高，企业投资增 12.7%，私人国内最终销售增 4.9%，9 月储蓄率降至 3.8%",
+              "handles": [
+                "elerianm",
+                "LizAnnSonders"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "就业成本指数：三季度薪酬同比增 3.4%，工资增 3.1%，福利增 3.9%，薪酬增速大体符合联储通胀目标但通胀仍在",
+              "handles": [
+                "NickTimiraos",
+                "LizAnnSonders",
+                "RenMacLLC"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "加密与其他",
+          "items": [
+            {
+              "text": "币安被盗约 63 亿美元，约 30 亿链上已冻结，比特币跌破 7.7 万美元，黄金跌破约 3950，白银跌破 50",
+              "handles": [
+                "KobeissiLetter",
+                "qinbafrank",
+                "jsblokland"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "加拿大对美 AI 出口管制后推主权算力投资，对美脱钩代价高昂",
+              "handles": [
+                "JosephPolitano"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        }
+      ]
     }
   }
 }

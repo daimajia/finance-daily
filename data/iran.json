@@ -660,6 +660,184 @@
           "unverified": true
         }
       ]
+    },
+    "2026-10-30": {
+      "date": "2026-10-30",
+      "items": [
+        {
+          "text": "北京时间 20:00 汇总：外交与军事并行——卡塔尔调解团重返德黑兰推动停火；霍尔木兹再传油轮遇袭、油价跳涨；市场为美国中期选举后可能再对伊动手定价。",
+          "handles": [],
+          "source": "",
+          "highlight": true
+        },
+        {
+          "text": "卡塔尔调解团周五重返德黑兰推动美伊协议。知情人士告诉路透：调解与美方协调；周日停火草案伊方此前称「不可接受」、核立场不变；美方要求一开始谈核，伊方要求先解除港口封锁与石油出口制裁。IRNA/AFP/CBS 亦报道。",
+          "handles": [],
+          "source": "https://www.al-monitor.com/originals/2026/10/qatari-mediators-return-tehran-push-us-iran-deal-official-says",
+          "highlight": true
+        },
+        {
+          "text": "油价周五大涨：12 月布伦特涨约 2.4% 至约 117.62 美元/桶，1 月约 113.58；WTI 约涨 2.1% 至 104.18。布伦特逼近月线约 14% 涨幅。与霍尔木兹油轮遇袭、选后再升级预期挂钩。",
+          "handles": [],
+          "source": "https://www.cnbc.com/2026/10/30/oil-rises-on-supply-concerns-as-houthis-attack-saudi-arabia.html",
+          "highlight": true
+        },
+        {
+          "text": "伊朗革命卫队称两艘「违规」油轮在霍尔木兹遇阻并被拦停：一东一西两艘关闭导航、试图走「南部非授权航线」的油轮「遭遇事件」并在海峡以南水域被拦停；未说明事件性质。",
+          "handles": [],
+          "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
+          "highlight": true
+        },
+        {
+          "text": "UKMTO：霍尔木兹附近（阿曼哈萨卜东北约 25 海里）油轮遭爆炸物袭击；小艇向水线以上安装两枚爆炸装置，机舱起火、失去动力；船员安全、暂无环境损害。袭击方身份未确认。",
+          "handles": [],
+          "source": "https://live.euronext.com/en/financial-news/oil-set-fourth-monthly-gain-hormuz-tanker-attack-highlights-supply-risks",
+          "highlight": true
+        },
+        {
+          "text": "沙特方面称摧毁胡塞射向麦加地区的无人机；胡塞军事发言人叶海亚·萨雷称当日未对沙特领土采取行动。",
+          "handles": [],
+          "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
+          "highlight": false
+        },
+        {
+          "text": "五角大楼：对伊开战以来美军死亡升至 23 人（敌对 11、非敌对 12）；新增 2 名非战斗死亡（均为空军）。",
+          "handles": [],
+          "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
+          "highlight": false
+        },
+        {
+          "text": "（未证实）CBS 单一消息源称卡塔尔此行在传达草案「最新修改」并「有进展迹象」——路透等仅确认调解团返回，未独立证实「进展」。",
+          "handles": [],
+          "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
+          "highlight": false,
+          "unverified": true
+        },
+        {
+          "text": "（未证实）《华尔街日报》：中央司令部司令库珀周四向特朗普当面汇报对伊再打击选项——依赖不具名美方官员；特朗普尚未宣布决定。",
+          "handles": [],
+          "source": "https://www.aljazeera.com/news/2026/10/30/us-weighs-new-iran-strikes-as-vance-reaches-out-is-war-or-a-deal-closer",
+          "highlight": false,
+          "unverified": true
+        },
+        {
+          "text": "（未证实）《华盛顿邮报》：万斯致信并愿与伊朗最高国家安全委员会秘书穆赫森·礼萨伊直接会谈——伊方尚未答复；会谈地点传闻伊斯坦布尔或多哈，未获伊方确认。",
+          "handles": [],
+          "source": "https://www.iranintl.com/en/202610307228",
+          "highlight": false,
+          "unverified": true
+        },
+        {
+          "text": "（未证实）伊朗革命卫队/军方称四艘油轮在「非授权航线」触雷起火——主要是伊方声明；与 UKMTO「小艇安装爆炸物」描述不完全吻合，独立勘查尚未公布。",
+          "handles": [],
+          "source": "https://www.cnbc.com/2026/10/30/iran-trump-hormuz-oil-middle-east-.html",
+          "highlight": false,
+          "unverified": true
+        },
+        {
+          "text": "（未证实）以色列公营台 Kan：周四约 10 架美军运输机降落内盖夫 Ovda、Nevatim 基地，另有航班至约旦、沙特、卡塔尔——货物内容官方未说明；美方未公开确认任务性质。",
+          "handles": [],
+          "source": "https://www.aljazeera.com/news/2026/10/30/us-weighs-new-iran-strikes-as-vance-reaches-out-is-war-or-a-deal-closer",
+          "highlight": false,
+          "unverified": true
+        }
+      ]
+    },
+    "2026-10-31": {
+      "date": "2026-10-31",
+      "items": [
+        {
+          "text": "北京时间 08:00 汇总：美伊仍处「边谈边备战」——卡塔尔斡旋在德黑兰持续；特朗普称战争「很快会收尾」；霍尔木兹航运袭击升级（含已证实的水雷贴附袭击）；美方继续向盟友预警中期选举后可能再启打击。",
+          "handles": [],
+          "source": "",
+          "highlight": true
+        },
+        {
+          "text": "特朗普称对伊战争「很快会收尾」（going to get wrapped up soon），但未说明路径，并强调需要「永远不会有核武器」的保证。路透约 10 月 30 日 20:50（北京时间）；CBS 同日跟进。",
+          "handles": [],
+          "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
+          "highlight": true
+        },
+        {
+          "text": "中央司令部司令布拉德·库珀重申：伊朗海军「已沉入海底」，美方已清除主航道水雷；称自夏季以来已协助海湾伙伴出口逾 15 亿桶原油，美方封锁则阻止伊朗经海峡出口石油。",
+          "handles": [],
+          "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
+          "highlight": true
+        },
+        {
+          "text": "霍尔木兹海峡油轮遭水雷贴附袭击（路易丝 1 号）：约 10 月 29 日，阿曼哈萨卜东北约 25 海里；小艇向巴拿马籍 Louise 1 贴附两枚水雷，机舱起火并短暂失去动力——开战以来海峡首次成功的水雷贴附袭击。UKMTO：船员安全、无环境损害、火势已灭。",
+          "handles": [],
+          "source": "https://gcaptain.com/tanker-in-strait-of-hormuz-hit-by-limpet-mines-security-sources-say/",
+          "highlight": true
+        },
+        {
+          "text": "阿曼海军疏散遇袭巴拿马籍油轮 25 名船员：穆桑达姆省海岸约 1.6 海里处商船遭袭起火后，阿曼海军疏散全部 25 名船员并提供医疗护理。",
+          "handles": [],
+          "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
+          "highlight": false
+        },
+        {
+          "text": "卡塔尔斡旋代表重返德黑兰推动美伊协议（与美方协调）。10 月 30 日白天；路透、法新社、IRNA 及 CBS 证实到访。",
+          "handles": [],
+          "source": "https://www.al-monitor.com/originals/2026/10/qatari-mediators-return-tehran-push-us-iran-deal-official-says",
+          "highlight": true
+        },
+        {
+          "text": "美方向中东盟友预警：中期选举后可能对伊再启短促高强度打击。美联社援引两名外交人士；特朗普尚未最终拍板。阿联酋等呼吁「保持理智、寻求政治解决」。",
+          "handles": [],
+          "source": "https://apnews.com/article/trump-iran-strikes-midterm-elections-c7df622f1e87de6035173be8fb8c4add",
+          "highlight": true
+        },
+        {
+          "text": "沙特称拦截胡塞无人机/导弹（利雅得附近及南部，并称在麦加地区拦截一架）；胡塞发言人否认对沙特领土发动行动。也门亚丁总统府同日遭疑似胡塞导弹袭击（AFP）。",
+          "handles": [],
+          "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
+          "highlight": false
+        },
+        {
+          "text": "油价与能源：埃克森美孚 Q3 利润翻倍至约 154 亿；布伦特与 WTI 仍较去年同期高约 70%；路透称油价有望连续第四个月上涨。UKMTO：10 月霍尔木兹及相关水域报告袭击约 30 起。",
+          "handles": [],
+          "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
+          "highlight": false
+        },
+        {
+          "text": "（未证实）Axios：卡塔尔与伊方谈满约 12 小时后飞返多哈，伊方谈判人员同机，周六继续谈——主要依赖 Axios 单一外交消息源，未见路透/美联社等独立确认该具体安排。",
+          "handles": [
+            "BarakRavid"
+          ],
+          "source": "https://x.com/BarakRavid/status/2116294873435275616",
+          "highlight": false,
+          "unverified": true
+        },
+        {
+          "text": "（未证实）伊朗声称 3–4 艘油轮触雷爆炸起火（含载油逾 200 万桶的超级油轮）——路透、美联社均报道声明但无法立即核实；与 Louise 1、阿曼疏散案是否重叠仍不清楚。CENTCOM 否认美军无人水面艇被毁。",
+          "handles": [],
+          "source": "https://www.al-monitor.com/originals/2026/10/irans-irgc-navy-says-three-tankers-catch-fire-strait-hormuz",
+          "highlight": false,
+          "unverified": true
+        },
+        {
+          "text": "（未证实）伊朗称摧毁美军无人水面艇/击落无人机——伊方单方宣称；CENTCOM 已公开否认无人水面艇被毁并称全部在册。",
+          "handles": [],
+          "source": "https://apnews.com/article/mideast-news-october-30-2026-7f7f34ceb62f294a450e48ace0bd56e0",
+          "highlight": false,
+          "unverified": true
+        },
+        {
+          "text": "（未证实）路透独家：巴基斯坦军方对美伊斡旋「谨慎乐观」——主要为路透独家，未见第二家主流媒体完整复述细节。",
+          "handles": [],
+          "source": "",
+          "highlight": false,
+          "unverified": true
+        },
+        {
+          "text": "（未证实）副总统万斯致信伊朗高官、直接谈判方案细节——过去 12 小时无重大新证实进展；伊方媒体称尚未回复；具体谈判文本与伊方回复仍属未公开。",
+          "handles": [],
+          "source": "",
+          "highlight": false,
+          "unverified": true
+        }
+      ]
     }
   }
 }

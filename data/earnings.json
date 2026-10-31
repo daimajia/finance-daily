@@ -1228,6 +1228,94 @@
           ]
         }
       ]
+    },
+    "2026-10-30": {
+      "date": "2026-10-30",
+      "sessions": [
+        {
+          "name": "盘前",
+          "sources": [],
+          "items": [
+            {
+              "ticker": "XOM",
+              "eps": "调整后 4.23（超预期）",
+              "revenue": "1132 亿（超预期）",
+              "notes": "净利润同比翻倍到 154 亿；宣布 2027 年回购 200 亿",
+              "move": "盘前约 +1.5%",
+              "dir": "up",
+              "highlight": true
+            },
+            {
+              "ticker": "CVX",
+              "eps": "调整后 5.28（超预期）",
+              "revenue": "678 亿（超预期）",
+              "notes": "净利润约 99 亿，同比近翻两倍；美国炼厂负荷近 98%",
+              "move": "盘前约 +1.4% 至 +2%",
+              "dir": "up",
+              "highlight": true
+            },
+            {
+              "ticker": "ABBV",
+              "eps": "调整后 3.82（略超预期）",
+              "revenue": "174 亿（略超预期）",
+              "notes": "Skyrizi 和 Rinvoq 继续高增；全年调整后 EPS 上调到 13.95–13.99",
+              "move": "盘前约 -3%",
+              "dir": "down",
+              "highlight": true
+            },
+            {
+              "ticker": "AZN",
+              "eps": "核心 2.79（超预期）",
+              "revenue": "162.1 亿（超预期）",
+              "notes": "",
+              "move": "盘前约 +5%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "REGN",
+              "eps": "Non-GAAP 20.07（大幅超预期）",
+              "revenue": "51.2 亿（大幅超预期）",
+              "notes": "Dupixent、EYLEA HD 和 Libtayo 销售创新高",
+              "move": "盘前约 +4% 至 +8%",
+              "dir": "up",
+              "highlight": true
+            },
+            {
+              "ticker": "GD",
+              "eps": "4.49（超预期）",
+              "revenue": "146 亿（超预期）",
+              "notes": "订单账面比约 6.8，积压订单约 2200 亿",
+              "move": "盘前约 +3.7%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "CL",
+              "eps": "超预期",
+              "revenue": "销售超预期",
+              "notes": "上调 2026 展望",
+              "move": "盘前约 +2.8%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "BP",
+              "eps": "",
+              "revenue": "",
+              "notes": "第三季度利润约 84.6 亿（超预期）；净债下降",
+              "move": "小幅上涨",
+              "dir": "up",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "name": "盘后",
+          "sources": [],
+          "items": []
+        }
+      ]
     }
   }
 }

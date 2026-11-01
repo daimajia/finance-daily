@@ -1493,6 +1493,136 @@
           ]
         }
       ]
+    },
+    "2026-11-01": {
+      "date": "2026-11-01",
+      "topics": [
+        {
+          "title": "AI 抛售与「隐性熊市」",
+          "items": [
+            {
+              "text": "纳指 100 约 25 日抹去约 4 万亿美元，10 月 AI 股约跌 13%，剔除 AI 的标普约涨 8% 并创新高，标普距前高仅约 3.5%，抛售高度集中在科技",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "AI 叙事随价格急转悲观或过冲，多年对 AI 融资少问问题，权力正转向贷款方，科技 CDS 分化中仍有个股机会",
+              "handles": [
+                "elerianm"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "融资与信用",
+          "items": [
+            {
+              "text": "OpenAI 融资目标下调约 100 亿美元，估值目标从约 1.4 万亿降至约 1.25 万亿",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "对冲基金 Arini 旗舰约 70 亿美元年内跌逾 20%，抛售易售高收益债，PIMCO 和橡树等竞价接盘，私人信贷违约升至纪录，更多靠会计腾挪与展期",
+              "handles": [
+                "DiMartinoBooth"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "美投机级债贷未来 5 年到期约 1.9 万亿（未证实），11 月投级债发行料同比增 27% 至约 1750 亿创同期纪录",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": false,
+              "unverified": true
+            },
+            {
+              "text": "大摩：10 月全球股票多空总仓位去杠杆约 7.8%，是 2016 年来最大",
+              "handles": [
+                "qinbafrank"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "门槛利率回归、TINA 已死但股市侧几乎未察觉，当前油价下 TIPS 盈亏平衡处近 5 年第 6 百分位",
+              "handles": [
+                "RenMacLLC"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "宏观与资产",
+          "items": [
+            {
+              "text": "拉加德宣布将于 2027 年 2 月 7 日卸任欧央行行长，早于原任期",
+              "handles": [
+                "elerianm"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "比特币今年迄今约跌 11.7%、黄金约跌 10.2%，同为 2026 年主要资产最差，AWS 近 12 个月营收约 1610 亿美元高于标普中 476 家，美国经济扩张已 77 个月",
+              "handles": [
+                "charliebilello"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "中国 10 月制造业、非制造业、综合 PMI 分别为 49.3、49.7、49.7，三大指数均跌破荣枯线",
+              "handles": [
+                "CausMoney"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "欧元区平均公债远超上限，七国处过度赤字程序，法债利差已劣于欧债危机高潮期",
+              "handles": [
+                "jsblokland"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "戴蒙警告：增长很大程度上依赖巨额财政赤字，通胀未必如期回落、软着陆未必实现",
+              "handles": [
+                "CausMoney"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "加密",
+          "items": [
+            {
+              "text": "FBI 认定朝鲜黑客组织为币安约 63 亿美元被盗幕后，是史上最大，以太坊排序机构 TitanBuilder 成短期最大受益者之一",
+              "handles": [
+                "KobeissiLetter",
+                "qinbafrank"
+              ],
+              "highlight": true,
+              "unverified": false
+            }
+          ]
+        }
+      ]
     }
   }
 }

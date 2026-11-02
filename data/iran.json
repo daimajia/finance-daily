@@ -809,71 +809,178 @@
       "date": "2026-11-01",
       "items": [
         {
-          "text": "北京时间 08:00 汇总：美伊一边继续卡塔尔斡旋和万斯来信相关试探，一边加码军事威慑——伊朗最高领袖下令对任何威胁「即时、有力、不受地理限制」反击；鲁比奥称特朗普尚未决定是否重启打击、更倾向外交。",
+          "text": "北京时间约 20:00 汇总：美伊局势仍是「边谈边恫吓」——卡塔尔斡旋进入多哈第三日、双方暂无直接会谈；特朗普称谈判「进展不错」但仍点名可对「镐山」等剩余目标快速动手；德黑兰周日宣布将英海军、空军列为「恐怖组织」，军方警告新一轮冲突可能更长、更广。霍尔木兹再开放仍绑在伊朗条件上，油价维持高位溢价。",
           "handles": [],
           "source": "",
           "highlight": true
         },
         {
-          "text": "伊朗最高国家安全委员会秘书雷扎伊（10 月 31 日接受伊朗国家广播电视台采访；新华网北京时间 11 月 1 日 06:38 发稿）称已收到美副总统万斯有关重启谈判的信函，但尚未回应；称美方语气已彻底转变，是「好迹象」；并重申除非伊方条件得到满足，否则不会再开放霍尔木兹海峡、也不会参与谈判。",
+          "text": "伊朗谈判代表周日在多哈与卡塔尔斡旋方进行连续第三日磋商，旨在推动结束美以对伊战争；此前周五在德黑兰已谈逾 12 小时，卡方与华盛顿保持联系。特朗普称选前不会发动新打击，但未排除选后动武；鲁比奥称总统尚未决定是否再打、更倾向外交。",
+          "handles": [
+            "SkyNews"
+          ],
+          "source": "https://cyprus-mail.com/2026/11/01/iranian-negotiators-in-doha-to-continue-talks-to-end-the-us-iran-war-official-says",
+          "highlight": true
+        },
+        {
+          "text": "伊朗外交部宣布：根据最高国家安全委员会决议，自当日起将英国皇家海军、皇家空军列为「恐怖组织」，将军情六处（MI6）列为「敌对团体」，称系对英方过去一年「敌对行动」（含据称提供基地、将伊斯兰革命卫队列为威胁等）的对等反制。",
           "handles": [
             "AJEnglish"
           ],
-          "source": "http://www.news.cn/20261101/084109be85594719b197d935d6a1ea08/c.html",
+          "source": "https://english.news.cn/20261101/f5c346001ac548559f801f59b4f35a78/c.html",
           "highlight": true
         },
         {
-          "text": "美国务卿鲁比奥在亚特兰大 G20 外长会场合称，总统尚未决定是否恢复对伊军事行动，但更希望以外交解决；并称与伊朗的直接与间接接触「其实从未停止」。（Haaretz 标注以色列时间 10 月 31 日 19:05≈北京时间 11 月 1 日 01:05；路透同日多稿）",
-          "handles": [],
-          "source": "https://www.haaretz.com/middle-east-news/iran/2026-10-31/ty-article/trump-yet-to-decide-on-iran-strikes-u-s-open-to-diplomacy-rubio-says/000001a1-92df-d03f-aded-daff49480000",
-          "highlight": true
-        },
-        {
-          "text": "外长阿拉格齐称已研究万斯来信，视美方扩大对话尝试为积极一步，但强调目前没有与美官员会面的计划、相关说法是媒体猜测；称与卡塔尔斡旋已把伊方开放霍尔木兹方案的实施期压至约两天，条件包括解除伊斯兰堡备忘录后相关制裁、减少美在地区驻军、恢复石油豁免并解冻含卡塔尔在内的被冻结资金等。（Al Jazeera English 突发帖约 UTC 10 月 31 日 13:25≈北京时间 10 月 31 日 21:25）",
+          "text": "伊朗陆军发言人阿克拉米尼亚称：若再开战，冲突「可能比上一轮更长」，特朗普「无权决定何时、以何种条件结束」；国防部长警告将「相称、果断、有力」回应；革命卫队发言人称对美冲突「无地理限制」。",
           "handles": [
             "AJEnglish"
           ],
-          "source": "https://www.arabnews.com/middle-east/iranian-envoys-meet-qatari-mediators-as-threat-looms-of-us-strikes-after-midterms-3009168",
+          "source": "https://www.straitstimes.com/world/middle-east/irans-army-warns-that-any-new-war-with-us-could-be-longer-than-previous-conflict",
           "highlight": true
         },
         {
-          "text": "沙特主导联军称在利雅得地区拦截并摧毁一架「敌对」无人机，残骸落地无人员伤亡；报道将其放在胡塞与沙特紧张背景下，未直接定性为美伊正面交火。",
+          "text": "特朗普在海湖庄园万圣节活动对记者称：谈判「进展不错」但伊朗「不太可靠」；美方「不急」再动手，因已重创伊军力与核能力；仍有「一两个」目标要处理，「十分钟就能做完」，并点名疑似地下核相关设施「镐山」（Pickaxe Mountain）。伊方否认该处从事核工作。",
           "handles": [],
-          "source": "https://aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-hostile-drone-over-riyadh-region/4107048",
+          "source": "https://www.rte.ie/news/2026/1101/1597505-middle-east-iran/",
+          "highlight": true
+        },
+        {
+          "text": "目前无计划与美方直接会谈，卡、巴斡旋磋商继续。雷扎伊称正等待美方对伊方立场的回应，霍尔木兹「七项条件」未满足前不重开。",
+          "handles": [],
+          "source": "https://www.aljazeera.com/news/2026/11/1/mediators-continue-us-iran-negotiations-amid-war-rhetoric-what-we-know",
           "highlight": false
         },
         {
-          "text": "（未证实）伊朗海军声明称一艘油轮进入其划定的禁入/危险水域后触雷起火，并警告商船遵守航行告示——事件本身未经独立核实，多家媒体转述的是伊方声明。（Iran International 约格林尼治时间 10 月 31 日 17:01≈北京时间 11 月 1 日 01:01）",
+          "text": "国务卿鲁比奥在亚特兰大 G20 外长会后称：卡塔尔牵头磋商无设死线；总统倾向外交，但尚未决定是否再发动打击；美方几乎每日击落针对航运的无人机/导弹；批评伊朗以炸船、打邻国能源设施要挟。",
           "handles": [],
-          "source": "https://www.iranintl.com/en/202610316926",
+          "source": "https://www.thenationalnews.com/news/us/2026/10/31/us-iran-strikes-g20-rubio/",
+          "highlight": false
+        },
+        {
+          "text": "市场（周五收盘；周日休市）：布伦特 12 月合约收报约 117.64 美元/桶（活跃 1 月约 113.43），WTI 约 104.12；受霍尔木兹受袭与选后升级担忧推动。",
+          "handles": [],
+          "source": "https://www.thedailystar.net/business/global-economy/news/oil-jumps-11764-4312211",
+          "highlight": false
+        },
+        {
+          "text": "（未证实）账号 C14 等称近 48 小时有约 10 架美运输机抵以色列空军基地、约 80 架加油机调动等「大规模备战」细节——主要为单一/党派军事媒体说法，未见路透、美联社、五角大楼等独立确认。",
+          "handles": [],
+          "source": "",
           "highlight": false,
           "unverified": true
         },
         {
-          "text": "（未证实）美最早 11 月 4 日（中期选举次日）对伊发动「短暂但密集」打击并已通报海湾盟友——原报道多指向 MS NOW 约 10 月 30 日援引三名海湾高官，本窗口内仍被多家媒体转述；白宫不对敏感军事计划置评，鲁比奥公开称总统「尚未决定」。",
+          "text": "（未证实）学者罗伯特·佩普等称美空袭「可能周日或周一、中期选举前」发动——与特朗普「选前不打」及鲁比奥「尚未决定」公开表态冲突；属个人研判，非官方决策。",
           "handles": [],
-          "source": "https://www.timesofisrael.com/liveblog_entry/report-us-warns-gulf-allies-of-possible-iran-strikes-as-early-as-november-4/",
+          "source": "",
           "highlight": false,
           "unverified": true
         },
         {
-          "text": "（未证实）「美伊已就核限制与重开霍尔木兹达成初步协议」——与阿拉格齐、雷扎伊公开口径不符（伊方称仍在研究调解方案、暂无与美会谈计划、条件未满足不开海峡），属过度解读或未证实整合。",
+          "text": "（未证实）X 新闻摘要称美伊已就核、霍尔木兹、资金激励等形成「初步谅解」，中俄或任担保；财政部部长贝森特称霍尔木兹通行已回到战前水平（不含伊朗油）——主流媒体未报道已达成「初步谅解」；与路透/海事侧「航道仍严重受扰、油价高企」叙述不一致。",
           "handles": [],
-          "source": "https://x.com/i/trending/2116457105465188481",
+          "source": "",
           "highlight": false,
           "unverified": true
         },
         {
-          "text": "（未证实）美军无人机袭击伊朗格什姆岛附近渔船——主要为伊朗地方/官方口径，美方未见确认，细节不一。",
+          "text": "（未证实）雷扎伊称美方「已表示愿接受」伊方条件；核学说「是否取消核武器禁令」讨论——华盛顿未确认「接受条件」；雷扎伊本人亦称核学说尚未作出新决定。",
           "handles": [],
-          "source": "https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace",
+          "source": "https://www.iranintl.com/en/202611019728",
           "highlight": false,
           "unverified": true
         },
         {
-          "text": "（未证实）学者称美可能在周末前后对伊发动空袭——X 上对政治学者 Robert A. Pape 等观点的二次传播；属个人研判，非官方计划证实。",
+          "text": "（未证实）「巴基斯坦驻伊大使在德黑兰遇袭」视频——X 新闻与事实核查指出画面实为亚美尼亚议会斗殴旧片，属假消息。",
           "handles": [],
-          "source": "https://x.com/i/trending/2116604567509164485",
+          "source": "",
+          "highlight": false,
+          "unverified": true
+        },
+        {
+          "text": "（未证实）沙特达曼工业设施浓烟、「胡塞袭击」视频——截至检索时沙特官方未确认；交易员/账号亦提醒勿据此交易。",
+          "handles": [],
+          "source": "",
+          "highlight": false,
+          "unverified": true
+        }
+      ]
+    },
+    "2026-11-02": {
+      "date": "2026-11-02",
+      "items": [
+        {
+          "text": "北京时间 08:00 汇总：多哈斡旋进入第三天，伊朗继续推销「两天计划」重开霍尔木兹但尚未谈成；特朗普在爱荷华州放话「很快结束，要么成交要么收场」，油价因和谈预期回落逾 1%。与此同时，霍尔木兹再有油轮遇险报道，海湾国家公开表示已为最坏情况做准备。",
+          "handles": [],
+          "source": "",
+          "highlight": true
+        },
+        {
+          "text": "亚洲早盘油价因和谈预期回落逾 1%：布伦特跌约 1.33% 至约 111.92 美元/桶，WTI 跌约 1.71% 至约 102.34 美元/桶；市场将回落与伊朗—卡塔尔连续第三天磋商、希望缓和战事有关。",
+          "handles": [],
+          "source": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/oil-slips-more-1-talks-continue-ending-iran-war",
+          "highlight": true
+        },
+        {
+          "text": "特朗普在爱荷华州迪比克拉票期间接受 RSBN 采访称：对伊战争将「很快以某种方式结束」，伊朗要么达成协议，要么由美方「收场」；并宣称已取得重大胜利。半岛电视台、中东之眼等均予报道。",
+          "handles": [
+            "AJEnglish"
+          ],
+          "source": "https://x.com/AJEnglish/status/2117028966540443912",
+          "highlight": true
+        },
+        {
+          "text": "伊朗伊斯兰革命卫队海军称两艘油轮因走「未经授权航线」触雷爆炸；另据英国海上贸易行动（UKMTO），霍尔木兹有船只遭不明投射物打击。具体船名、伤亡与责任归属仍待进一步独立核实，但「伊方宣称」与「UKMTO 通报」均已被主流媒体报道。",
+          "handles": [
+            "Reuters",
+            "AJEnglish"
+          ],
+          "source": "https://x.com/Reuters/status/2116988698508005466",
+          "highlight": true
+        },
+        {
+          "text": "知情人士向路透证实，伊朗谈判代表周日在多哈与卡塔尔调停方进行第三天会谈。外长阿拉格齐称磋商「正在进行并有进展」，伊方已做好「防御与外交」两手准备；关于「两天方案」（美方先落实措施，次日重开霍尔木兹）的讨论仍在继续，但尚未达成最终结论。卫报称卡塔尔还在推动解冻逾 60 亿美元伊朗资产等安排。目前无美伊直接谈判安排。",
+          "handles": [],
+          "source": "https://www.cnbc.com/2026/11/01/iranian-negotiators-in-qatar-to-continue-talks-to-end-war-reuters.html",
+          "highlight": true
+        },
+        {
+          "text": "阿联酋总统外交顾问加尔贾什在巴林麦纳麦对话会上表示，地区被卷入本想以外交避免的危机，正寻求政治出路；同时强调已为最坏情况做准备。法新社、卫报、彭博多处援引。",
+          "handles": [],
+          "source": "https://www.japantimes.co.jp/news/2026/11/02/world/gulf-states-iran-us/",
+          "highlight": false
+        },
+        {
+          "text": "Axios：特朗普与内塔尼亚胡就下一步对伊行动有过「直率」通话（通话本身发生在 10 月 31 日）；以美消息人士称内塔尼亚胡敦促中期选举后立即恢复对伊打击，特朗普则希望先让谈判充分展开。特朗普公开称通话「很好」，并证实谈到伊朗，但未透露细节；白宫与以总理办公室均未就 Axios 细节置评。",
+          "handles": [],
+          "source": "https://www.axios.com/2026/11/01/trump-netanyahu-iran-negotiations-war",
+          "highlight": false
+        },
+        {
+          "text": "（未证实）「美军最快 11 月 4 日对伊发动短促密集打击」——部分中文媒体转述「外媒/美官员向海湾盟友通报」；未见路透、美联社、官方声明等独立确认；卢比奥周六仍称总统尚未决定是否再打。",
+          "handles": [],
+          "source": "",
+          "highlight": false,
+          "unverified": true
+        },
+        {
+          "text": "（未证实）以色列拉蒙机场出现大批美军加油机 = 即将联手打伊朗——可见机坪画面，但「为对伊打击集结」的动机未经五角大楼或主流战地记者证实；也可能是轮换/演训/日常部署。",
+          "handles": [],
+          "source": "",
+          "highlight": false,
+          "unverified": true
+        },
+        {
+          "text": "（未证实）「特朗普已决定对中东采取军事行动」——个别 X 账号措辞像突发快讯；无可靠媒体或白宫同源，与卢比奥「尚未决定」、特朗普本人「谈判仍在进行」的公开说法冲突。",
+          "handles": [],
+          "source": "",
+          "highlight": false,
+          "unverified": true
+        },
+        {
+          "text": "（未证实）巴基斯坦驻伊朗大使在德黑兰遇袭住院——社媒视频谣言，随后被证伪：画面实为亚美尼亚议会冲突；巴基斯坦驻德黑兰使馆否认，大使安全履职。",
+          "handles": [],
+          "source": "",
           "highlight": false,
           "unverified": true
         }

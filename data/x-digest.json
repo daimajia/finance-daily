@@ -1623,6 +1623,176 @@
           ]
         }
       ]
+    },
+    "2026-11-02": {
+      "date": "2026-11-02",
+      "topics": [
+        {
+          "title": "盘面与轮动",
+          "items": [
+            {
+              "text": "10 月标普等权跑赢市值加权约 5.7 个百分点，是 2009 年 4 月以来最大月度优势，有观点称指数跌时约 77% 成分股上涨",
+              "handles": [
+                "KobeissiLetter",
+                "RenMacLLC"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "AI 股周五为近两年第 7 大抛售，10 月纳指显著跑输道指与欧股",
+              "handles": [
+                "biancoresearch",
+                "elerianm"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "苹果成 Mag7 中唯一年内跑赢标普者，距高点约：苹果 -2%、标普 -3%、英伟达 -16%、Meta -23%、比特币 -39%",
+              "handles": [
+                "charliebilello"
+              ],
+              "highlight": true,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "AI 开支与信用",
+          "items": [
+            {
+              "text": "亚马逊、谷歌、Meta、微软三季度资本开支合计创纪录约 2019 亿美元，近一年翻倍有余",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "美国信息处理设备与软件私人固定资产投资三季度年化约增 7.3% 至纪录约 1.77 万亿美元，是 1983 年以来最大季增",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "欧美高收益债内部分化扩大，最弱垃圾级与较高评级垃圾债利差走阔",
+              "handles": [
+                "elerianm"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "美国困境贷款规模约 1310 亿美元，是近六年高点",
+              "handles": [
+                "DiMartinoBooth"
+              ],
+              "highlight": true,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "通胀、债市与盈利",
+          "items": [
+            {
+              "text": "核心 PCE 已连续 67 个月高于 2% 目标，有观点称货币政策仍偏松、更多加息在途",
+              "handles": [
+                "charliebilello",
+                "RenMacLLC"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "美债处于史上最长回撤约 75 个月，有观点称「债券终于有收益，股票尚未注意」",
+              "handles": [
+                "charliebilello",
+                "RenMacLLC"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "标普盈利预计今年约增 35%、2027 年再约增 15%，两年合计约 55%，称周期末期罕见",
+              "handles": [
+                "charliebilello"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "宏观数据",
+          "items": [
+            {
+              "text": "9 月美国商品贸易逆差扩大至 1349 亿美元，是 2025 年 3 月以来最宽，进口创纪录、资本品进口环比增 7.5%",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "韩国三季度 GDP 环比增 1.0%，连续第 3 季扩张，出口增 2.3%，由半导体等带动",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "最大实物黄金 ETF GLD 10 月净流出约 18 亿美元，是 6 月以来最大单月流出",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "地缘、选举与公司",
+          "items": [
+            {
+              "text": "Axios：内塔尼亚胡敦促特朗普中期选举后立即打击伊朗，特朗普倾向继续谈判并准备军事选项",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "Polymarket 民主党横扫、夺回两院概率约 71%，是迄今最高",
+              "handles": [
+                "charliebilello"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "苹果今日盘后财报前瞻：本季或略超预期，下季指引或受内存涨价侵蚀，FBI 认定币安被盗为朝鲜黑客所为",
+              "handles": [
+                "qinbafrank"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "戴蒙称美国仍属最安全投资地之一，中国在汽车、电池、太阳能、机床等领域实力显著",
+              "handles": [
+                "CausMoney"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        }
+      ]
     }
   }
 }

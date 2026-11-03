@@ -1793,6 +1793,156 @@
           ]
         }
       ]
+    },
+    "2026-11-03": {
+      "date": "2026-11-03",
+      "topics": [
+        {
+          "title": "油价 / 美伊",
+          "items": [
+            {
+              "text": "美伊外交预期升温，WTI收96.46美元（约-7.4%）、布伦特收104.77美元（约-7.6%）；特朗普称油价“像石头一样掉”、伊朗愿和解，Rubio称倾向外交",
+              "handles": [
+                "KobeissiLetter",
+                "elerianm"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "10年美债约4.91%，油价大跌下收益率几乎未降",
+              "handles": [
+                "elerianm"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "科技抛售与风格轮动",
+          "items": [
+            {
+              "text": "纳指/QQQ进入技术性回调：QQQ自10/6高点约-10.7%、近三日约-6.2%；科技ETF自高点回撤约14%；盘中一度抹去约万亿美元市值",
+              "handles": [
+                "MikeZaccardi",
+                "KobeissiLetter"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "10月等权相对市值加权差距为2009年4月以来最大单月；防御板块（医疗/材料/必需消费等）相对强势",
+              "handles": [
+                "lisaabramowicz1",
+                "MikeZaccardi",
+                "LizAnnSonders"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "宏观数据",
+          "items": [
+            {
+              "text": "10月ISM制造业PMI终值55.5（预期/前值54.5），新订单55.5、价格75.2、就业52.4；S&P全球制造业终值54.9（闪值56.0）",
+              "handles": [
+                "LizAnnSonders"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "9月建筑支出环比-1.9%（2020年4月以来最大降幅），私人住宅-5.5%、私人非住宅+1.1%；非住宅半年折年约+12.6%，数据中心贡献大",
+              "handles": [
+                "LizAnnSonders",
+                "CausMoney",
+                "RenMacLLC"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "SLOOS：住宅按揭贷款需求净百分比跌至-31.3，为2021年四季度以来最低",
+              "handles": [
+                "RenMacLLC"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "公司与并购",
+          "items": [
+            {
+              "text": "苹果财季营收1145亿美元（+12%）略超预期，股价仍偏弱",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "甲骨文拟股债各约100亿美元共筹资200亿美元扩AI，股价大跌，自年内高点回撤约五成",
+              "handles": [
+                "KobeissiLetter",
+                "CausMoney"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "Marvell全股票收购Lumentum：换股1:4.5，隐含EV约1150亿美元，合并后原MRVL/LITE股东约67%/33%",
+              "handles": [
+                "qinbafrank"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "英特尔延续暴跌：自高点回撤约57%–58%，市值蒸发约4400–4500亿美元",
+              "handles": [
+                "KobeissiLetter",
+                "MikeZaccardi"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "信用与其他",
+          "items": [
+            {
+              "text": "据高盛：美元CCC利差约1118bp（约90分位）vs中位数约809，低评级信用告急（未证实百分位细节）",
+              "handles": [
+                "DiMartinoBooth"
+              ],
+              "highlight": false,
+              "unverified": true
+            },
+            {
+              "text": "Anthropic修订S-1：前九月营收约332亿美元、净亏损约1040亿美元（多为非现金）（未证实）",
+              "handles": [
+                "charliebilello"
+              ],
+              "highlight": false,
+              "unverified": true
+            },
+            {
+              "text": "自7月1日以来美国国债增逾1.1万亿美元（未证实）",
+              "handles": [
+                "charliebilello"
+              ],
+              "highlight": false,
+              "unverified": true
+            }
+          ]
+        }
+      ]
     }
   }
 }

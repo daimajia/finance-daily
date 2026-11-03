@@ -910,75 +910,137 @@
       "date": "2026-11-02",
       "items": [
         {
-          "text": "北京时间 08:00 汇总：多哈斡旋进入第三天，伊朗继续推销「两天计划」重开霍尔木兹但尚未谈成；特朗普在爱荷华州放话「很快结束，要么成交要么收场」，油价因和谈预期回落逾 1%。与此同时，霍尔木兹再有油轮遇险报道，海湾国家公开表示已为最坏情况做准备。",
+          "text": "北京时间约 20:00 汇总：美伊仍在卡塔尔斡旋下间接接触——伊朗周一公开把霍尔木兹复航方案压缩到「两天」，但坚持美方先结束海上封锁并满足其条件；美方尚未敲定协议。油价因外交预期明显回落（WTI 跌破 100 美元、布伦特跌逾 4%），同时中方加大斡旋，地区对中期选举后可能再开打仍高度戒备。",
           "handles": [],
           "source": "",
           "highlight": true
         },
         {
-          "text": "亚洲早盘油价因和谈预期回落逾 1%：布伦特跌约 1.33% 至约 111.92 美元/桶，WTI 跌约 1.71% 至约 102.34 美元/桶；市场将回落与伊朗—卡塔尔连续第三天磋商、希望缓和战事有关。",
+          "text": "中国外长王毅在北京会见伊朗最高国家安全委员会副秘书巴盖里，敦促政治解决而非再战；巴盖里表示伊朗将捍卫主权安全，同时愿同各方接触谈判。中国外交部、新华社及《南华早报》均报道。",
           "handles": [],
-          "source": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/oil-slips-more-1-talks-continue-ending-iran-war",
+          "source": "https://www.mfa.gov.cn/web/wjdt_674879/gjldrhd_674881/202611/t20261102_12051622.shtml",
           "highlight": true
         },
         {
-          "text": "特朗普在爱荷华州迪比克拉票期间接受 RSBN 采访称：对伊战争将「很快以某种方式结束」，伊朗要么达成协议，要么由美方「收场」；并宣称已取得重大胜利。半岛电视台、中东之眼等均予报道。",
-          "handles": [
-            "AJEnglish"
-          ],
-          "source": "https://x.com/AJEnglish/status/2117028966540443912",
-          "highlight": true
-        },
-        {
-          "text": "伊朗伊斯兰革命卫队海军称两艘油轮因走「未经授权航线」触雷爆炸；另据英国海上贸易行动（UKMTO），霍尔木兹有船只遭不明投射物打击。具体船名、伤亡与责任归属仍待进一步独立核实，但「伊方宣称」与「UKMTO 通报」均已被主流媒体报道。",
-          "handles": [
-            "Reuters",
-            "AJEnglish"
-          ],
-          "source": "https://x.com/Reuters/status/2116988698508005466",
-          "highlight": true
-        },
-        {
-          "text": "知情人士向路透证实，伊朗谈判代表周日在多哈与卡塔尔调停方进行第三天会谈。外长阿拉格齐称磋商「正在进行并有进展」，伊方已做好「防御与外交」两手准备；关于「两天方案」（美方先落实措施，次日重开霍尔木兹）的讨论仍在继续，但尚未达成最终结论。卫报称卡塔尔还在推动解冻逾 60 亿美元伊朗资产等安排。目前无美伊直接谈判安排。",
+          "text": "伊朗称若美方满足条件，霍尔木兹可在两天内恢复通航并重启谈判，「球在美方」：原九月提出的七天方案可压缩为两天，但须美方结束对伊港口海军封锁、解冻资产、放松石油相关制裁并停止各线战事等；消息经卡塔尔等渠道仍在交换，尚未达成最终协议。路透、美联社、Euronews 等独立报道一致。",
           "handles": [],
-          "source": "https://www.cnbc.com/2026/11/01/iranian-negotiators-in-qatar-to-continue-talks-to-end-war-reuters.html",
+          "source": "https://apnews.com/article/mideast-news-november-2-2026-8722c8b5a9deb228e7a188d4760ea8ed",
           "highlight": true
         },
         {
-          "text": "阿联酋总统外交顾问加尔贾什在巴林麦纳麦对话会上表示，地区被卷入本想以外交避免的危机，正寻求政治出路；同时强调已为最坏情况做准备。法新社、卫报、彭博多处援引。",
+          "text": "知情官员：伊朗谈判人员已离开多哈磋商，草案仍在流转，后续会议仍有可能；官员称代表团周日离开并非因谈判破裂；副外长加里巴巴迪此前在多哈协助经卡塔尔向美方传话。",
           "handles": [],
-          "source": "https://www.japantimes.co.jp/news/2026/11/02/world/gulf-states-iran-us/",
+          "source": "https://www.al-monitor.com/originals/2026/11/iranians-have-left-doha-talks-draft-proposal-us-deal-being-circulated-official",
+          "highlight": true
+        },
+        {
+          "text": "国际油价大跌：约北京时间 11月2日 18:49，1 月布伦特期货跌约 4.61% 至约 108.20 美元/桶，12 月 WTI 跌约 4.44% 至约 99.50 美元；市场交易美伊外交缓和预期。",
+          "handles": [],
+          "source": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
+          "highlight": true
+        },
+        {
+          "text": "伊朗否认讨论将 60% 浓缩铀运往第三国；称暂不谈恢复 IAEA 核查条件——巴盖伊称未讨论外运浓缩铀，伊朗仍为 NPT 缔约方；恢复核查前要求总干事格罗西等先就美以打击伊核设施表态。",
+          "handles": [],
+          "source": "https://www.iranintl.com/en/202611022292",
           "highlight": false
         },
         {
-          "text": "Axios：特朗普与内塔尼亚胡就下一步对伊行动有过「直率」通话（通话本身发生在 10 月 31 日）；以美消息人士称内塔尼亚胡敦促中期选举后立即恢复对伊打击，特朗普则希望先让谈判充分展开。特朗普公开称通话「很好」，并证实谈到伊朗，但未透露细节；白宫与以总理办公室均未就 Axios 细节置评。",
+          "text": "中国将派中东问题特使翟隽访问伊朗、阿曼、沙特，推动停火降温；与王毅会见相呼应，北京加大地区外交。",
           "handles": [],
-          "source": "https://www.axios.com/2026/11/01/trump-netanyahu-iran-negotiations-war",
+          "source": "https://apnews.com/article/mideast-news-november-2-2026-8722c8b5a9deb228e7a188d4760ea8ed",
           "highlight": false
         },
         {
-          "text": "（未证实）「美军最快 11 月 4 日对伊发动短促密集打击」——部分中文媒体转述「外媒/美官员向海湾盟友通报」；未见路透、美联社、官方声明等独立确认；卢比奥周六仍称总统尚未决定是否再打。",
+          "text": "（未证实）塔克·卡尔森称美方或在数日内对「镐山」（Pickaxe Mountain）动用核武器——仅来自媒体人单方说法，无白宫、国防部或以色列官方证实；此前特朗普公开表示「不必用核」、可用常规手段处理该目标。",
           "handles": [],
           "source": "",
           "highlight": false,
           "unverified": true
         },
         {
-          "text": "（未证实）以色列拉蒙机场出现大批美军加油机 = 即将联手打伊朗——可见机坪画面，但「为对伊打击集结」的动机未经五角大楼或主流战地记者证实；也可能是轮换/演训/日常部署。",
+          "text": "（未证实）匿名消息称特朗普正评估防长赫格塞斯与参联会主席凯恩，并考虑中期选举后对伊再袭——白宫则称总统对两人有充分信任；「已下令打击」并无实证。属人事与作战意图推测，未经官方确认。",
+          "handles": [],
+          "source": "",
+          "highlight": false,
+          "unverified": true
+        }
+      ]
+    },
+    "2026-11-03": {
+      "date": "2026-11-03",
+      "items": [
+        {
+          "text": "北京时间约 08:00 汇总：美伊双方都释放更积极的外交信号——特朗普公开说伊朗「想尽快达成和解」、被问及中期选举后是否再打时答「No」，万斯称谈判有进展；德黑兰则把霍尔木兹复航方案压缩到两天，并称最高领袖已授予政府部分谈判权限。油价因此大跌逾 7%。协议仍未谈成，核问题上分歧依旧；内塔尼亚胡方面继续敦促美方在选后恢复打击。格什姆岛爆炸等尚无官方定性。",
+          "handles": [],
+          "source": "",
+          "highlight": true
+        },
+        {
+          "text": "油价因外交预期暴跌逾 7%：约北京时间 11月3日 03:30（纽约原油结算），布伦特结算跌 7.63% 至每桶 104.77 美元，WTI 跌 7.36% 至 96.46 美元，为数月来最大单日跌幅之一；市场押注美伊紧张缓和、霍尔木兹供应风险下降。",
+          "handles": [],
+          "source": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
+          "highlight": true
+        },
+        {
+          "text": "特朗普被问「中期选举后是否再打伊朗」时答「No」（约北京时间 11月3日 05:00–06:00，林肯纪念堂映池演讲后）；他当天稍早还对 Axios 称「不着急」决定是否恢复对伊作战，但「迟早会做点什么」。",
+          "handles": [],
+          "source": "https://nypost.com/2026/11/02/us-news/trump-gives-blunt-one-word-answer-when-asked-about-renewed-iran-strikes-after-midterms/",
+          "highlight": true
+        },
+        {
+          "text": "特朗普发帖称伊朗「想尽快和解」，「有可能谈成」；帖文称油价「像石头一样往下掉」，因市场认为不会再与伊朗开战。",
+          "handles": [],
+          "source": "https://www.channelnewsasia.com/world/us-iran-war-talks-progress-trump-tehran-hormuz-6514421",
+          "highlight": true
+        },
+        {
+          "text": "万斯：与伊朗有「不少良好对话」，对谈判前景「感觉不错」；称与总统都对达成谈判解决「感觉相当不错」，但强调需要伊朗对不重建核计划作出「坚定且可核查的承诺」；美方「没有设恢复打击的期限」。",
+          "handles": [],
+          "source": "https://apnews.com/article/iran-us-trump-netanyahu-israel-war-b4519ef86bafe2672e0855d7a48ce309",
+          "highlight": true
+        },
+        {
+          "text": "卡塔尔调解方周一晚赴德黑兰，草案在流转：路透称周一晚间调解方赴德黑兰；Axios 称卡塔尔方面起草约三天信心建立措施草案，等待美伊反馈。（来源正文后半段在源文件中截断，未补写。）",
+          "handles": [],
+          "source": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
+          "highlight": false
+        },
+        {
+          "text": "内塔尼亚胡方面敦促美方选后对伊朗再发动打击：美联社、Axios、CBS 等援引地区官员与知情人士称，以总理在周末通话中推动恢复打击，而特朗普倾向于先让谈判走下去；部分海湾盟友警告再打可能刺激胡塞等代理力量扩大袭击。",
+          "handles": [],
+          "source": "https://apnews.com/article/mideast-news-november-2-2026-8722c8b5a9deb228e7a188d4760ea8ed",
+          "highlight": true
+        },
+        {
+          "text": "伊朗警告若再遭侵略将「强力、立即、全面」回应：外长发言人巴盖伊周一记者会称战争仍在进行（含经济围困），「球在美方」；任何侵略都将遭强力回应。",
+          "handles": [],
+          "source": "https://www.channelnewsasia.com/world/us-iran-war-talks-progress-trump-tehran-hormuz-6514421",
+          "highlight": false
+        },
+        {
+          "text": "（未证实）伊朗格什姆岛传出约五次连续爆炸——IRNA 称爆炸强度似有落点在岛上，有居民称看到两架飞机；另有法尔斯等称阿巴斯港一带滨海方向也有爆炸声。美方未确认任何新打击，伊朗地方当局亦未给出官方原因。",
+          "handles": [],
+          "source": "https://www.iranintl.com/en/202611025366",
+          "highlight": false,
+          "unverified": true
+        },
+        {
+          "text": "（未证实）IRGC 相关渠道称在格什姆附近击落美军无人机——与爆炸传闻同期流传；美军未证实，此前类似击落宣称亦曾被否认。",
           "handles": [],
           "source": "",
           "highlight": false,
           "unverified": true
         },
         {
-          "text": "（未证实）「特朗普已决定对中东采取军事行动」——个别 X 账号措辞像突发快讯；无可靠媒体或白宫同源，与卢比奥「尚未决定」、特朗普本人「谈判仍在进行」的公开说法冲突。",
+          "text": "（未证实）塔克·卡尔森等称以方施压美方对「镐山」（Pickaxe Mountain）地下设施动用核打击——属评论员说法与二手传言，白宫/五角大楼无此类计划说明；特朗普公开否定了选后立即再打的说法。",
           "handles": [],
           "source": "",
           "highlight": false,
           "unverified": true
         },
         {
-          "text": "（未证实）巴基斯坦驻伊朗大使在德黑兰遇袭住院——社媒视频谣言，随后被证伪：画面实为亚美尼亚议会冲突；巴基斯坦驻德黑兰使馆否认，大使安全履职。",
+          "text": "（未证实）伊朗议员/前外长莫塔基扬言若美再打，战火可扩至欧洲美军基地——属个别官员口头威胁、细节与时机报道不一，并非伊朗政府正式对等声明。",
           "handles": [],
           "source": "",
           "highlight": false,

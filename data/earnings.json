@@ -1316,6 +1316,158 @@
           "items": []
         }
       ]
+    },
+    "2026-11-02": {
+      "date": "2026-11-02",
+      "sessions": [
+        {
+          "name": "盘前",
+          "sources": [],
+          "items": [
+            {
+              "ticker": "MAR",
+              "eps": "调整后 3.02（预期约 2.84–2.87）",
+              "revenue": "约 70 亿（超预期）",
+              "notes": "全球 RevPAR +6.5%；上调全年 RevPAR 指引至 4.5%–5%",
+              "move": "盘前约 +3%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "EL",
+              "eps": "调整后 0.72（预期约 0.51）",
+              "revenue": "37.2 亿（超预期）",
+              "notes": "香水带动增长；上调财年有机销售与 EPS 指引",
+              "move": "盘前约 +3% 至 +5%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "IDXX",
+              "eps": "调整后约 3.96–4.01（预期约 3.72）",
+              "revenue": "12.1 亿（超预期）",
+              "notes": "上调全年营收与 EPS",
+              "move": "盘前约 +2.6%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "FOXA",
+              "eps": "调整后 2.54（大幅超预期）",
+              "revenue": "45.7 亿（大幅超预期）",
+              "notes": "世界杯广告与政治广告拉动；调整后 EBITDA +54%",
+              "move": "",
+              "dir": "flat",
+              "highlight": false
+            },
+            {
+              "ticker": "ETR",
+              "eps": "1.98（预期约 1.71）",
+              "revenue": "",
+              "notes": "全年调整后 EPS 指引收窄至 4.35–4.45",
+              "move": "",
+              "dir": "flat",
+              "highlight": false
+            },
+            {
+              "ticker": "CHKP",
+              "eps": "Non-GAAP 2.49（大致符合）",
+              "revenue": "约 6.70 亿（略逊预期且同比小降）",
+              "notes": "CEO 称复苏慢于预期",
+              "move": "盘前约 -7% 至 -9%",
+              "dir": "down",
+              "highlight": true
+            },
+            {
+              "ticker": "TSEM",
+              "eps": "略逊预期",
+              "revenue": "创纪录约 5.26 亿（超预期）",
+              "notes": "Q4 营收指引约 6 亿偏强",
+              "move": "盘前约 +4.5%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "TEM",
+              "eps": "",
+              "revenue": "",
+              "notes": "业绩超预期并上调全年营收指引",
+              "move": "盘前约 +4%",
+              "dir": "up",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "name": "盘后",
+          "sources": [],
+          "items": [
+            {
+              "ticker": "AAPL",
+              "eps": "2.10（预期 1.99）",
+              "revenue": "114.5B（预期约 113.4B）",
+              "notes": "iPhone 强、iPad 偏弱；指引 12 月季营收同比增 7%–10%",
+              "move": "盘后几乎持平",
+              "dir": "flat",
+              "highlight": true
+            },
+            {
+              "ticker": "PLTR",
+              "eps": "调整后 0.44（预期 0.41）",
+              "revenue": "2.31B（预期约 2.18B）",
+              "notes": "美国商业收入首次超过政府端；上调全年营收指引至约 85.3 亿",
+              "move": "盘后约 -2%",
+              "dir": "down",
+              "highlight": true
+            },
+            {
+              "ticker": "VRTX",
+              "eps": "调整后 4.76（符合预期）",
+              "revenue": "34.4 亿（略超预期）",
+              "notes": "上调全年营收指引但中值仍低于共识",
+              "move": "盘后大致持平",
+              "dir": "flat",
+              "highlight": false
+            },
+            {
+              "ticker": "CLX",
+              "eps": "调整后 1.55（预期 1.07，大超）",
+              "revenue": "19.1 亿（超预期）",
+              "notes": "",
+              "move": "盘后约 +2%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "ON",
+              "eps": "小幅超预期",
+              "revenue": "小幅超预期",
+              "notes": "宣布收购 Ferric",
+              "move": "盘后约 -2% 至 -4%",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "LSCC",
+              "eps": "",
+              "revenue": "超预期",
+              "notes": "上调展望",
+              "move": "盘后涨超 7%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "FN",
+              "eps": "",
+              "revenue": "",
+              "notes": "本季指引大幅高于预期",
+              "move": "盘后涨超 12%",
+              "dir": "up",
+              "highlight": true
+            }
+          ]
+        }
+      ]
     }
   }
 }

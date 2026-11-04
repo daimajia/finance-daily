@@ -971,78 +971,131 @@
       "date": "2026-11-03",
       "items": [
         {
-          "text": "北京时间约 08:00 汇总：美伊双方都释放更积极的外交信号——特朗普公开说伊朗「想尽快达成和解」、被问及中期选举后是否再打时答「No」，万斯称谈判有进展；德黑兰则把霍尔木兹复航方案压缩到两天，并称最高领袖已授予政府部分谈判权限。油价因此大跌逾 7%。协议仍未谈成，核问题上分歧依旧；内塔尼亚胡方面继续敦促美方在选后恢复打击。格什姆岛爆炸等尚无官方定性。",
+          "text": "北京时间约 20:00 汇总：美伊在霍尔木兹海峡附近再次出现有限军事交火——美国对伊朗格什姆岛等地发动所谓「防御性」打击；卡塔尔斡旋仍在继续，但伊朗官员称协议仍遥远；油价在周一暴跌后周二小幅反弹。",
           "handles": [],
           "source": "",
           "highlight": true
         },
         {
-          "text": "油价因外交预期暴跌逾 7%：约北京时间 11月3日 03:30（纽约原油结算），布伦特结算跌 7.63% 至每桶 104.77 美元，WTI 跌 7.36% 至 96.46 美元，为数月来最大单日跌幅之一；市场押注美伊紧张缓和、霍尔木兹供应风险下降。",
+          "text": "伊朗高官称美伊协议仍遥远；核谈须先满足伊方条件：一名不愿具名的伊朗高级官员对路透表示，尽管外交加码，德黑兰与华盛顿距离结束战争的协议仍很远；若美方希望重开霍尔木兹，须先满足伊方条件；核问题谈判只能在条件落实之后开始，且不会接受美方「过度要求」。",
           "handles": [],
-          "source": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
+          "source": "https://www.al-monitor.com/originals/2026/11/iran-us-deal-still-out-reach-despite-diplomatic-push-iranian-official-says",
           "highlight": true
         },
         {
-          "text": "特朗普被问「中期选举后是否再打伊朗」时答「No」（约北京时间 11月3日 05:00–06:00，林肯纪念堂映池演讲后）；他当天稍早还对 Axios 称「不着急」决定是否恢复对伊作战，但「迟早会做点什么」。",
+          "text": "卡塔尔：双方仍在审阅斡旋方案，希望达成过渡性协议。发言人安萨里称美伊均仍承诺谈判、正在审阅调解方提出的方案；卡塔尔代表团周一晚在德黑兰会谈逾三小时后已返回，磋商仍在继续。",
           "handles": [],
-          "source": "https://nypost.com/2026/11/02/us-news/trump-gives-blunt-one-word-answer-when-asked-about-renewed-iran-strikes-after-midterms/",
+          "source": "https://thepeninsulaqatar.com/article/03/11/2026/qatar-seeks-interim-us-iran-agreement-to-build-confidence-pave-way-for-lasting-peace-al-ansari",
           "highlight": true
         },
         {
-          "text": "特朗普发帖称伊朗「想尽快和解」，「有可能谈成」；帖文称油价「像石头一样往下掉」，因市场认为不会再与伊朗开战。",
+          "text": "伊朗议长加利巴夫：防止再开战的「球在美国一边」。称伊方已给出「有力且理性」回应，现在轮到美国防止战争；并警告若美方战略误判，伊方回应将不可预测、不受地理限制。",
           "handles": [],
-          "source": "https://www.channelnewsasia.com/world/us-iran-war-talks-progress-trump-tehran-hormuz-6514421",
-          "highlight": true
-        },
-        {
-          "text": "万斯：与伊朗有「不少良好对话」，对谈判前景「感觉不错」；称与总统都对达成谈判解决「感觉相当不错」，但强调需要伊朗对不重建核计划作出「坚定且可核查的承诺」；美方「没有设恢复打击的期限」。",
-          "handles": [],
-          "source": "https://apnews.com/article/iran-us-trump-netanyahu-israel-war-b4519ef86bafe2672e0855d7a48ce309",
-          "highlight": true
-        },
-        {
-          "text": "卡塔尔调解方周一晚赴德黑兰，草案在流转：路透称周一晚间调解方赴德黑兰；Axios 称卡塔尔方面起草约三天信心建立措施草案，等待美伊反馈。（来源正文后半段在源文件中截断，未补写。）",
-          "handles": [],
-          "source": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
+          "source": "https://www.bbc.com/news/articles/cx240mrm3g8vo",
           "highlight": false
         },
         {
-          "text": "内塔尼亚胡方面敦促美方选后对伊朗再发动打击：美联社、Axios、CBS 等援引地区官员与知情人士称，以总理在周末通话中推动恢复打击，而特朗普倾向于先让谈判走下去；部分海湾盟友警告再打可能刺激胡塞等代理力量扩大袭击。",
+          "text": "油价周二回升：格什姆打击报道后布伦特重回约 105–107 美元区间。周一布伦特曾因外交乐观情绪大跌逾 7%（收盘约 104.77 美元附近），周二反弹约 1%–2%，再度站上约 105 美元上方。",
           "handles": [],
-          "source": "https://apnews.com/article/mideast-news-november-2-2026-8722c8b5a9deb228e7a188d4760ea8ed",
+          "source": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
           "highlight": true
         },
         {
-          "text": "伊朗警告若再遭侵略将「强力、立即、全面」回应：外长发言人巴盖伊周一记者会称战争仍在进行（含经济围困），「球在美方」；任何侵略都将遭强力回应。",
+          "text": "美国对伊朗格什姆岛等地发动有限「防御性」打击（约 11月2日晚至 11月3日凌晨）。多名美国官员（匿名）称打击针对霍尔木兹附近被用于攻击美方资产的地对空导弹等目标，属有限防御行动；伊朗国家媒体报道格什姆、亨甘岛及阿巴斯港附近听到爆炸。美方军方未公开正式声明。",
           "handles": [],
-          "source": "https://www.channelnewsasia.com/world/us-iran-war-talks-progress-trump-tehran-hormuz-6514421",
+          "source": "https://apnews.com/article/iran-us-strikes-strait-hormuz-183b3d32d9bf5241f744abb917e6713e",
+          "highlight": true
+        },
+        {
+          "text": "伊朗革命卫队称击落美方无人机（MQ-9 及 LUCAS）；印度通报阿曼附近货船遭袭致一名印度船员死亡——印度籍货船 MSV Al Jusufi 在阿曼近海遭「不明空中物体」袭击，古吉拉特邦船员 Gandhar Nahim Ajij 伤重不治，其余 13 人获救。美方尚未公开回应无人机说法。",
+          "handles": [],
+          "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/",
           "highlight": false
         },
         {
-          "text": "（未证实）伊朗格什姆岛传出约五次连续爆炸——IRNA 称爆炸强度似有落点在岛上，有居民称看到两架飞机；另有法尔斯等称阿巴斯港一带滨海方向也有爆炸声。美方未确认任何新打击，伊朗地方当局亦未给出官方原因。",
-          "handles": [],
-          "source": "https://www.iranintl.com/en/202611025366",
-          "highlight": false,
-          "unverified": true
-        },
-        {
-          "text": "（未证实）IRGC 相关渠道称在格什姆附近击落美军无人机——与爆炸传闻同期流传；美军未证实，此前类似击落宣称亦曾被否认。",
+          "text": "（未证实）塔克·卡尔森称美方可能对「镐山」核设施动用核武器、决策或在 11月7日前——属评论员主张，白宫官员否认「迫在眉睫」计划；特朗普周一亦否认中期选举后必有大规模打击。",
           "handles": [],
           "source": "",
           "highlight": false,
           "unverified": true
         },
         {
-          "text": "（未证实）塔克·卡尔森等称以方施压美方对「镐山」（Pickaxe Mountain）地下设施动用核打击——属评论员说法与二手传言，白宫/五角大楼无此类计划说明；特朗普公开否定了选后立即再打的说法。",
+          "text": "（未证实）有分析人士传格什姆爆炸实为以色列所为、美方未参与——与美联社、CBS、BBC、路透等多家同时引述美国官员确认「美方实施有限打击」相冲突；目前应以多源美方官员说法为主。",
           "handles": [],
           "source": "",
           "highlight": false,
           "unverified": true
-        },
+        }
+      ]
+    },
+    "2026-11-04": {
+      "date": "2026-11-04",
+      "items": [
         {
-          "text": "（未证实）伊朗议员/前外长莫塔基扬言若美再打，战火可扩至欧洲美军基地——属个别官员口头威胁、细节与时机报道不一，并非伊朗政府正式对等声明。",
+          "text": "北京时间约 08:00 汇总：美伊局势仍紧——特朗普对媒体说「没有立即打击伊朗的计划」，但阿曼附近油轮遭不明弹体袭击；卡塔尔斡旋仍无突破，伊朗高层继续强硬开条件。",
           "handles": [],
           "source": "",
+          "highlight": true
+        },
+        {
+          "text": "特朗普对《金融时报》：美国没有立即打击伊朗的计划（约北京时间 11月4日 07:48，路透转述 FT）。在约 6 分钟电话采访中称暂无立即打击计划，并对僵持表示满意（「我们似乎正在得到想要的一切」），同时暗示必要时仍可升级。",
+          "handles": [],
+          "source": "https://www.streetinsider.com/Reuters/US+has+no+immediate+plan+to+strike+Iran%2C+Trump+tells+FT/27283943.html",
+          "highlight": true
+        },
+        {
+          "text": "UKMTO：阿曼利马东北油轮机舱遭两枚不明弹体击中（发生时间约北京时间 11月4日 03:00）。油轮报告两枚不明弹体打入机舱，利马东北约 14 海里；无人员伤亡、无环境损害报告；肇事方未指认。",
+          "handles": [],
+          "source": "https://www.ukmto.org/-/media/ukmto/products/20261103-ukmto_warning_195_26.pdf?rev=dfe3b496b4e94b1888ee80cb23a0aaeb",
+          "highlight": true
+        },
+        {
+          "text": "埃及外长与伊朗外长通话，呼吁克制与灵活。埃及外长巴德尔与伊朗外长阿拉格齐通话，敦促克制、外交与海湾安全；塞西总统另呼吁最大灵活。",
+          "handles": [],
+          "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/",
+          "highlight": false
+        },
+        {
+          "text": "沙特主导联盟周二再拦截无人机（东部产油区）：联盟发言人称当晚在沙特东部拦截一架单向攻击无人机；当日第二次拦截（早前麦加附近一次，胡塞否认以麦加为目标）。",
+          "handles": [],
+          "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/",
+          "highlight": false
+        },
+        {
+          "text": "《纽约时报》：CENTCOM 已有「最早周三」可对伊打击的作战计划（非已下令）。美官员称中央司令部已拟好方案，中期选举后三艘航母在区时可最早周三开打——不等于总统已下令；同晚特朗普对 FT 称无立即打击计划。",
+          "handles": [],
+          "source": "https://www.iranintl.com/en/202611035095",
+          "highlight": true
+        },
+        {
+          "text": "路透独家：美方对伊朗等议题情报共享减速/部分中断。八名现任/前任官员称特朗普第二任期下伊朗等相关情报共享放缓或局部暂停；五人称国家情报委员会未做聚焦「对伊战争」评估；中情局/国家情报总监办公室否认夸大。",
+          "handles": [],
+          "source": "https://x.com/Reuters/status/2117672792749408425",
+          "highlight": false
+        },
+        {
+          "text": "卡塔尔斡旋：双方审方案、尚无实质突破；知情人士称约 36 小时内反馈新提案。卡塔尔外长发言人称美伊仍愿谈、审阅调解方案，卡方周一晚自德黑兰返回；伊朗高官称双方仍相距甚远。",
+          "handles": [],
+          "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/",
+          "highlight": true
+        },
+        {
+          "text": "德黑兰街头反美/反特朗普广告牌；11月4日使馆占领纪念日活动预告。海报含受伤/入狱特朗普形象及「杀死特朗普」等标语，配合当地周三晚纪念活动；属政治氛围，非军事行动。",
+          "handles": [],
+          "source": "https://apnews.com/article/iran-us-strikes-strait-hormuz-183b3d32d9bf5241f744abb917e6713e",
+          "highlight": false
+        },
+        {
+          "text": "（未证实）以色列向美/海湾分享「伊朗可能使用化学武器」情报：《纽约时报》称以方分享相关情报，部分美官员警觉、部分视作内塔尼亚胡施压，海湾官员多存疑；伊朗正准备化武本身无独立证据。",
+          "handles": [],
+          "source": "https://www.nytimes.com/2026/11/03/world/middleeast/iran-chemical-weapons-israel-trump.html",
+          "highlight": false,
+          "unverified": true
+        },
+        {
+          "text": "（未证实）《阿拉伯人日报》称华盛顿已同意卡塔尔提交的谅解备忘录草案——与礼萨伊「不令人信服」、卡塔尔「无突破」等多源说法冲突；单源二手、无美/卡官方确认。",
+          "handles": [],
+          "source": "https://www.aa.com.tr/en/us-israel-iran-war/iran-says-us-response-to-its-demands-not-convincing/4110290",
           "highlight": false,
           "unverified": true
         }

@@ -1468,6 +1468,176 @@
           ]
         }
       ]
+    },
+    "2026-11-03": {
+      "date": "2026-11-03",
+      "sessions": [
+        {
+          "name": "盘前",
+          "sources": [],
+          "items": [
+            {
+              "ticker": "SHOP",
+              "eps": "调整后 $0.49 超预期",
+              "revenue": "$37.4 亿同比 +32% 基本符合预期",
+              "notes": "GMV 与订阅收入略逊预期；Q4 指引营收同比低三十位数增速",
+              "move": "盘前大跌约 15%–19%",
+              "dir": "down",
+              "highlight": true
+            },
+            {
+              "ticker": "PFE",
+              "eps": "调整后 $0.87 大幅超预期",
+              "revenue": "约 $166 亿 大幅超预期",
+              "notes": "上调全年营收至 $620–640 亿、调整后 EPS 至 $2.95–3.05",
+              "move": "盘前大致持平",
+              "dir": "flat",
+              "highlight": true
+            },
+            {
+              "ticker": "ETN",
+              "eps": "调整后 $3.68 超预期",
+              "revenue": "$89 亿 超预期",
+              "notes": "数据中心电气需求强；上调全年 EPS 至 $13.70–13.80",
+              "move": "盘前约涨 1.5%–2%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "MPC",
+              "eps": "$26.93 大幅超预期",
+              "revenue": "约 $565 亿 大幅超预期",
+              "notes": "董事会另批 $50 亿回购额度",
+              "move": "",
+              "dir": "flat",
+              "highlight": false
+            },
+            {
+              "ticker": "APO",
+              "eps": "调整后约 $2.15 略逊预期",
+              "revenue": "",
+              "notes": "管理资产升至约 $1.07 万亿，当季 origination 创新高",
+              "move": "",
+              "dir": "flat",
+              "highlight": false
+            },
+            {
+              "ticker": "KDP",
+              "eps": "调整后 $0.66 小幅超预期",
+              "revenue": "$73.4 亿 小幅超预期",
+              "notes": "重申全年指引",
+              "move": "盘前约涨 1%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "YUM",
+              "eps": "调整后 $1.56 超预期",
+              "revenue": "约 $20.5 亿 符合预期",
+              "notes": "Taco Bell 疫后回暖",
+              "move": "盘前约涨 1%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "ZBRA",
+              "eps": "EPS/营收小幅超预期",
+              "revenue": "",
+              "notes": "全年自由现金流指引略逊",
+              "move": "盘前跌超 6%",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "IT",
+              "eps": "业绩与全年指引均超预期",
+              "revenue": "",
+              "notes": "Gartner；业绩与全年指引均超预期",
+              "move": "盘前仍跌超 6%",
+              "dir": "down",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "name": "盘后",
+          "sources": [],
+          "items": [
+            {
+              "ticker": "AMD",
+              "eps": "调整后 $2.09（预期约 $1.94–1.95）",
+              "revenue": "$133.8 亿（预期约 $130.6 亿）",
+              "notes": "数据中心营收同比近翻倍至创纪录 $85.5 亿；Q4 营收指引约 $170 亿 ±3%（预期约 $162 亿）",
+              "move": "盘后涨约 7%–9%",
+              "dir": "up",
+              "highlight": true
+            },
+            {
+              "ticker": "SMCI",
+              "eps": "Q1 EPS $1.81（预期 $1.23）",
+              "revenue": "净销售额 $199 亿（预期约 $163 亿）",
+              "notes": "上调 FY2027 净销售额指引至 $720–820 亿（预期约 $690–700 亿）",
+              "move": "盘后涨约 5%–7%",
+              "dir": "up",
+              "highlight": true
+            },
+            {
+              "ticker": "ANET",
+              "eps": "",
+              "revenue": "Q3 $36.6 亿，同比 +58.5%",
+              "notes": "Q4 指引营收 $39–40 亿、非 GAAP EPS $1.26–1.30（预期约 $36 亿 / $1.15）",
+              "move": "盘后涨约 9%",
+              "dir": "up",
+              "highlight": true
+            },
+            {
+              "ticker": "XYZ",
+              "eps": "调整后 $1.13（预期 $1.03）",
+              "revenue": "$67.2 亿（预期 $65.9 亿）",
+              "notes": "Block；上调全年指引（调整后 EPS 展望至 $4.15）",
+              "move": "盘后涨逾 8%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "BKNG",
+              "eps": "调整后 $4.66（预期 $4.49）略超预期",
+              "revenue": "GAAP $88.9 亿不及预期",
+              "notes": "受 FTC 相关约 $9 亿调整影响；调整后营收仍同比 +9%",
+              "move": "盘后跌约 2%",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "SWKS",
+              "eps": "Q4 EPS/营收基本符合预期",
+              "revenue": "",
+              "notes": "合并 Qorvo 后首季指引逊色——Q1 EPS 约 $1.25（预期 $1.50）、营收 $18–19 亿（预期约 $20 亿）",
+              "move": "盘后跌约 15%",
+              "dir": "down",
+              "highlight": true
+            },
+            {
+              "ticker": "DUOL",
+              "eps": "",
+              "revenue": "$3.09 亿（预期 $3.03 亿）",
+              "notes": "月活 1.53 亿（预期 1.49 亿），利润率也好于预期",
+              "move": "盘后涨约 10%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "TOST",
+              "eps": "调整后 EPS 与市场预期有落差（报道口径不一）",
+              "revenue": "略超预期",
+              "notes": "宣布 CFO 将于年底离职",
+              "move": "盘后跌约 5%",
+              "dir": "down",
+              "highlight": false
+            }
+          ]
+        }
+      ]
     }
   }
 }

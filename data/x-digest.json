@@ -1943,6 +1943,181 @@
           ]
         }
       ]
+    },
+    "2026-11-04": {
+      "date": "2026-11-04",
+      "topics": [
+        {
+          "title": "就业与宏观",
+          "items": [
+            {
+              "text": "9月JOLTS空缺升至752.3万（预期约716万，前值上修至719万），离职率2.1%、招聘率3.4%；空缺/失业约1.06",
+              "handles": [
+                "LizAnnSonders",
+                "NickTimiraos",
+                "elerianm",
+                "RenMacLLC"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "9月工厂订单环比+1.8%（预期+1.2%），不含运输+1.3%",
+              "handles": [
+                "LizAnnSonders"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "ISM制造就业回升、物价分项缓和，非典型滞胀组合",
+              "handles": [
+                "jsblokland",
+                "LizAnnSonders"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "9月私人住宅建设开支-5.5%，家装开支环比-13%创纪录；数据中心建设支出同比+约90%",
+              "handles": [
+                "LizAnnSonders"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "三季度数据中心项目取消规模已接近2024+2025全年之和（未证实细节来源为Strategas图表）",
+              "handles": [
+                "LizAnnSonders"
+              ],
+              "highlight": false,
+              "unverified": true
+            }
+          ]
+        },
+        {
+          "title": "AI基建与科技财报",
+          "items": [
+            {
+              "text": "亚马逊Q3营收约2019–2020亿美元（+12%），经营利润率约14%创新高；现金CapEx约760亿美元（同比约+122%），TTM自由现金流约-424亿美元",
+              "handles": [
+                "charliebilello"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "亚马逊/谷歌/微软/Meta Q3 CapEx合计约2020亿美元（同比约翻倍）；五巨头披露未来开支承诺合计约3.3万亿美元",
+              "handles": [
+                "charliebilello",
+                "KobeissiLetter"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "AMD盘后大涨约6–8%：Q3营收134亿美元（+45%），数据中心近翻倍；SMCI亦涨约6%；Shopify财报不及预期跌约15%",
+              "handles": [
+                "KobeissiLetter",
+                "MikeZaccardi"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "科技债相对其他投级债利差升至2003年以来最高",
+              "handles": [
+                "lisaabramowicz1"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "Anthropic IPO临近，市场关注真实季度营收/现金流与潜在抽血效应",
+              "handles": [
+                "qinbafrank",
+                "RenMacLLC",
+                "KobeissiLetter"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "市场与政策",
+          "items": [
+            {
+              "text": "纳指100自10/6高点跌超10%进入技术性回调；选举日VIX全日低点约≥20.3，为4/7以来最高",
+              "handles": [
+                "LizAnnSonders",
+                "OddStats",
+                "MikeZaccardi"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "联邦债务10月约增4220亿美元至约40.6万亿美元纪录高位",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "澳联储年内第五次加息25bp至4.85%（2008年来最高）",
+              "handles": [
+                "charliebilello"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "特朗普称与内塔尼亚胡达成协议，拟于2026年底停止每年约40亿美元对以援助（国会拨款权仍存不确定性）",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "特朗普称“暂无立即打击伊朗计划”；以方情报称伊朗“权衡”使用化武，美官员报以警惕与怀疑（化武说法未证实）",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": true,
+              "unverified": true
+            },
+            {
+              "text": "迪士尼考虑裁员数千并要求部分管理层制定约20%成本削减方案；Fiserv拟将成本削减目标由5亿提至10亿美元",
+              "handles": [
+                "DiMartinoBooth",
+                "CausMoney"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "中期选举日",
+          "items": [
+            {
+              "text": "投票日，预测市场民主党横扫参众两院概率升至约八成；华尔街提示若横扫或成股市“冷水”但可买跌",
+              "handles": [
+                "charliebilello",
+                "MikeZaccardi",
+                "qinbafrank",
+                "CausMoney"
+              ],
+              "highlight": true,
+              "unverified": false
+            }
+          ]
+        }
+      ]
     }
   }
 }

@@ -1032,70 +1032,59 @@
       "date": "2026-11-04",
       "items": [
         {
-          "text": "北京时间约 08:00 汇总：美伊局势仍紧——特朗普对媒体说「没有立即打击伊朗的计划」，但阿曼附近油轮遭不明弹体袭击；卡塔尔斡旋仍无突破，伊朗高层继续强硬开条件。",
+          "text": "北京时间约 20:00 汇总：过去 12 小时美伊并不平静——中期选举后特朗普承认伊朗战争是共和党失利的一部分但仍称会再做一次；伊朗方面（卡利巴夫、哈梅内伊书面讲话）强硬回应；革命卫队宣称霍尔木兹以南四艘油轮触雷起火（事件本身尚未独立核实）；油价回升，中国外交部与黎巴嫩总理则发出降温信号。",
           "handles": [],
           "source": "",
           "highlight": true
         },
         {
-          "text": "特朗普对《金融时报》：美国没有立即打击伊朗的计划（约北京时间 11月4日 07:48，路透转述 FT）。在约 6 分钟电话采访中称暂无立即打击计划，并对僵持表示满意（「我们似乎正在得到想要的一切」），同时暗示必要时仍可升级。",
+          "text": "黎巴嫩总理萨拉姆警告勿把黎巴嫩再拖入战争（约北京时间 11月4日 18:36）。萨拉姆警告地区战争再起的风险，称黎巴嫩不能再成为服务外部利益的战场（舆论普遍认为针对真主党，但未点名）。",
           "handles": [],
-          "source": "https://www.streetinsider.com/Reuters/US+has+no+immediate+plan+to+strike+Iran%2C+Trump+tells+FT/27283943.html",
+          "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/",
           "highlight": true
         },
         {
-          "text": "UKMTO：阿曼利马东北油轮机舱遭两枚不明弹体击中（发生时间约北京时间 11月4日 03:00）。油轮报告两枚不明弹体打入机舱，利马东北约 14 海里；无人员伤亡、无环境损害报告；肇事方未指认。",
+          "text": "哈梅内伊书面讲话：美党派轮替不会改变敌意，再犯将遭更广报复（约北京时间 11月4日 18:51）。最高领袖书面消息称，指望美国政党轮替改变对伊敌意是严重错误；若再次侵略，回应「将具有远更广泛的维度」，并提及霍尔木兹与对美军基地的反击。未见公开露面或音视频。",
           "handles": [],
-          "source": "https://www.ukmto.org/-/media/ukmto/products/20261103-ukmto_warning_195_26.pdf?rev=dfe3b496b4e94b1888ee80cb23a0aaeb",
+          "source": "https://www.iranintl.com/en/202611043829",
           "highlight": true
         },
         {
-          "text": "埃及外长与伊朗外长通话，呼吁克制与灵活。埃及外长巴德尔与伊朗外长阿拉格齐通话，敦促克制、外交与海湾安全；塞西总统另呼吁最大灵活。",
+          "text": "中国外交部：当务之急避免中东战端重启，支持美伊谈判与霍尔木兹方案（约北京时间 11月4日 15:59–17:36）。发言人毛宁称，当前紧迫任务是避免敌对行动重启；中方支持美伊谈判解决分歧，推动也门政治解决，并协助寻求妥善、全面方案以重开霍尔木兹海峡；中东特使本月稍后将访伊朗、阿曼、沙特开展穿梭外交。",
           "handles": [],
-          "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/",
-          "highlight": false
-        },
-        {
-          "text": "沙特主导联盟周二再拦截无人机（东部产油区）：联盟发言人称当晚在沙特东部拦截一架单向攻击无人机；当日第二次拦截（早前麦加附近一次，胡塞否认以麦加为目标）。",
-          "handles": [],
-          "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/",
-          "highlight": false
-        },
-        {
-          "text": "《纽约时报》：CENTCOM 已有「最早周三」可对伊打击的作战计划（非已下令）。美官员称中央司令部已拟好方案，中期选举后三艘航母在区时可最早周三开打——不等于总统已下令；同晚特朗普对 FT 称无立即打击计划。",
-          "handles": [],
-          "source": "https://www.iranintl.com/en/202611035095",
+          "source": "https://www.mfa.gov.cn/eng./xw/fyrbt/lxjzh/202611/t20261104_12053240.html",
           "highlight": true
         },
         {
-          "text": "路透独家：美方对伊朗等议题情报共享减速/部分中断。八名现任/前任官员称特朗普第二任期下伊朗等相关情报共享放缓或局部暂停；五人称国家情报委员会未做聚焦「对伊战争」评估；中情局/国家情报总监办公室否认夸大。",
+          "text": "特朗普承认伊朗战争是共和党中期选举失利部分原因，称还会再做；对进一步打击信号混杂。对 Fox 称失利「有一部分是伊朗」；对《华尔街日报》称做对了、「还会再做一次」；对《金融时报》称「暂无立即打击计划」，但「若需要则已就绪，也可能没必要」；对 Fox 又称对进一步打击「也许会、也许不会」。",
           "handles": [],
-          "source": "https://x.com/Reuters/status/2117672792749408425",
-          "highlight": false
-        },
-        {
-          "text": "卡塔尔斡旋：双方审方案、尚无实质突破；知情人士称约 36 小时内反馈新提案。卡塔尔外长发言人称美伊仍愿谈、审阅调解方案，卡方周一晚自德黑兰返回；伊朗高官称双方仍相距甚远。",
-          "handles": [],
-          "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/",
+          "source": "https://x.com/WSJ/status/2117848708800712850",
           "highlight": true
         },
         {
-          "text": "德黑兰街头反美/反特朗普广告牌；11月4日使馆占领纪念日活动预告。海报含受伤/入狱特朗普形象及「杀死特朗普」等标语，配合当地周三晚纪念活动；属政治氛围，非军事行动。",
+          "text": "多家主流媒体证实：革命卫队发布霍尔木兹油轮触雷声明（声明本身属实；击沉是否发生尚未独立核实）。路透、BBC、阿纳多卢等报道，革命卫队/伊朗官媒称四艘「违规」油轮在禁止航线触雷起火/被毁，另两艘被拦停；部分版本称约伊朗当地 04:30（约北京时间 09:00）击落一架 MQ-9。已证实的是伊方发表了这一声明，不是事件已获独立核实。",
           "handles": [],
-          "source": "https://apnews.com/article/iran-us-strikes-strait-hormuz-183b3d32d9bf5241f744abb917e6713e",
-          "highlight": false
+          "source": "https://x.com/Reuters/status/2117829343778889915",
+          "highlight": true
         },
         {
-          "text": "（未证实）以色列向美/海湾分享「伊朗可能使用化学武器」情报：《纽约时报》称以方分享相关情报，部分美官员警觉、部分视作内塔尼亚胡施压，海湾官员多存疑；伊朗正准备化武本身无独立证据。",
+          "text": "（未证实）四艘油轮确被水雷炸毁、另两艘被扣、MQ-9 被击落——即上述革命卫队声明内容。BBC、Iran International 明确写无法独立核实；英国海上贸易行动办公室另报周二阿曼利马东北约 14 海里一艘油轮遭两枚不明投射物打击、无伤亡，是否关联不明。属单方面伊方作战宣称，本窗口内未见匹配的独立航运、保险或卫星确认。",
           "handles": [],
-          "source": "https://www.nytimes.com/2026/11/03/world/middleeast/iran-chemical-weapons-israel-trump.html",
+          "source": "https://www.bbc.com/news/articles/c6d934npl9y8o",
           "highlight": false,
           "unverified": true
         },
         {
-          "text": "（未证实）《阿拉伯人日报》称华盛顿已同意卡塔尔提交的谅解备忘录草案——与礼萨伊「不令人信服」、卡塔尔「无突破」等多源说法冲突；单源二手、无美/卡官方确认。",
+          "text": "（未证实）美国将于中期选举后「最早周三」发动大规模打击——此前有美媒称中央司令部有在三艘航母在位后启动的计划；分析人士猜测特朗普或在 1 月 3 日新国会就任前升级。计划≠已下令；特朗普对 FT 称暂无立即打击计划；本 12 小时窗口内未见已确认的大规模新打击。",
           "handles": [],
-          "source": "https://www.aa.com.tr/en/us-israel-iran-war/iran-says-us-response-to-its-demands-not-convincing/4110290",
+          "source": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes",
+          "highlight": false,
+          "unverified": true
+        },
+        {
+          "text": "（未证实）社交媒体称耶路撒冷医院清空停车场备床位——匿名式 X 声称以色列医院清空停车场、准备床位与发电机。单条社交帖，未见主流媒体佐证。",
+          "handles": [],
+          "source": "https://x.com/K9Aasim/status/2117951395806769654",
           "highlight": false,
           "unverified": true
         }

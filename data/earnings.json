@@ -1638,6 +1638,176 @@
           ]
         }
       ]
+    },
+    "2026-11-04": {
+      "date": "2026-11-04",
+      "sessions": [
+        {
+          "name": "盘前",
+          "sources": [],
+          "items": [
+            {
+              "ticker": "MCD",
+              "eps": "调整后 $3.57（高于预期约 $3.38）",
+              "revenue": "$71.6 亿（略低于约 $72.9 亿预期）",
+              "notes": "全球同店销售 +1.5%，美国 -0.2%（好于预期跌幅）",
+              "move": "盘前涨超 2%",
+              "dir": "up",
+              "highlight": true
+            },
+            {
+              "ticker": "UBER",
+              "eps": "Non-GAAP EPS $0.88（略超约 $0.86）",
+              "revenue": "约 $148 亿（略超预期）",
+              "notes": "总预订额同比 +20%；Q4 Non-GAAP EPS 指引 $0.95–$0.99 偏软（低于华尔街预期）",
+              "move": "盘前一度承压约跌近 2%",
+              "dir": "down",
+              "highlight": true
+            },
+            {
+              "ticker": "CVS",
+              "eps": "调整后 EPS $2.09（大幅高于约 $1.65）",
+              "revenue": "$1084 亿（超预期）",
+              "notes": "全年调整后 EPS 指引上调至至少 $8.20；计划在 2028 年上半年拆成两家上市公司",
+              "move": "盘前大致平盘略跌",
+              "dir": "flat",
+              "highlight": true
+            },
+            {
+              "ticker": "DDOG",
+              "eps": "调整后 EPS $0.81（超预期）",
+              "revenue": "$12.0 亿（超预期，同比 +35%）",
+              "notes": "Q4 营收指引约 $11.9–12.0 亿，暗示环比走平/略降",
+              "move": "盘前大跌约 19%",
+              "dir": "down",
+              "highlight": true
+            },
+            {
+              "ticker": "NVO",
+              "eps": "",
+              "revenue": "Q3 销售额约 792 亿丹麦克朗（超预期）",
+              "notes": "Wegovy 口服药销售强于预期；全年调整后销售与营业利润指引上调至按固定汇率 -2% 至 +2%",
+              "move": "早盘涨约 3%–6%",
+              "dir": "up",
+              "highlight": true
+            },
+            {
+              "ticker": "EMR",
+              "eps": "财年 Q4 调整后 EPS $1.86",
+              "revenue": "净销售约 $52 亿（大致贴合/略超预期）",
+              "notes": "给出 2027 年展望",
+              "move": "",
+              "dir": "flat",
+              "highlight": false
+            },
+            {
+              "ticker": "KHC",
+              "eps": "调整后 EPS $0.53（超预期）",
+              "revenue": "约 $61 亿（超预期）",
+              "notes": "上调全年 EPS 指引",
+              "move": "盘前涨约 3%",
+              "dir": "up",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "name": "盘后",
+          "sources": [],
+          "items": [
+            {
+              "ticker": "QCOM",
+              "eps": "财年 Q4 调整后 EPS $2.17（略超预期）",
+              "revenue": "$104.4 亿（略超预期）",
+              "notes": "手机芯片收入同比降 26%；下季 EPS 指引中值略低于预期",
+              "move": "盘后跌约 6–7%",
+              "dir": "down",
+              "highlight": true
+            },
+            {
+              "ticker": "ARM",
+              "eps": "调整后 EPS $0.52（超预期）",
+              "revenue": "财年 Q2 营收 $14.4 亿（+27%，超预期）",
+              "notes": "数据中心版税翻倍；下季营收指引约 $15.4 亿 ±$0.5 亿",
+              "move": "盘后跌约 2%",
+              "dir": "down",
+              "highlight": true
+            },
+            {
+              "ticker": "APP",
+              "eps": "EPS $4.30（大幅超预期）",
+              "revenue": "Q3 营收 $21.8 亿（大幅超预期）",
+              "notes": "Q4 营收指引 $23.7–24.0 亿，远高于街预期约 $22.5 亿",
+              "move": "盘后大涨约 20%+",
+              "dir": "up",
+              "highlight": true
+            },
+            {
+              "ticker": "MELI",
+              "eps": "EPS $8.83（不及预期）",
+              "revenue": "Q3 营收 $107.5 亿（略超预期）",
+              "notes": "利润率受免运费与履约扩张拖累",
+              "move": "盘后跌约 7%",
+              "dir": "down",
+              "highlight": true
+            },
+            {
+              "ticker": "MCK",
+              "eps": "调整后 EPS $11.68（+18%）",
+              "revenue": "财年 Q2 营收 $1110 亿",
+              "notes": "上调全年调整后 EPS 指引至 $45.60–46.40",
+              "move": "",
+              "dir": "flat",
+              "highlight": false
+            },
+            {
+              "ticker": "EXPE",
+              "eps": "",
+              "revenue": "Q3 营收与利润双超预期",
+              "notes": "Q4 营收指引 $36.9–37.5 亿偏弱",
+              "move": "盘后跌约 7%",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "COHR",
+              "eps": "财年 Q1 调整后 EPS $2.09（超预期）",
+              "revenue": "",
+              "notes": "下季指引上修（受益 AI 光模块）",
+              "move": "盘后涨约 5–7%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "SNAP",
+              "eps": "",
+              "revenue": "Q3 营收 $17.2 亿（略逊预期）",
+              "notes": "日活也不及预期；Q4 营收指引大致符合预期",
+              "move": "盘后跌约 7–9%",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "ZG",
+              "eps": "Q3 EPS 逊预期",
+              "revenue": "营收逊预期",
+              "notes": "Q4 营收指引明显低于街预期",
+              "move": "盘后重挫约 16%",
+              "dir": "down",
+              "highlight": true
+            },
+            {
+              "ticker": "HUBS",
+              "eps": "Q3 业绩超预期",
+              "revenue": "",
+              "notes": "Q4 营收与 EPS 指引均不及预期",
+              "move": "盘后跌约 4–8%",
+              "dir": "down",
+              "highlight": false
+            }
+          ]
+        }
+      ]
     }
   }
 }

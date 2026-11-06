@@ -1808,6 +1808,221 @@
           ]
         }
       ]
+    },
+    "2026-11-05": {
+      "date": "2026-11-05",
+      "sessions": [
+        {
+          "name": "盘前",
+          "sources": [],
+          "items": [
+            {
+              "ticker": "TM",
+              "eps": "",
+              "revenue": "上半年营收约 ¥13.44 万亿",
+              "notes": "上调全年营业利润指引至约 ¥3.9 万亿并加大回购",
+              "move": "日股大涨约 +17%",
+              "dir": "up",
+              "highlight": true
+            },
+            {
+              "ticker": "COP",
+              "eps": "调整 EPS $3.27 超预期约 $2.97–2.99",
+              "revenue": "约 $20.1B 超约 $18.4B",
+              "notes": "普通股息上调 11% 至 $0.93",
+              "move": "盘前约 +1.8%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "CI",
+              "eps": "调整 EPS $7.98 超约 $7.52",
+              "revenue": "$73.7B 超约 $72.65B",
+              "notes": "全年调整 EPS 指引上调至至少 $30.60",
+              "move": "盘前约 +1.5%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "CAH",
+              "eps": "Non-GAAP EPS $3.26 超约 $2.95",
+              "revenue": "$67.5B 超约 $66.6B",
+              "notes": "FY27 EPS 指引上调至 $12.80–$13.00",
+              "move": "股价约 +3.6%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "CMI",
+              "eps": "调整 EPS $7.71 低于约 $8.28–8.38",
+              "revenue": "约 $9.44B 低预期",
+              "notes": "全年收入增速指引下调至约 10%",
+              "move": "盘前约 -3.7%",
+              "dir": "down",
+              "highlight": true
+            },
+            {
+              "ticker": "PH",
+              "eps": "调整 EPS 创纪录 $8.90（超共识约 $8.2–8.4）",
+              "revenue": "销售额约 $6.0B（+18%）",
+              "notes": "上调 FY27 调整 EPS 指引至约 $36.45–$37.25",
+              "move": "",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "SO",
+              "eps": "调整 EPS $1.94 超约 $1.71–1.76",
+              "revenue": "约 $8.8B 超预期",
+              "notes": "",
+              "move": "",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "DUK",
+              "eps": "调整 EPS $1.99 超 $1.88",
+              "revenue": "$9.1B 略超预期",
+              "notes": "全年指引收窄至 $6.70–$6.80",
+              "move": "盘前约 +1.1%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "U",
+              "eps": "调整 EPS $0.44 远超预期",
+              "revenue": "$622M（约 +32%）",
+              "notes": "GAAP 扭亏为盈量级",
+              "move": "盘前约 +20%～+22%",
+              "dir": "up",
+              "highlight": true
+            },
+            {
+              "ticker": "TPR",
+              "eps": "调整 EPS $1.82 超约 $1.56",
+              "revenue": "约 $1.9B 略超预期",
+              "notes": "FY27 调整 EPS 指引上调至 $8.25–$8.35",
+              "move": "盘前约 +8%+",
+              "dir": "up",
+              "highlight": true
+            }
+          ]
+        },
+        {
+          "name": "盘后",
+          "sources": [],
+          "items": [
+            {
+              "ticker": "NET",
+              "eps": "Q3 调整后 EPS $0.38（预期约 $0.34）",
+              "revenue": "$7.825 亿（预期约 $7.37 亿）",
+              "notes": "上调全年并给出强劲 Q4 指引（营收约 $8.45–8.46 亿，远超预期约 $7.98 亿）",
+              "move": "盘后大涨约 14%–17%",
+              "dir": "up",
+              "highlight": true
+            },
+            {
+              "ticker": "ABNB",
+              "eps": "Q3 EPS $3.16（预期 $2.85）",
+              "revenue": "$48.7 亿（预期 $47.5 亿）",
+              "notes": "Q4 营收指引 $32.2–32.8 亿，高于预期约 $31.6 亿",
+              "move": "盘后涨约 11%",
+              "dir": "up",
+              "highlight": true
+            },
+            {
+              "ticker": "TEAM",
+              "eps": "财季调整后 EPS $1.65",
+              "revenue": "$17.7 亿均超预期",
+              "notes": "数据中心收入展望显著走弱（预计同比下滑约 14%–16%），市场担心云订阅增速放缓",
+              "move": "盘后跌超 15%",
+              "dir": "down",
+              "highlight": true
+            },
+            {
+              "ticker": "DKNG",
+              "eps": "Q3 亏损扩大至每股约 $0.94（预期亏约 $0.39）",
+              "revenue": "$13.3 亿不及预期约 $14 亿",
+              "notes": "下调全年营收指引",
+              "move": "盘后暴跌约 22%",
+              "dir": "down",
+              "highlight": true
+            },
+            {
+              "ticker": "MNST",
+              "eps": "调整后 EPS $0.30 基本符合预期",
+              "revenue": "$25.6 亿超预期约 $24.9 亿",
+              "notes": "海外销售同比大增约 28%",
+              "move": "",
+              "dir": "flat",
+              "highlight": false
+            },
+            {
+              "ticker": "EOG",
+              "eps": "调整后 EPS $4.87",
+              "revenue": "约 $85.5 亿均大幅超预期",
+              "notes": "产量创新高，并将常规股息上调 8%",
+              "move": "",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "MCHP",
+              "eps": "调整后 EPS $0.97",
+              "revenue": "$16.22 亿超预期",
+              "notes": "下一季营收/EPS 指引中值略低于街期",
+              "move": "盘后约跌 4%",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "AFRM",
+              "eps": "",
+              "revenue": "",
+              "notes": "下季营收指引仅略超预期",
+              "move": "盘后跌约 11%",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "LYV",
+              "eps": "EPS $1.69",
+              "revenue": "$101.1 亿均超预期",
+              "notes": "",
+              "move": "",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "FROG",
+              "eps": "",
+              "revenue": "",
+              "notes": "上调全年指引",
+              "move": "盘后大涨约 25%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "AXON",
+              "eps": "",
+              "revenue": "",
+              "notes": "业绩不及预期",
+              "move": "盘后约跌 13%",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "LYFT",
+              "eps": "",
+              "revenue": "",
+              "notes": "预订指引偏平淡",
+              "move": "盘后跌超 5%",
+              "dir": "down",
+              "highlight": false
+            }
+          ]
+        }
+      ]
     }
   }
 }

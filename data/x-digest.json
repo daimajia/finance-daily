@@ -2118,6 +2118,164 @@
           ]
         }
       ]
+    },
+    "2026-11-06": {
+      "date": "2026-11-06",
+      "topics": [
+        {
+          "title": "美股暴跌 / AI 回调",
+          "items": [
+            {
+              "text": "标普收跌约4.4%、纳指综指约-5.5%、道指约-3.4%（约-1833点），为2025年4月关税冲击以来最差单日；纳指100约-6.4%",
+              "handles": [
+                "charliebilello",
+                "CausMoney",
+                "MikeZaccardi",
+                "elerianm",
+                "jsblokland",
+                "OddStats"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "VIX收盘约+70%至约28.2（自3月低点以来最高收盘一带）",
+              "handles": [
+                "charliebilello",
+                "OddStats",
+                "MikeZaccardi"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "费城半导体约-12%创有史以来次差日；SMH自高点回撤约33%；纳指/QQQ自高点约-11%至-15%进入技术性回调",
+              "handles": [
+                "OddStats",
+                "MikeZaccardi",
+                "LizAnnSonders",
+                "KobeissiLetter"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "抛售主因中选后AI监管/《禁止人工超级智能》议案传播与数据中心社区反对升温，芯片杀伤最重（标普除科技约-2.5% vs 芯片近-11%）；多位认为偏情绪/技术性而非基本面翻转",
+              "handles": [
+                "qinbafrank",
+                "KobeissiLetter",
+                "elerianm",
+                "lisaabramowicz1"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "黄金上涨约1%+；10月美国杠杆ETF吸金约150亿美元或放大跌势",
+              "handles": [
+                "jsblokland",
+                "KobeissiLetter"
+              ],
+              "highlight": false,
+              "unverified": true
+            }
+          ]
+        },
+        {
+          "title": "宏观数据",
+          "items": [
+            {
+              "text": "Q3非农生产率年化+3.6%（超预期），单位劳动力成本-0.7%；初请失业金降至18.9万（预期19.6万），续请171.8万",
+              "handles": [
+                "LizAnnSonders",
+                "elerianm",
+                "RenMacLLC",
+                "charliebilello"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "Challenger：10月裁员公告同比-71.3%；年初至10月累计约61.7万、同比约-44%",
+              "handles": [
+                "LizAnnSonders"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "ADP：换工作者薪资同比+7.6%（2024年3月以来最大）vs 留任者+4.4%；各规模企业私营招聘均增",
+              "handles": [
+                "LizAnnSonders"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "AAII看多34.1%（前37.8%），看空跳升至48.4%（七周高）；花旗美国经济意外指数近三年高位",
+              "handles": [
+                "LizAnnSonders",
+                "lisaabramowicz1"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "央行 / 海外",
+          "items": [
+            {
+              "text": "英央行加息25bp至4.00%（8-1，一人主张50bp），预计通胀明年中前升至约5%",
+              "handles": [
+                "elerianm",
+                "charliebilello"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "韩国KOSPI开盘大跌约8%+并触发熔断，跟随美股科技杀跌（其写-9%、距高点-47%口径偏夸大/后者未核实）",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": false,
+              "unverified": true
+            }
+          ]
+        },
+        {
+          "title": "公司 / 政策杂讯",
+          "items": [
+            {
+              "text": "Anthropic披露未来AI基建承诺开支约8950亿美元；科技股暴跌冲击其约1.5万亿美元IPO估值预期",
+              "handles": [
+                "KobeissiLetter",
+                "CausMoney"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "卢比奥“考虑辞职/竞逐总统”报道被国务院否认，本人亦否认（已被辟谣）",
+              "handles": [
+                "KobeissiLetter",
+                "CausMoney"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "苹果过去10年回购约7660亿美元，大于标普486家公司市值",
+              "handles": [
+                "charliebilello"
+              ],
+              "highlight": false,
+              "unverified": true
+            }
+          ]
+        }
+      ]
     }
   }
 }

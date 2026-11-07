@@ -2023,6 +2023,103 @@
           ]
         }
       ]
+    },
+    "2026-11-06": {
+      "date": "2026-11-06",
+      "sessions": [
+        {
+          "name": "盘前",
+          "sources": [],
+          "items": [
+            {
+              "ticker": "MRNA",
+              "eps": "0.38 vs 预期亏损约 -1.25",
+              "revenue": "13.1亿 vs 预期约 8.9亿",
+              "notes": "均大幅超预期；全年营收增速指引上调至 15%–25%",
+              "move": "盘前约涨 3%",
+              "dir": "up",
+              "highlight": true
+            },
+            {
+              "ticker": "HUM",
+              "eps": "调整后每股亏损 -0.70（优于预期约 -1.00）",
+              "revenue": "约 412亿 略超预期",
+              "notes": "全年调整后 EPS 指引上调至至少 9.50",
+              "move": "盘前约跌 1%",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "VST",
+              "eps": "",
+              "revenue": "持续经营调整后 EBITDA 23.8亿，同比增超 50%",
+              "notes": "上调并收窄 2026 年 EBITDA 指引至 71–75亿，并给出 2027 年展望；营收略逊预期",
+              "move": "盘前约涨 5%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "PPL",
+              "eps": "持续经营 EPS 0.54，符合/贴近预期",
+              "revenue": "",
+              "notes": "收窄 2026 年指引，并将长期年化 EPS 增速目标上调至 7%–9%，公布 2027–2030 年约 250亿资本开支计划",
+              "move": "盘前小幅上涨",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "CHTR",
+              "eps": "",
+              "revenue": "实际营收 149亿超预期",
+              "notes": "受约 63亿特许权减值拖累，GAAP 大额亏损；调整后 EBITDA 略逊预期",
+              "move": "盘前约跌 6%",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "ELAN",
+              "eps": "调整后 EPS 0.27（预期约 0.20）",
+              "revenue": "12.7亿超预期",
+              "notes": "上调全年指引",
+              "move": "盘前约涨 7%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "ENB",
+              "eps": "调整后 EPS 加元 0.49",
+              "revenue": "调整后 EBITDA 约加元 44亿",
+              "notes": "重申 2026 年财务指引，并推进多项油气资产收购",
+              "move": "",
+              "dir": "flat",
+              "highlight": false
+            },
+            {
+              "ticker": "BAM",
+              "eps": "可分配收益每股约 0.47",
+              "revenue": "",
+              "notes": "费用相关收益稳健，募资强劲",
+              "move": "盘前小涨约 1%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "UAA",
+              "eps": "",
+              "revenue": "营收同比下滑约 7% 至约 12.4亿",
+              "notes": "维持全年展望",
+              "move": "盘前重挫约 9%–12%",
+              "dir": "down",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "name": "盘后",
+          "sources": [],
+          "items": []
+        }
+      ]
     }
   }
 }

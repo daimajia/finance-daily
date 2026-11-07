@@ -2276,6 +2276,149 @@
           ]
         }
       ]
+    },
+    "2026-11-07": {
+      "date": "2026-11-07",
+      "topics": [
+        {
+          "title": "就业与联储",
+          "items": [
+            {
+              "text": "10月非农+16.5万远超预期（约6–7万），前两月合计上修+8.4万，失业率降至4.1%；时薪环比+0.4%、同比+3.1%",
+              "handles": [
+                "NickTimiraos",
+                "elerianm",
+                "LizAnnSonders",
+                "charliebilello",
+                "KobeissiLetter",
+                "qinbafrank",
+                "jsblokland"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "非农后12月加息概率升至约77%–80%（昨约67%）",
+              "handles": [
+                "LizAnnSonders",
+                "KobeissiLetter",
+                "charliebilello"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "近三月周薪总额指数年化约+6.2%；主要风险或是失业率进一步下行，通胀仍高约1个百分点时联储难靠宽松托市",
+              "handles": [
+                "RenMacLLC"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "密歇根消费者信心初值升至51.0（预期48.0），一年通胀预期降至4.3%，五至十年3.4%；高净值受访者因股市动荡情绪走弱，并提及AI泡沫担忧",
+              "handles": [
+                "LizAnnSonders"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "AI/科技与盘面",
+          "items": [
+            {
+              "text": "微软据报正结束/不再续约租用甲骨文部分AI云算力（旧代英伟达芯片、规格不符），ORCL承压（有称盘中约-5%、距高点大幅回撤）",
+              "handles": [
+                "KobeissiLetter",
+                "CausMoney"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "Anthropic IPO：大投资者对约1.5万亿估值更怀疑，有人认为或需压至约1万亿（WSJ）",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "纳指/半导体周五反弹买跌，但本周芯片仍重挫（SOX五日约-21.8%；WDC/SNDK/MRVL等周跌约20%+）；动能ETF MTUM单日约-8.2%（称2020年3月以来最大）",
+              "handles": [
+                "KobeissiLetter",
+                "MikeZaccardi",
+                "charliebilello"
+              ],
+              "highlight": true,
+              "unverified": false
+            },
+            {
+              "text": "大摩估：若价格维持，杠杆ETF再平衡或约520亿美元被迫卖出（半导体约210亿、纳指100约150亿）",
+              "handles": [
+                "qinbafrank"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "选股对冲基金10月主动去杠杆为十余年最大，敞口自6月约-9%；超40%年内持平或亏损",
+              "handles": [
+                "lisaabramowicz1"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "价值股YTD约+24% vs 成长约-6%，差距或创纪录；高贝塔/动量/迷因股自2026高点分别约-21%/-27%/-57%",
+              "handles": [
+                "charliebilello"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "SPX本周为2025年4月Liberation Day以来最差日历周；QQQ昨-6%后历史分位统计偏熊市格局",
+              "handles": [
+                "OddStats"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        },
+        {
+          "title": "楼市与其他",
+          "items": [
+            {
+              "text": "美国待售住房约118万（Realtor.com十月口径，称2019年以来高位）；Redfin称房价同比转负为约三年首次",
+              "handles": [
+                "charliebilello"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "墨西哥央行第16次降息25bp至6.25%",
+              "handles": [
+                "charliebilello"
+              ],
+              "highlight": false,
+              "unverified": false
+            },
+            {
+              "text": "9月消费信贷+278亿美元（年化约+6.4%），循环信贷扭转上月收缩",
+              "handles": [
+                "CausMoney"
+              ],
+              "highlight": false,
+              "unverified": false
+            }
+          ]
+        }
+      ]
     }
   }
 }

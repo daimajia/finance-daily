@@ -2419,6 +2419,191 @@
           ]
         }
       ]
+    },
+    "2026-11-08": {
+      "date": "2026-11-08",
+      "topics": [
+        {
+          "title": "市场 / 资产表现",
+          "items": [
+            {
+              "text": "日经自6月高点回撤约20.6%进入技术性熊市,软银CDS走阔至约4年最宽。",
+              "handles": [
+                "RenMacLLC"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "本周能源板块跌幅大于科技(WSJ图);大宗商品年内领先,但上周超额收益被大幅回吐。",
+              "handles": [
+                "elerianm",
+                "MikeZaccardi"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "QQQ近四周约-12.7%;标普上周跌约2.68%,为2025年4月以来最差一周。",
+              "handles": [
+                "MikeZaccardi"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "以11月5日回调低点计距历史高点:标普约-6%、纳指100约-15%,英伟达约-26%、台积电约-28%,海力士/AMD约-39%,博通约-41%,美光约-48%,应用材料约-57%,拉姆研究约-58%,英特尔约-64%,闪迪约-66%。",
+              "handles": [
+                "charliebilello"
+              ],
+              "highlight": true
+            },
+            {
+              "text": "比特币今年约-13%、黄金约-6%,为所追踪主要资产中表现最差的两类,样本期内此前未见同一日历年双双垫底;大宗商品DBC约+41.1%、美国价值股约+23.7%、大盘股约+8.3%、成长股约-5.3%。",
+              "handles": [
+                "charliebilello",
+                "CausMoney"
+              ],
+              "highlight": true
+            },
+            {
+              "text": "QQQ正经历2026年第4个跌超4%的日历月(同类年份:2000、2001、2002、2008、2010、2022);年内高点曾约+23.7%,近四周后仅约+6.8%,史上仅2000年出现过类似回吐。",
+              "handles": [
+                "OddStats"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "周四标普约-4%后周五盘中至少+1%并收阳:1988年以来同类29次中,次日下跌22次、平均约-1.4%。",
+              "handles": [
+                "OddStats"
+              ],
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "title": "宏观 / 政策",
+          "items": [
+            {
+              "text": "美联储资产负债表截至11月4日约6.75万亿美元(其称周环比约+30亿美元);国债持仓约4.58万亿美元,MBS约1.88万亿美元(称其为2020年6月以来最低一带)。",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "美国购房抵押贷款申请指数上周跌2%至约131点(2025年1月以来次低);30年房贷约7.18%,自2月累升约120个基点,已连续7周高于7%。",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": true,
+              "unverified": true
+            },
+            {
+              "text": "彭博:标普500公司10月财报会提及\"通胀\"或\"通胀性\"达820次,为2024年2月以来单月最高。",
+              "handles": [
+                "elerianm"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "市场计价本轮加息累计约72个基点、政策利率见顶低于4.4%(约明年三季度、约4.35%);花旗称实际GDP约2%–2.5%、1年通胀掉期约2.1%,2027年美国名义GDP或低于4.5%。",
+              "handles": [
+                "MikeZaccardi"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "中国10月末外汇储备3.4052万亿美元(较9月末+49亿美元);黄金储备增至7830万盎司,单月约+26吨(约25.8吨),连续第24个月增持。",
+              "handles": [
+                "CausMoney"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "日央行行长植田和男警告通胀仍有上行风险(政策利率现为1.25%),未明确下次加息时点;市场高度关注12月17–18日会议加息至1.5%。",
+              "handles": [
+                "CausMoney"
+              ],
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "title": "公司 / 交易",
+          "items": [
+            {
+              "text": "伯克希尔三季度回购96亿美元(逾一倍于二季度),2026年前九个月累计约144亿美元;年内净买入股票约112亿美元(其称2025年同期净卖出约106亿美元)。",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": true
+            },
+            {
+              "text": "FT:尽管科技股抛售,Anthropic IPO仍将推进。",
+              "handles": [
+                "MikeZaccardi"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "彭博:软银与ABB研究将中国机器人业务从约54亿美元收购中剥离,因中方已禁止收购其中国大陆业务;中国约占该业务约30%。",
+              "handles": [
+                "CausMoney"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "FT援引美方情报备忘录称,英伟达CEO黄仁勋曾与涉嫌中国国安招募的Megaspeed高管爱丽丝·黄有恋爱关系;英伟达此前称属正常商务往来,中方否认间谍指控。",
+              "handles": [
+                "KobeissiLetter",
+                "CausMoney"
+              ],
+              "highlight": false,
+              "unverified": true
+            }
+          ]
+        },
+        {
+          "title": "资金流 / 估值",
+          "items": [
+            {
+              "text": "Citadel Rubner:10月新回购授权1660亿美元(逾历史均值两倍);年内美股净买入达纪录2510亿美元,超过2021年全年高点2410亿美元。",
+              "handles": [
+                "MikeZaccardi"
+              ],
+              "highlight": false,
+              "unverified": true
+            },
+            {
+              "text": "周四CBOE认沽期权成交创纪录1123万张,超过2025年4月4日前高1022万张。",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "转引Duality等:标普自由现金流倍数约26倍,P/E已跌破18并低于2025年4月\"解放日\"低点;科技板块P/E自2025年10月高点回落约15倍。",
+              "handles": [
+                "MikeZaccardi"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "摩根士丹利:MSCI全球指数12个月远期EPS年内+30%,远期P/E收缩14%,上涨由盈利而非估值扩张驱动。",
+              "handles": [
+                "MikeZaccardi"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "高盛:卖方仍预期未来12个月标普回报约25%;一致预期纳指100的2027年EPS增速约27%。",
+              "handles": [
+                "MikeZaccardi"
+              ],
+              "highlight": false
+            }
+          ]
+        }
+      ]
     }
   }
 }

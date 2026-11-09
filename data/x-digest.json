@@ -2604,6 +2604,184 @@
           ]
         }
       ]
+    },
+    "2026-11-09": {
+      "date": "2026-11-09",
+      "topics": [
+        {
+          "title": "公司 / 英伟达",
+          "items": [
+            {
+              "text": "黄仁勋承认对妻子不忠,英伟达董事会启动独立调查;董事会称目前没有理由认为国家安全或公司机密已受损;所谓中方情报人员关系仍为指控(未证实)。夜盘期货对消息先跌后迅速回补(其称纳指期货约7分钟内先跌逾1%,相关市值先蒸发约2500亿美元再回补约3000亿美元,盘中点位未独立复核)。",
+              "handles": [
+                "KobeissiLetter",
+                "elerianm",
+                "qinbafrank",
+                "CausMoney"
+              ],
+              "highlight": true,
+              "unverified": true
+            },
+            {
+              "text": "埃里安:关键人物风险(key-man risk)凸出,市场未必已充分定价,董事会不好处理。",
+              "handles": [
+                "elerianm"
+              ],
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "title": "市场 / 估值",
+          "items": [
+            {
+              "text": "大科技从轻资产转向重资产,资本开支占营收创纪录(Meta 43%、微软 39%、谷歌 34%、亚马逊 27%);估值回落,市盈率较2025年11月:微软35→28、亚马逊34→21、谷歌28→15、Meta 27→21。",
+              "handles": [
+                "charliebilello"
+              ],
+              "highlight": true
+            },
+            {
+              "text": "价值股年内约+24%、成长股约-6%,差距逾30个百分点;其称若能保持将宽于2000年科网泡沫破裂时、或为纪录。",
+              "handles": [
+                "charliebilello"
+              ],
+              "highlight": true
+            },
+            {
+              "text": "科技股PE约17倍、必需消费约23.6倍;半导体PE为2020年3月以来最低;纳指100进一步回落至约20倍(一年前接近30倍);美股以外约12倍;中盘标普400约14倍。",
+              "handles": [
+                "MikeZaccardi"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "SMH在6月18日高点年内曾约+86%,现约+29%;甲骨文6月1日曾约+29%,现约-40%。",
+              "handles": [
+                "MikeZaccardi"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "XLK连续5个日历周收阴、XLF连续5周收阳,为两只ETF自1998年上市以来首次(此前从未连续四周如此)。",
+              "handles": [
+                "OddStats"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "标普500自1957年扩至500只以来,年内首次跌超4%的交易日从未出现在11或12月,直至上周四。",
+              "handles": [
+                "OddStats"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "上周四标普约-4.4%后:1952年以来此类至少-4%的56个交易日,次周平均约+1.0%、次月约+2.0%、其后3个月约+6.7%(均高于全样本均值)。",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": false,
+              "unverified": true
+            }
+          ]
+        },
+        {
+          "title": "宏观 / 信用 / 楼市",
+          "items": [
+            {
+              "text": "美国M2 9月升至约23.41万亿美元(较8月约+1130亿美元),同比+5.7%,为2022年5月以来最快,已连续3个月加速。",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": true
+            },
+            {
+              "text": "美国10月制造业就业+1.9万,为2023年11月以来第三大月增,连续第5个月增加(2022年以来最长),五个月累计约+8.6万至1268万人。",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "失业率已连续62个月低于5%,为有记录以来第二长(仅次于1965年3月至1970年6月的64个月)。",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "美国9月非国防资本品(除飞机)出货约861亿美元、创纪录,同比约+11.5%。",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "美国数据中心建设开支(年化)9月创纪录约965亿美元,同比约+90%。",
+              "handles": [
+                "charliebilello"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "高收益债:中位数处于自身两年区间第39百分位,约14%的债券处于两年最宽(尾部重定价而非全面走阔),走阔集中在超大规模/大型科技与半导体。",
+              "handles": [
+                "RenMacLLC"
+              ],
+              "highlight": false,
+              "unverified": true
+            },
+            {
+              "text": "10月多户CMBS逾期率升5个基点至8.1%,办公物业升17个基点至12.3%。",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "美国10月挂牌价中位数约41.5万美元,同比-2.2%、环比-1.0%;在售房源同比+7.4%。",
+              "handles": [
+                "DiMartinoBooth"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "北达科他州哈伍德选民以约3:1否决针对数据中心的新限制(建成后预计每年约165万美元房产税、逾200个长期岗位);SpaceX计划在亚利桑那州科奇斯县建设逾700英亩数据中心园区(其称约1000个长期岗位、采用风冷)。",
+              "handles": [
+                "qinbafrank"
+              ],
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "title": "海外 / 政策",
+          "items": [
+            {
+              "text": "中国企业三季度宣布重大对外直接投资143项、约231亿美元,较前两季平均下降36%。",
+              "handles": [
+                "CausMoney"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "已公布上半年财报的239家日本上市制造企业中,112家(47%)上调截至2027年3月财年净利润预测。",
+              "handles": [
+                "CausMoney"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "蒂米拉奥斯:若民主党掌控的参议院不确认特朗普的联储人事提名,沃什作为主席可能只能与现有理事会共事。",
+              "handles": [
+                "NickTimiraos"
+              ],
+              "highlight": false
+            }
+          ]
+        }
+      ]
     }
   }
 }

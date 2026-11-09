@@ -2,7 +2,7 @@
   "section": "bofa",
   "title": "美银牛熊指标",
   "schedule": "每周六更新",
-  "nextIssue": "2026-11-07",
+  "nextIssue": "2026-11-14",
   "days": {
     "2026-10-24": {
       "date": "2026-10-24",
@@ -104,6 +104,30 @@
             "PowerTradingRm"
           ],
           "source": "https://x.com/PowerTradingRm/status/2116147821610938453",
+          "highlight": false
+        }
+      ]
+    },
+    "2026-11-05": {
+      "date": "2026-11-05",
+      "items": [
+        {
+          "text": "美银牛熊指标从7.1升至7.2(+0.1),信号仍为中性。本期报告为11月5日《The Flow Show: DEM fatale》,观点延续防守立场:Hartnett重申「保持风险规避,直至央行停止加息、10年美债收益率<4.5%、油价<80美元」三个条件满足。",
+          "handles": [],
+          "source": "",
+          "highlight": true
+        },
+        {
+          "text": "证据来源说明:指标读数7.2及报告日期来自社交媒体流传的报告首页截图(标题「The Flow Show — DEM fatale」、日期「05 November 2026」、图表标注「Up to 7.2 from 7.1」),另有独立X账号分享交叉佐证。本站未获取美银官方原始PDF文件。X链接:@DaiJunior88 https://x.com/i/status/2118965688123494402 (发布11/7 15:16北京时间)、@ackmeni https://x.com/ackmeni/status/2119073697239879813 (发布11/7 22:25北京时间)。",
+          "handles": [],
+          "source": "https://x.com/i/status/2118965688123494402",
+          "highlight": false,
+          "unverified": true
+        },
+        {
+          "text": "指标小幅回升(+0.1)不等于转向看多:中性信号维持,Hartnett继续偏好黄金胜于石油、科技债胜于科技股、消费胜于能源、小盘胜于垄断巨头,并警告AI集中度与税收监管变化的风险。本读数不应解读为买入信号。",
+          "handles": [],
+          "source": "",
           "highlight": false
         }
       ]

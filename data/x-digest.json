@@ -2782,6 +2782,162 @@
           ]
         }
       ]
+    },
+    "2026-11-10": {
+      "date": "2026-11-10",
+      "topics": [
+        {
+          "title": "美股 / 英伟达",
+          "items": [
+            {
+              "text": "周一美股大涨:道指涨1104点(+2.15%),标普+2.35%,纳指+2.74%,纳指100约+3.4%;英伟达逆势收跌4.27%(另有人称约-4%、市值蒸发约1800亿美元),费城半导体指数约+6.9%,AMD约+13%、博通约+9%。",
+              "handles": [
+                "CausMoney",
+                "ces921",
+                "MikeZaccardi",
+                "jsblokland"
+              ],
+              "highlight": true
+            },
+            {
+              "text": "埃里安:纳指上涨而英伟达下跌(其盘中所见为纳指+2.4%、英伟达-5.8%)显示板块逢低买盘,并乐观认为其问题仍可控。秦巴:市场只对黄仁勋风波及可能调查做最悲观计价,对数据中心停建/AI禁令等政策风险影响有限。",
+              "handles": [
+                "elerianm",
+                "qinbafrank"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "英伟达及黄仁勋被提起股东集体诉讼,指控隐瞒其与一名被美方指认为中国情报人员的女子的关系;中方否认情报部门介入,称为\"毫无根据的臆测和诋毁\";相关间谍指控仍未证实。特朗普称已与黄通话、相信其事先不知情,并称FBI在调查。",
+              "handles": [
+                "KobeissiLetter",
+                "CausMoney"
+              ],
+              "highlight": true,
+              "unverified": true
+            },
+            {
+              "text": "波动率被压缩:VIX自约25.6回落至约20,当日跌超20%;其称近90%的标普1500成分股收涨。",
+              "handles": [
+                "ces921",
+                "KobeissiLetter",
+                "MikeZaccardi"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "ces921:两年期实际利率上行12个基点至2.38%(此轮高点),油价约跌4%而市场仍定价更多紧缩;股市挤向周二CPI,几乎未计入偏热读数;其称12月加息概率约80%。",
+              "handles": [
+                "ces921"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "OddStats:标普500自1957年成指数以来,首次在单日至少-4%之后连续两个交易日全程运行于前收之上;纳指100ETF在-6%日后两日内录得约+3%且年内仍收正,为史上第三次(前两次随后表现不佳)。其称此类波动更像熊市特征。",
+              "handles": [
+                "OddStats"
+              ],
+              "highlight": false,
+              "unverified": true
+            },
+            {
+              "text": "花旗将美股、全球及欧洲科技股从超配下调至中性;美国银行警告,若2027年AI资本开支较预期低20%,AI芯片企业每股收益可能低35%–40%,并对标普盈利构成约7%–8%拖累。",
+              "handles": [
+                "CausMoney",
+                "MikeZaccardi"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "科比西汇总:谷歌、Meta、Anthropic、微软、亚马逊、甲骨文与英伟达合计披露约4.49万亿美元表外承诺(谷歌约1.08万亿、Anthropic约8650亿、Meta约8100亿),约为表内债务与租赁的近6倍,七家总义务约5.25万亿。",
+              "handles": [
+                "KobeissiLetter"
+              ],
+              "highlight": false,
+              "unverified": true
+            }
+          ]
+        },
+        {
+          "title": "宏观 / 通胀 / 油价",
+          "items": [
+            {
+              "text": "经济学家预计10月核心CPI环比约+0.22%(区间可四舍五入至0.1%或0.3%);因2025年10月政府停摆,没有干净的同比基数。高盛预计核心CPI环比+0.16%、对应核心PCE约+0.23%。联储论文:疫情后油价向核心通胀传导增强;若无疫情后动态,核心通胀峰值仅约2.2%,加入更强持续性则平台约2.5%。",
+              "handles": [
+                "NickTimiraos",
+                "MikeZaccardi"
+              ],
+              "highlight": true
+            },
+            {
+              "text": "纽约联储10月调查:一年通胀预期3.9%、三年3.3%、五年3.0%(官方称各期限持平);未来一年失业预期升至45.3%,为疫情以来最高。",
+              "handles": [
+                "LizAnnSonders",
+                "CausMoney"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "原油走弱,WTI跌破每桶90美元、日内约跌4%;RenMac称WTI仅-1.2个标准差,却推动27项股票及相关风险指标超过2个标准差(标普2.8、等权3.0)。",
+              "handles": [
+                "KobeissiLetter",
+                "ces921",
+                "RenMacLLC",
+                "MikeZaccardi"
+              ],
+              "highlight": true
+            },
+            {
+              "text": "中国10月PPI同比+5.7%,逾四年最高、高于预期,PPI与CPI缺口继续扩大。",
+              "handles": [
+                "elerianm"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "日本财务省公布,第三季度为支撑日元共干预15.39万亿日元(近1000亿美元)。",
+              "handles": [
+                "elerianm"
+              ],
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "title": "海外 / 公司 / 信用",
+          "items": [
+            {
+              "text": "台湾10月出口967.6亿美元、同比+58.9%,连续第三个月创新高、连续第36个月同比增长;德国9月出口环比+2.0%、进口+4.2%,贸易顺差由179亿欧元收窄至156亿。",
+              "handles": [
+                "CausMoney"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "中国将对美部分反制措施(关税、稀土出口管制、关联船舶港口费等)再暂停两个月,休战延至2027年1月;被视为\"国家队\"重点交易的9只股票ETF上周净流入超1560亿元,创单周纪录。",
+              "handles": [
+                "CausMoney"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "伯克希尔三季度回购约96亿美元股票;营业利润127.05亿美元、同比约下降6%。",
+              "handles": [
+                "CausMoney"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "美国今年迄今221家卡车运输公司申请破产,为23年来最快年度节奏;圣安东尼奥一办公物业CMBS贷款5770万美元经拍卖后亏损5381万美元,损失率约93%。",
+              "handles": [
+                "KobeissiLetter",
+                "DiMartinoBooth"
+              ],
+              "highlight": false
+            }
+          ]
+        }
+      ]
     }
   }
 }

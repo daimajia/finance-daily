@@ -2120,6 +2120,94 @@
           "items": []
         }
       ]
+    },
+    "2026-11-09": {
+      "date": "2026-11-09",
+      "sessions": [
+        {
+          "name": "盘前",
+          "sources": [],
+          "items": []
+        },
+        {
+          "name": "盘后",
+          "sources": [],
+          "items": [
+            {
+              "ticker": "TTD",
+              "eps": "0.33 vs 0.25预期",
+              "revenue": "7.36亿 vs 6.51亿预期",
+              "notes": "Q4营收指引至少7.55亿(远超6.92亿预期),调整后EBITDA指引至少2.80亿",
+              "move": "+20%",
+              "dir": "up",
+              "highlight": true
+            },
+            {
+              "ticker": "TTWO",
+              "eps": "-0.29(GAAP)",
+              "revenue": "15.0亿GAAP/16.0亿净预订额(同比-18%)",
+              "notes": "本季净预订指引33.5–35.0亿(略低于35.1亿预期),全年维持80–82亿,《GTA VI》11/19发售",
+              "move": "+3%",
+              "dir": "up",
+              "highlight": false
+            },
+            {
+              "ticker": "SKYD",
+              "eps": "0.45 vs预期",
+              "revenue": "70.3亿(略低于预期1000万)",
+              "notes": "派拉蒙+华纳合并后首报(不含10月完成的华纳兄弟),三年目标60亿协同,Q4华纳片单偏弱",
+              "move": "-2%至-3%",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "OXY",
+              "eps": "1.91 vs 1.46预期",
+              "revenue": "67.7亿(略低于68.2亿预期)",
+              "notes": "全球产量142.7万桶油当量/日,本季再降债18亿至本金债务100亿",
+              "move": "持平至+1%",
+              "dir": "flat",
+              "highlight": false
+            },
+            {
+              "ticker": "RKLB",
+              "eps": "-0.12 vs -0.07预期",
+              "revenue": "2.68亿 vs 2.57亿预期",
+              "notes": "Q4营收指引2.70–2.90亿中值高于预期,但Neutron研发拖累,调整后EBITDA指引亏损1400–2000万",
+              "move": "-3%至-5%",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "HIMS",
+              "eps": "-0.14 vs 0.06预期",
+              "revenue": "8.90亿(略低于8.93亿预期)",
+              "notes": "Q4营收指引8.75–8.95亿(明显低于9.55亿预期),全年目标下调至31.3–31.5亿",
+              "move": "-3%",
+              "dir": "down",
+              "highlight": false
+            },
+            {
+              "ticker": "SANM",
+              "eps": "4.43 vs 3.27预期",
+              "revenue": "38.6亿 vs 34.8亿预期",
+              "notes": "2027财年Q1及全年指引全面高于预期,全年营收175–195亿、EPS 15.50–17.50",
+              "move": "+20%",
+              "dir": "up",
+              "highlight": true
+            },
+            {
+              "ticker": "LCID",
+              "eps": "-2.74 vs -2.28预期",
+              "revenue": "3.50亿(低于4.07亿预期)",
+              "notes": "",
+              "move": "-3%+",
+              "dir": "down",
+              "highlight": false
+            }
+          ]
+        }
+      ]
     }
   }
 }

@@ -2938,6 +2938,150 @@
           ]
         }
       ]
+    },
+    "2026-11-11": {
+      "date": "2026-11-11",
+      "topics": [
+        {
+          "title": "通胀 / 联储",
+          "items": [
+            {
+              "text": "美国10月CPI环比+0.4%(预期+0.3%,前值+0.6%),核心CPI+0.3%(预期+0.2%,未四舍五入为0.296%),连续第三个月核心环比约0.3%,三个月年化约3.75%;因2025年10月政府停摆,官方不公布同比。食品+0.5%,能源+0.7%,汽油+1%,二手车-1.2%,住房+0.3%。高盛据此估计10月核心PCE约+0.35%。",
+              "handles": [
+                "NickTimiraos",
+                "LizAnnSonders",
+                "elerianm",
+                "KobeissiLetter",
+                "CausMoney",
+                "jsblokland",
+                "MikeZaccardi"
+              ],
+              "highlight": true
+            },
+            {
+              "text": "沃勒:即使10月通胀改善,仍倾向支持12月加息25个基点;若核心CPI约0.3%或更高,应考虑一次加息50个基点。数据公布后,市场几乎完全定价12月至少加息25个基点,加息50个基点的概率约11%-12%。埃里安、秦巴认为最终更可能是25个基点。",
+              "handles": [
+                "NickTimiraos",
+                "charliebilello",
+                "LizAnnSonders",
+                "KobeissiLetter",
+                "ces921",
+                "jsblokland",
+                "elerianm",
+                "qinbafrank",
+                "MikeZaccardi"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "达拉斯联储洛根为今冬加快加息打开大门(有转述称至少还需两次25个基点、节奏或快于隔次会议);副席鲍曼更谨慎,称进一步收紧须权衡对利率敏感部门的成本,并提示AI相关融资风险。",
+              "handles": [
+                "NickTimiraos",
+                "RenMacLLC",
+                "elerianm",
+                "ces921",
+                "MikeZaccardi"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "两年期美债收益率约升18.9个基点至4.74%,为2025年4月9日以来最大单日涨幅;10年期盘中一度升破5%,收于约4.98%。ces921称两年期实际利率升至约2.51%-2.52%、此轮高点,但5年/5年远期通胀互换回落2个基点。",
+              "handles": [
+                "NickTimiraos",
+                "elerianm",
+                "RenMacLLC",
+                "ces921",
+                "MikeZaccardi",
+                "KobeissiLetter",
+                "CausMoney"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "9月美国消费信贷增加278亿美元(循环信贷+163亿、非循环+115亿),余额约5.22万亿美元(官方G.19,非有人所称的+290亿/5.19万亿)。纽约联储:未来三个月可能无法偿还最低还款额的比例升至13.8%;密歇根大学:因物价感觉生活水平下降的比例升至57%。NFIB小企业乐观指数10月降至97.8;计划提价的企业占比37%,为2022年以来最高。",
+              "handles": [
+                "LizAnnSonders",
+                "RenMacLLC"
+              ],
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "title": "美股 / 英伟达 / 利率",
+          "items": [
+            {
+              "text": "周二美股收跌:标普500跌0.38%至7520.93,道指跌157.86点(-0.30%)至52231.89,纳指跌0.74%至25065.87。英伟达收跌约5.5%至168.89美元、市值约4.07万亿美元(盘中跌幅更深,有人看到约-7%);自10月6日高点以来回撤约25%、市值约蒸发1.5万亿美元,苹果已重夺全球市值第一。",
+              "handles": [
+                "CausMoney",
+                "MikeZaccardi",
+                "charliebilello",
+                "lisaabramowicz1",
+                "KobeissiLetter"
+              ],
+              "highlight": true
+            },
+            {
+              "text": "利率大动而股市相对平静:VIX收于约19.5,等权指数抗跌好于市值加权。ces921称自周五以来两年期收益率已升约22个基点,但标普两日仍上涨、信用利差未同步走阔,认为缺口最终或由股市和信用向利率靠拢。OddStats指出,近期QQQ急涨后低开、以及标普大跌后三日均运行于该日区间内等形态,历史上多出现在熊市阶段(其历史统计)。",
+              "handles": [
+                "ces921",
+                "MikeZaccardi",
+                "OddStats"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "《The Information》报道称,黄仁勋与一名被指为中国间谍的女子的关系至少促成75亿美元芯片出货(指控未证实)。舒默批评特朗普为其辩护是\"未能应对外国间谍活动\";新加坡内政部否认《华尔街日报》有关新加坡官员曾怀疑相关人士的报道。",
+              "handles": [
+                "KobeissiLetter",
+                "CausMoney",
+                "charliebilello"
+              ],
+              "highlight": false,
+              "unverified": true
+            }
+          ]
+        },
+        {
+          "title": "中国贸易 / 公司 / 大宗",
+          "items": [
+            {
+              "text": "中国10月出口同比+35.2%(预期+33.5%),进口+41.6%,当月顺差约1053亿美元;前10个月顺差达1.04万亿美元,有望超过2025年全年1.2万亿美元的纪录。(注:有博主将当月顺差误写为1.05亿美元。)",
+              "handles": [
+                "CausMoney",
+                "elerianm"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "Anthropic更新招股书,发行价区间每股70-78美元;按已发行股本计估值约9170亿-1.02万亿美元,完全稀释口径有约1.3万亿-1.4万亿美元的说法。埃里安援引公司披露:截至9月的前九个月收入332亿美元(约+1200%),10月底年化经常性收入810亿美元。",
+              "handles": [
+                "qinbafrank",
+                "CausMoney",
+                "elerianm",
+                "MikeZaccardi"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "台积电10月营收5868.9亿新台币,同比+59.7%、环比+14.7%,创单月纪录。原油仍处近两个月低位,WTI收于约86.5美元附近;AAA美国常规汽油均价已跌破每加仑4美元(一个月前约4.37美元)。",
+              "handles": [
+                "CausMoney",
+                "MikeZaccardi",
+                "elerianm"
+              ],
+              "highlight": false
+            },
+            {
+              "text": "美国成屋售价10月同比下跌0.4%,为2023年以来首次同比下降。",
+              "handles": [
+                "charliebilello"
+              ],
+              "highlight": false
+            }
+          ]
+        }
+      ]
     }
   }
 }

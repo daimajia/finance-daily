@@ -1446,87 +1446,63 @@
       "date": "2026-11-10",
       "items": [
         {
-          "text": "过去12小时(北京时间11月9日20:00至11月10日08:08),特朗普会晤卡塔尔首相后表示,目前看来不必进一步对伊动武,但将继续封锁并保留打击能力。卡方称会谈积极,伊朗高层却否认存在美方所说的谈判,并坚持七项条件。油价明显下跌,尚无双方共同确认的协议。",
+          "text": "油价继续下跌,布伦特盘中跌破90美元。行情时间:11月10日欧洲早盘至北京时间18:33。路透记录,截至北京时间17:30,布伦特报90.18美元/桶,跌2.58%;WTI报84.74美元,跌2.43%。《卫报》记录布伦特盘中低点约89.66美元,为8月下旬以来低位。CNBC于18:33所列报价为布伦特90.14美元、WTI 84.78美元。媒体将跌势与特朗普前一日降低进一步动武的调门联系起来。以上是不同时点的盘中价,不是结算价,也不意味着战争已经结束。",
           "handles": [],
-          "source": "",
+          "source": "https://www.investing.com/news/commodities-news/oil-falls-as-trump-downplays-prospect-of-escalation-with-iran-5013892",
           "highlight": true
         },
         {
-          "text": "众议员马西提出针对赫格塞思的弹劾条款。报道时间:11月10日07:14(北京时间,路透)。指控包括未经国会授权对伊朗开战等。提出弹劾条款不等于众议院已通过弹劾,更不等于已被定罪或免职。",
+          "text": "卡塔尔首相转赴巴黎,向欧洲及沙特外长通报斡旋。发生时间:11月10日巴黎白天。法新社报道时间:17:41(北京时间)。卡塔尔首相兼外交大臣穆罕默德在会晤特朗普后,于七国集团外长会议期间,与英国、法国、德国、意大利外长及沙特外长费萨尔讨论伊朗局势及其安全、经济影响。法国外长巴罗召集讨论;路透引述法国外交部称,这是一次计划外停留。欧洲外长据报也向鲁比奥强调避免升级、恢复霍尔木兹通航。目前公布的是外交接触,未有最终协议或执行时间表。",
           "handles": [],
-          "source": "https://x.com/Reuters/status/2119931694979727446",
+          "source": "https://www.france24.com/en/live-news/20261110-qatar-pm-joins-g7-talks-on-iran-after-trump-meeting-paris",
           "highlight": false
         },
         {
-          "text": "特朗普称进一步军事行动目前「不太必要」,但美军随时可动。表态时间:11月10日约06:00–06:30(北京时间,白宫记者会)。特朗普称,对伊冲突在军事上「实质上已结束」,目前选择维持现状;同时强调美军仍随时就绪。他表示有机会达成协议,并声称伊方已经接受不能拥有核武器。后一点未获伊方共同确认,不能写成双方已达成核协议。",
+          "text": "伊朗外长坚持「两日计划」,否认已安排万斯与雷扎伊会晤。发生时间:11月10日。塔斯尼姆报道时间:17:21(北京时间)。阿拉格齐对伊通社表示,战争不会通过军事手段或加强制裁结束,出路是外交并回应伊方条件。他重申,美方结束各战线战事、解冻资产、取消石油制裁及解除港口封锁后,伊朗可在两日内重开霍尔木兹。他同时称,雷扎伊将与万斯会面的报道「完全没有根据」,没有这样的安排。「两日计划」仍是伊方提案,不是双方已同意执行的方案。",
           "handles": [],
-          "source": "https://apnews.com/article/iran-us-war-trump-qatar-c38770b168faf5e094e96c1e1e212cff",
+          "source": "https://www.tasnimnews.ir/en/news/2026/11/10/3745119/araqchi-us-must-abandon-pressure",
+          "highlight": true
+        }
+      ]
+    },
+    "2026-11-11": {
+      "date": "2026-11-11",
+      "items": [
+        {
+          "text": "美国司法部追加起诉三人,指控涉及针对驻英美军基地的阴谋。报道时间:11月11日05:59(北京时间,CBS)。司法部公布八项追加起诉,指控三人为革命卫队及卡塔伊布真主党提供支持,涉及近20起欧洲、美国的袭击或未遂袭击,包括9月针对英国费尔福德皇家空军基地的阴谋。一名被告已在纽约羁押,另两人据报未在押。这些是检方指控,不是法院认定;被告在依法定罪前推定无罪。",
+          "handles": [],
+          "source": "https://www.justice.gov/opa/pr/three-iranian-backed-operatives-indicted-their-roles-nearly-20-terrorist-attacks-and",
+          "highlight": false
+        },
+        {
+          "text": "伊方通报南帕斯气田平台火灾受控,原因仍在调查。发生日期:11月10日,精确钟点未公布。路透转载报道时间:11月11日04:28(北京时间)。法尔斯援引伊朗石油部副部长称,南帕斯第14期SPD14D平台起火后,人员全部撤离,火势已控制,暂无伤亡报告。可能涉及气体泄漏或操作事故,但原因尚未确定,不能将其认定为袭击。",
+          "handles": [],
+          "source": "https://www.straitstimes.com/world/middle-east/fire-contained-at-irans-south-pars-gas-platform-fars-says",
+          "highlight": false
+        },
+        {
+          "text": "布伦特收报91.49美元,创8月31日以来最低收盘价。结算时间:11月11日03:30(北京时间)。布伦特下跌1.08美元、约1.2%,至91.49美元/桶;WTI下跌0.81美元、约0.9%,至86.04美元/桶。布伦特盘中一度触及89.16美元。媒体将下跌与美方淡化进一步大规模动武的必要性联系起来;伊方否认谈判的表态一度推动价格从更深跌幅回升。",
+          "handles": [],
+          "source": "https://www.investing.com/news/commodities-news/oil-falls-as-trump-downplays-prospect-of-escalation-with-iran-5013892",
           "highlight": true
         },
         {
-          "text": "伊朗高层否认美方所称谈判,坚持七项条件。发帖/报道时间:11月10日约06:16(北京时间)。最高国家安全委员会秘书雷扎伊斥美方捏造不存在的谈判消息,要求美国接受伊方反复提出的七项条件。其说法与特朗普的乐观描述形成明显反差,显示双方对接触性质及进展仍有分歧。",
+          "text": "礼萨伊称当前没有美伊谈判,否认赴卡塔尔会见万斯。报道时间:11月11日00:39-00:59(北京时间)。伊朗最高国家安全委员会秘书礼萨伊接受Al-Mayadeen采访时称,美方尚未对伊方七项条件作出明确答复,当前没有谈判,也没有与万斯会面的安排。他重申,条件落实前霍尔木兹将继续关闭。这与卡方关于斡旋有进展的说法不同,但不必然排除调解方仍在传递信息。",
           "handles": [],
-          "source": "https://www.iranintl.com/en/liveblog/202611077068",
+          "source": "https://www.investing.com/news/commodities-news/irans-top-security-official-says-no-talks-underway-with-us-5016341",
           "highlight": true
         },
         {
-          "text": "卡塔尔首相称与特朗普、万斯会谈「积极」。声明报道时间:11月10日约06:00(北京时间)。卡塔尔首相兼外交大臣穆罕默德称,会谈涉及推进美伊谈判、达成协议与地区和平。这是对会谈气氛和目标的表述,未公布最终协议或落实时间表。",
+          "text": "卡塔尔称斡旋有进展,但无法判断协议远近。报道时间:11月10日21:31(北京时间,Euronews)。卡塔尔外交部称,近期斡旋明显加速,双方对外交解决释放积极信号,但无法说协议有多近或多远,并呼吁尽快恢复霍尔木兹通航。卡方再次确认此前与特朗普、万斯会谈气氛积极;会谈本身不是本轮新事件。",
           "handles": [],
-          "source": "https://x.com/AJEnglish/status/2119921795709149687",
+          "source": "https://mofa.gov.qa/en/qatar/latest-articles/latest-news/details/2026/11/10/foreign-ministry--qatari-mediation-efforts-continue-to-bridge-views-between-washington--tehran",
           "highlight": false
         },
         {
-          "text": "特朗普称继续封锁及「铁门」行动,同时看到结束冲突的积极势头。报道时间:11月10日约05:49(北京时间)。特朗普在会后发文,称海湾多国更倾向维持现状,美方继续海上封锁与「铁门」行动;若局势变化仍准备采取行动。他对各国立场的概括属于美方说法,不等于相关国家逐一公开确认。",
+          "text": "加拿大重新制裁11个伊朗实体。报道时间:11月10日21:09(北京时间,CBC)。加拿大外长阿南德宣布,将11个曾于2016年解除制裁的伊朗实体重新列入名单,涉及核、导弹及融资网络,包括伊朗国家石油公司、国家油轮船公司及部分银行。这是加方公布的制裁措施;所述涉核、导弹活动属于其制裁理由。",
           "handles": [],
-          "source": "https://www.news.cn/world/20261110/5317e9a2c96a4fc8851a6dc9860fe8ad/c.html",
+          "source": "https://www.canada.ca/en/global-affairs/news/2026/11/minister-anand-announces-reimposition-of-sanctions-against-iranian-entities.html",
           "highlight": false
-        },
-        {
-          "text": "油价大跌,布伦特结算约92.57美元/桶。行情时间:11月9日纽约交易日结算及盘后,约北京时间11月10日凌晨;04:34前后有盘后更新。路透报道,布伦特结算跌约5.85%至92.57美元/桶,WTI结算跌约4.4%;随后盘后继续下行。市场将跌势与暂不升级打击、外交预期改善联系起来。盘后跌幅与结算跌幅属于不同时点,不能混用。",
-          "handles": [],
-          "source": "https://finance.yahoo.com/news/oil-falls-open-trump-says-235002807.html",
-          "highlight": true
-        },
-        {
-          "text": "特朗普对路透称,卡塔尔和沙特希望和平解决,但美方保留打击选项。报道时间:11月10日约04:30(北京时间)。他在会后简短电话采访中表示,不急于再次动手,对封锁现状满意,但必要时随时可以恢复打击。",
-          "handles": [],
-          "source": "https://www.al-monitor.com/originals/2026/11/trump-tells-reuters-qatar-saudi-arabia-want-peaceful-iran-deal-us-ready-strikes",
-          "highlight": false
-        },
-        {
-          "text": "Axios称特朗普愿给谈判机会,但可能改变路线。转述时间:11月10日约07:50(北京时间)。匿名外交官称,特朗普向卡塔尔首相表示愿让外交先行,但若伊方不认真接触,可能调整决定。尚无第二家独立媒体确认会谈中的同一具体措辞。",
-          "handles": [],
-          "source": "https://www.iranintl.com/en/liveblog/202611077068",
-          "highlight": false,
-          "unverified": true
-        },
-        {
-          "text": "《金融时报》称内塔尼亚胡「每天」致电,敦促恢复攻势。转述时间:11月10日约07:00(北京时间)。报道同时称海湾领导人劝特朗普避免升级。有关通话频率及私下要求主要来自FT匿名消息路径,未见独立交叉核实。",
-          "handles": [],
-          "source": "https://www.timesofisrael.com/liveblog-november-10-2026/",
-          "highlight": false,
-          "unverified": true
-        },
-        {
-          "text": "美军据报本月将增派海军陆战队等兵力。报道日期:11月10日,精确钟点未提供。半岛电视台援引一名美国官员,称相关部队预计抵达地区。尚无五角大楼公开声明或其他通讯社独立确认具体部署;即使增兵属实,也不等于已下令进攻。",
-          "handles": [],
-          "source": "https://www.aljazeera.net/news/liveblog/2026/11/10/%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%aa%d9%82%d8%af%d9%85-%d8%ac%d9%8a%d8%af-%d8%a8%d8%a7%d9%84%d9%85%d8%ad%d8%a7%d8%af%d8%ab%d8%a7%d8%aa",
-          "highlight": false,
-          "unverified": true
-        },
-        {
-          "text": "「解冻80亿美元换重开霍尔木兹」仍未获证实。报道日期:11月9日,精确钟点未提供。交易细节来自匿名信源;法尔斯又援引未具名官员否认。匿名否认也不能替代双方正式公布的协议文本,目前不宜认定交易已谈成或已确定被否决。",
-          "handles": [],
-          "source": "https://www.aa.com.tr/en/russia-ukraine-war/iran-denies-talks-on-reopening-strait-of-hormuz-in-exchange-for-8b-in-frozen-assets/4117939",
-          "highlight": false,
-          "unverified": true
-        },
-        {
-          "text": "社交平台称「战争已结束、海峡已平静」。传播时间:本窗口内,首发钟点不明。这是对特朗普措辞的过度引申:封锁仍在继续,军事选项未撤回,双方也未共同宣布停战协议或全面恢复通航。",
-          "handles": [],
-          "source": "",
-          "highlight": false,
-          "unverified": true
         }
       ]
     }
